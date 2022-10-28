@@ -1,0 +1,488 @@
+.h1-col {
+    padding-left: 0;
+    padding-right: 3px;
+  }
+  h1.h4 {
+    margin: 24px auto 60px;
+  }
+  h1 span {
+    font-size: 14px;
+  } /* view plans */
+  .view-plans {
+    background-size: cover;
+    padding-bottom: 50px;
+  } /*featured */
+  .genie .featured {
+      margin-top: 15px;
+      margin-bottom: 15px;
+  }
+  .featured {
+    margin-top: -17px;
+    z-index: 1;
+    position: relative;
+  }
+  .jadetanner .featured {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    z-index: 1;
+    position: relative;
+  }
+  .featured .leaf-icon {
+    width: 12px;
+    height: 14px;
+    margin-bottom: 3px;
+  }
+  .featured .label {
+    font-size: 16px;
+    padding: 9px 30px 4px 30px;
+    margin: 0;
+  }
+
+  .genie blockquote, .genie p, a.genie-link {
+  }
+
+  /* dean trans */
+  .dean-img {
+    background: url(../../images/success-stories/dean-ba-mob.jpg) no-repeat 100% 0;
+    background-size: cover;
+    height: 330px;
+    position: relative;
+    margin-top: -15px;
+  }
+
+  .deans-trans .bg-white {
+    margin-top: -16px;
+  }
+
+  .deans-trans h3 {
+    font-size: 25px;
+  }
+  .deans-trans blockquote {
+    font-size: 1.875em;
+    padding: 20px 0 0 0px;
+  }
+  /* marie trans */
+  .marie-img {
+      background: url(../../images/success-stories/marie-o-mob.jpg) no-repeat 0 0;
+      background-size: cover;
+      height: 330px;
+      position: relative;
+      margin-top: -15px;
+    }
+  .marie-trans h3 {
+    font-size: 1.125em;
+  }
+  .marie-trans blockquote {
+    font-size: 1.875em;
+    padding: 20px 0 0 0px;
+  }
+  .people-menshealth-img {
+    width: 330px;
+    height: 97px;
+    border-bottom: 1px solid #64a535;
+    padding-bottom: 15px;
+  }
+  .deans-trans p {
+    margin-bottom: 30px;
+  }
+  .dean-tran-link {
+    position: absolute;
+    top: 250px;
+    left: 0;
+    background: #fff;
+    padding: 12px 15px;
+  }
+  .marie-trans p {
+    margin-bottom: 30px;
+  }
+  .marie-tran-link {
+    position: absolute;
+    top: 265px;
+    left: 0;
+    background: #fff;
+    padding: 12px 15px;
+  }
+
+  .jadetanner {
+      margin-bottom: 50px;
+  }
+
+  /* circle images */
+  .circle-imgs {
+    padding: 40px 15px;
+  }
+  .krissy-img {
+    margin-top: 40px;
+  }
+  .jadetanner-img {
+      margin-top: 40px;
+    }
+  .circle-imgs blockquote {
+    padding: 30px 0 0 10px;
+  }
+  blockquote p.text-gray-darker {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+  blockquote p.cite {
+    font-size: 22px;
+  } /* square images */
+  .square-imgs p {
+    margin: 16px auto 12px;
+  }
+  .square-imgs a {
+    margin: 0px auto 30px;
+  } /* share story */
+  .share-story h2 {
+    margin: 12px auto 18px;
+  } /* mbg */
+  .mbg-sect {
+    margin-bottom: 20px;
+  }
+  .mbg-sect .mbg-logo {
+    width: 62px;
+    height: 59px;
+    display: inline-block;
+  }
+  .mbg-sect p {
+    font-weight: 700;
+    display: inline-block;
+    font-size: 1em;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+  .highlight .pull-right img {
+    margin: 0 auto;
+    height: 450px;
+  }
+  footer {
+    margin-top: 0px;
+  }
+  .bg-mint2 {
+    background-color: #fff;
+  }
+  @media (max-width: 767px) {
+    .mbg-sect.border-top.border-bottom {
+      border-top: none;
+      border-bottom: none;
+    }
+    .hero {
+      background: url(../../images/success-stories/Michelle-Hero-Image-MOB.jpg)
+        no-repeat 0 0;
+      background-size: cover;
+    }
+  }
+  @media (max-width: 320px) {
+    .hero {
+      background-position: 30% 0;
+    }
+    .people-menshealth-img {
+      width: 285px;
+    }
+    .h1-col {
+      padding-right: 5px;
+    }
+    .dean-img {
+      height: 290px;
+    }
+    .dean-tran-link {
+      top: 229px;
+    }
+    .marie-img {
+      height: 290px;
+    }
+    .marie-tran-link {
+      top: 229px;
+    }
+  }
+  @media (max-width: 360px) {
+    .hero {
+      background-position: 30% 0;
+    }
+  }
+  @media (min-width: 768px) {
+    .hero {
+      background: url(../../images/success-stories/Michelle-Hero-Image-dt.jpg)
+        no-repeat 58% 0;
+      background-size: cover;
+      max-height: 402px;
+      height: 402px;
+    }
+    .h1-col {
+      padding-right: 15px;
+    }
+    h1.h4 span.real-success-txt {
+      display: block;
+      font-size: 18px;
+      margin-bottom: 24px;
+    }
+    h1.h4 {
+      font-size: 36px;
+      margin: 70px 0 35px 30px;
+    }
+    h1.h4 span {
+      font-size: 22px;
+    }
+    .hero a {
+      margin-left: 30px;
+    }
+    /* view plans */
+    .view-plans h2 {
+      font-size: 1.625em;
+      margin: 40px auto 16px;
+    }
+    .view-plans {
+      padding-bottom: 50px;
+    }
+
+
+    /* featured */
+    .featured {
+      margin-top: -24px;
+    }
+    .jadetanner .featured {
+      margin-top: -24px;
+      margin-left: -15px;
+    }
+    /* dean trans */
+    .dean-img {
+      background: url(../../images/success-stories/dean-ba-dt.jpg) no-repeat 100% 0;
+      background-size: cover;
+      height: 342px;
+      margin-top: -16px;
+    }
+    /* marie trans */
+    .marie-img {
+      background: url(../../images/success-stories/marie-o-dt.jpg) no-repeat 100% 0;
+      background-size: cover;
+      height: 342px;
+      margin-top: -16px;
+    }
+
+    .people-menshealth-img {
+      width: 330px;
+      height: 97px;
+    } /* circle images */
+    .circle-imgs {
+      padding: 65px 15px;
+    }
+    .circle-imgs blockquote {
+      margin: 0 0 12px;
+      padding: 0 0 10px 0;
+    }
+    .jadetanner blockquote {
+      margin-top: 40px;
+    }
+    .melissa-img,
+    .krissy-img,
+    .genie-img,
+    .jadetanner-img {
+      margin-top: 20px;
+    }
+    a.melissa-link {
+      margin-bottom: 50px;
+    }
+    .melissa-txt-col {
+      text-align: right;
+    }
+    .melissa-txt-col blockquote .hang-quote {
+      left: 12px;
+    }
+
+    a.genie-link {
+      margin-bottom: 50px;
+    }
+    .genie-txt-col {
+      text-align: left;
+    }
+    .genie-txt-col blockquote .hang-quote {
+      left: 12px;
+    }
+
+    .genie .featured {
+        margin-top: 6px;
+        z-index: 100;
+        left: -44px;
+        float: right;
+    }
+    .genie .text-gray-darker {
+      margin-top: 70px;
+    }
+
+    .square-imgs a {
+      margin: 0px auto 50px;
+    } /* closer */
+    .closer {
+      margin-top: 50px;
+    }
+    .closer .btn {
+      margin: 57px 0 0 15px;
+    } /* mng */
+    .mbg-sect {
+      margin: 36px 0;
+      padding: 24px 0;
+    }
+    .highlight .pull-right img {
+      margin-left: 30px;
+      height: 500px;
+  }
+  }
+  @media (max-width: 991px) {
+    .deans-trans p {
+      margin: 0 20px 9px;
+  }
+  /* .deans-trans .bg-white {
+    padding: 0 50px;
+  } */
+  }
+  @media (min-width: 992px) {
+    .bg-mint2 {
+      background-color: #eff6e4;
+  }
+    .view-plans {
+      padding-bottom: 75px;
+    }
+    .deans-trans {
+      background-color: #eff6e4;
+      padding-bottom: 50px;
+    }
+    .featured {
+      padding-left: 0;
+    }
+    .jadetanner .featured {
+      margin-top: -24px;
+      margin-left: 0px;
+    }
+
+    .genie .featured {
+      padding-left: 0;
+      left: -15px;
+      float: right;
+    }
+    .feature-box .content {
+      padding: 10px 0 0;
+    }
+    /* .deans-trans .bg-white {
+      padding: 10px 20px 32px;
+      margin-top: -16px;
+      background-color: #fff;
+    } */
+    .deans-trans .bg-white { padding: 10px 0 31px; margin-top: -16px; }
+    .dean-tran-link.btn-link:focus,
+    .dean-tran-link.btn-link:hover {
+      color: #2a6496;
+      text-decoration: none;
+      background-color: #fff;
+      box-shadow: 2px 3px 3px -2px rgba(0, 0, 0, 0.3);
+    }
+    .dean-img {
+      height: 405px;
+    }
+    .dean-trans h3 {
+      margin-top: 36px;
+    }
+    p.dean-story-txt {
+      padding: 0 20px 0 38px;
+    }
+    .deans-trans blockquote {
+      padding: 20px 0 0 30px;
+    }
+    .dean-tran-link {
+      top: 337px;
+      left: -10px;
+    }
+
+    .marie-section-color {
+      background-color: #eff6e4;
+      padding: 70px 0 50px;
+    }
+    .marie-trans .text-gray-darker {
+      padding: 20px 20px 0 0;
+    }
+    .marie-featured {
+      margin-top: -40px;
+    }
+    .marie-trans .bg-white {
+      padding: 10px 0 85px;
+      margin-top: -16px;
+    }
+    .marie-tran-link.btn-link:focus,
+    .marie-tran-link.btn-link:hover {
+      color: #2a6496;
+      text-decoration: none;
+      background-color: #fff;
+      box-shadow: 2px 3px 3px -2px rgba(0, 0, 0, 0.3);
+    }
+    .marie-img {
+      height: 405px;
+    }
+    .marie-trans h3 {
+      margin-top: 36px;
+    }
+    p.marie-story-txt {
+      padding: 0 50px 0 38px;
+    }
+    .marie-trans h3 {
+      padding-left: 38px;
+    }
+    .marie-trans blockquote {
+      padding: 20px 0 0 30px;
+    }
+    .marie-tran-link {
+      top: 337px;
+      left: -10px;
+    }
+
+    .people-menshealth-img {
+      width: 330px;
+      height: 97px;
+      border-bottom: none;
+    }
+    .melissa-img {
+      margin-top: 0;
+    }
+    .melissa-txt-col blockquote .hang-quote {
+      left: 43px;
+    }
+    .krissy-img {
+      margin-top: 36px;
+    }
+    .jadetanner-img {
+      margin-top: 36px;
+    }
+    .melissa-txt-col blockquote {
+      margin-top: 40px;
+    }
+    .krissy-txt-col blockquote {
+      margin-top: 56px;
+    }
+    .jadetanner-txt-col blockquote {
+      margin-top: 35px;
+      padding: 0px 100px 0 0;
+    }
+    .square-imgs p {
+      font-size: 0.95em;
+    }
+  }
+  @media (min-width: 1200px) {
+    .hero {
+      background-position: 50% 0;
+    }
+    h1.h4 {
+      margin: 80px 0 35px 0px;
+    }
+    .hero a {
+      margin-left: 0px;
+    }
+    .dean-tran-link {
+      left: -24px;
+    }
+
+    .marie-tran-link {
+      left: -24px;
+    }
+    .genie .featured {
+      padding-left: 0;
+      left: 20px;
+      float: right;
+  }

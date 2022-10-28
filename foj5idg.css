@@ -1,0 +1,36 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * korolev:
+ *   - http://typekit.com/eulas/00000000000000007735e8da
+ *   - http://typekit.com/eulas/00000000000000007735e8d8
+ *   - http://typekit.com/eulas/00000000000000007735e8de
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-11-17 19:48:43 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"korolev";
+src:url("af/75d7a9/00000000000000007735e8da/30/l") format("woff2"),url("af/75d7a9/00000000000000007735e8da/30/d") format("woff"),url("af/75d7a9/00000000000000007735e8da/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev";
+src:url("af/83f011/00000000000000007735e8d8/30/l") format("woff2"),url("af/83f011/00000000000000007735e8d8/30/d") format("woff"),url("af/83f011/00000000000000007735e8d8/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev";
+src:url("af/78cb8b/00000000000000007735e8de/30/l") format("woff2"),url("af/78cb8b/00000000000000007735e8de/30/d") format("woff"),url("af/78cb8b/00000000000000007735e8de/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+.tk-korolev { font-family: "korolev",sans-serif; }

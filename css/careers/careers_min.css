@@ -1,0 +1,1048 @@
+#container {
+  margin: 0 auto
+}
+.btn .glyphicon-triangle-right {
+  left: 5px
+}
+.careers-container {
+  font-family: futura-pt, Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px
+}
+strong {
+  font-weight: 700
+}
+img {
+  margin: auto
+}
+.hero {
+  background: url(../../images/careers/careers-hero-DT@2x.png) top center no-repeat;
+  background-size: cover;
+  display: block;
+  min-height: 572px;
+  width: 100%;
+  text-align: center;
+  font-family: futura-pt, Arial, Helvetica, sans-serif;
+  color: #fff
+}
+.top-cta {
+  padding-top: 20px
+}
+h1 {
+  font-weight: 400;
+  font-size: 3.5em;
+  margin-bottom: 0;
+  color: #fff
+}
+h2 {
+  font-size: 3em;
+  font-weight: 400;
+  letter-spacing: .2;
+  text-transform: none;
+  margin-top: 0;
+  color: #fff
+}
+h3 {
+  font-size: 1.4em;
+  font-weight: 400;
+  margin: 30px auto;
+  float: none;
+  color: #fff;
+  text-transform: none
+}
+.hero-content.container {
+  padding-top: 50px
+}
+.hero .cta-container {
+  margin: 90px 0 20px 0
+}
+h4 {
+  color: #4f3a81;
+  font-size: 2.3em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-top: 50px;
+  line-height: 1.6em
+}
+h5 {
+  color: #4c4c4c;
+  font-weight: 400;
+  font-size: .9em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .2
+}
+h6 {
+  color: #4c4c4c;
+  font-weight: 500;
+  font-size: 1em;
+  text-align: center;
+  letter-spacing: .2
+}
+.hero p a {
+  color: #fff;
+  text-decoration: underline;
+  font-size: inherit;
+  font-weight: inherit
+}
+#about {
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+#about .container .row {
+  margin: 0
+}
+#about .head {
+  padding: 0 10%
+}
+#about h2 {
+  font-size: 1.875em;
+  margin-bottom: 20px
+}
+#about p.h3 {
+  font-size: 1.125em;
+  padding-bottom: 20px;
+  line-height: 1.3em
+}
+#about span.h3 {
+  font-size: 1.125em;
+  line-height: 1.3em
+}
+#about .img-mob {
+  height: 200px
+}
+#about .copy {
+  padding-top: 44px
+}
+#about .item2 .img-mob {
+  height: 250px
+}
+#about .item2 .copy {
+  padding-top: 62px
+}
+#about .item3 {
+  position: relative;
+  top: -40px
+}
+#about .item3 .img-mob {
+  height: 250px
+}
+#about .next-step-txt {
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 20px
+}
+#about .item3 .copy {
+  padding-top: 95px
+}
+#about .item4 {
+  position: relative;
+  top: -74px
+}
+#about .closer h3 {
+  border: none
+}
+#about .item4 .img-mob {
+  height: 220px
+}
+#about .item4 .copy {
+  padding-top: 56px
+}
+#about .item5 {
+  position: relative;
+  top: -90px
+}
+#about .item5 .img-mob {
+  height: 220px
+}
+#about .item5 .copy {
+  padding-top: 60px
+}
+#about .approach-cta {
+  position: relative;
+  top: -50px
+}
+.makeadifference {
+  padding-top: 40px;
+  padding-bottom: 40px
+}
+.make-txt-col {
+  padding-top: 40px;
+  padding-right: 80px;
+  padding-left: 60px
+}
+.make-a-img {
+  background: url(../../images/careers/office-dt@2x.png) no-repeat top center;
+  background-size: contain;
+  height: 233px
+}
+.alicia {
+  background: url(../../images/careers/alicia-mb.png) no-repeat top center;
+  background-size: contain;
+  height: 233px
+}
+.discover {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+.benefits {
+  position: relative;
+  float: right;
+  top: 0;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 1px 12px 1px;
+  width: 150px;
+  height: 20px;
+  letter-spacing: .05em;
+  text-align: center
+}
+#our-benefits {
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+#our-benefits p.text-center {
+    font-size: 26px;
+}
+#our-benefits h2 {
+  font-size: 36px
+}
+#our-benefits .row.icon-row {
+  padding-top: 18px
+}
+#our-benefits.icon-row {
+  padding-top: 18px
+}
+#our-benefits .row.icon-row svg {
+  width: 69px;
+  height: 69px;
+  float: left;
+  margin: 0 16px 30px 0
+}
+#our-benefits .row.icon-row svg {
+  float: none;
+  margin: 0
+}
+#our-benefits img.plate-icon {
+  width: 69px;
+  height: 69px;
+  text-align: center
+}
+#our-benefits .row.icon-row p {
+  padding-top: 24px;
+  padding-bottom: 20px;
+  text-align: center
+}
+#our-benefits .row.icon-row ul {
+  padding-left: 70px;
+  padding-right: 37px;
+  text-align: left
+}
+.highlights .icon {
+  width: 23px;
+  height: 20px
+}
+.highlights p span {
+  position: relative
+}
+.highlights p {
+  line-height: 1.1;
+  z-index: 100;
+  display: block;
+  padding-top: 10px;
+  margin: 0
+}
+.partner-facts .partner-img {
+  background: url(../../images/careers/Amon-dt@2x.jpg) no-repeat top center;
+  background-size: contain;
+  height: 229px
+}
+#testimonial {
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+#testimonial .text-col {
+  padding-top: 90px
+}
+#testimonial .patner-img-mb {
+  margin-bottom: 20px
+}
+#testimonial .partner-img {
+  background: url(../../images/careers/Amon-dt@2x.jpg) no-repeat top center;
+  background-size: contain;
+  height: 320px
+}
+#close-to {
+  background-color: #eff6e4;
+  padding-top: 50px;
+  padding-bottom: 20px
+}
+#close-to .partner-img {
+  background: url(../../images/careers/nutri.png) no-repeat top center;
+  background-size: contain;
+  height: 336px
+}
+#close-to h2 {
+  font-size: 26px
+}
+#close-to .container .row .row {
+  padding: 8px 0
+}
+.landmarks {
+  padding-bottom: 20px
+}
+.highlights ul {
+  padding-top: 20px;
+  padding-bottom: 50px
+}
+.compass-icon, .steps-icon {
+  width: 30px;
+  height: 30px;
+  float: left;
+  padding-right: 5px
+}
+#closer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center
+}
+#closer a {
+  color: #fff
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  margin-bottom: 40px
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+}
+.full-width-container-stalker {
+  background-color: #027ab6;
+  box-shadow: 0 4px 15px 0 rgba(50, 50, 50, .55);
+  height: 66px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+  z-index: 999;
+  display: none
+}
+.stalker-nav {
+  width: 940px;
+  margin: 0 auto;
+  padding: 11px 0
+}
+.stalker-nav ul {
+  float: left;
+  width: 66%;
+  margin-top: 10px
+}
+.stalker-nav li {
+  display: inline;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 15px
+}
+.stalker-nav li a {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none
+}
+.stalker-nav li a:hover {
+  text-decoration: underline
+}
+.stalker-nav .cta-container {
+  float: left;
+  width: 33%
+}
+.about-us p {
+  font-family: arial, helvetica, sans-serif
+}
+.full-width-container-bg {
+  background-color: #4f3a81
+}
+.full-width-container-bg .col-md-10 {
+  margin: 25px 0 25px 10px;
+  color: #fff;
+  font-weight: 300
+}
+.full-width-container-bg .col-md-10 strong {
+  font-weight: 500
+}
+.full-width-container-bg .col-md-10 p {
+  font-size: 1.3em;
+  line-height: 1.5em
+}
+.our-people {
+  background: url(../../images/careers/our-people-bg.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  max-height: 776px;
+  min-height: 776px;
+  margin-bottom: 40px;
+  position: relative
+}
+.our-people-text {
+  color: #4c4c4c;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  position: absolute;
+  text-align: center
+}
+.our-people {
+  background-size: cover
+}
+.our-people-text {
+  top: 36%;
+  left: 31%;
+  width: 402px
+}
+.middle-quote img {
+  position: relative;
+  left: 50%;
+  margin-left: -8.33333333%;
+  height: 220px
+}
+.middle-quote {
+  color: #fff;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  font-weight: 500
+}
+.middle-quote p {
+  margin-top: 30px
+}
+.middle-quote .quote-1 {
+  margin-left: 95px
+}
+.our-team img {
+  margin: auto
+}
+.our-team h5 {
+  font-weight: 700
+}
+.our-team p {
+  text-align: center
+}
+.our-culture p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #4c4c4c
+}
+.day-in-life {
+  background: url(../../images/careers/day-in-life-bg.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  max-height: 369px;
+  margin-bottom: 40px
+}
+.day-in-life-text {
+  color: #fff;
+  font-family: arial, helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  width: 920px;
+  margin: 15px auto 0 auto
+}
+.day-in-life-text strong {
+  font-weight: 700
+}
+.day-in-life-text:nth-of-type(1) {
+  margin: 30px auto 0 auto
+}
+.day-in-life-text span {
+  font-weight: 700;
+  text-transform: uppercase
+}
+.col-md-6 ul {
+  list-style: disc outside none;
+  margin-left: 40px
+}
+.col-md-6 ul li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.9em
+}
+.col-md-6 ul.left-list {
+  margin-left: 100px
+}
+.change-lives {
+  margin-top: 2px
+}
+.change-lives .left-content {
+  margin: 20px 0;
+  border-right: 1px solid #fff
+}
+.change-lives h3 {
+  font-size: 2.2em;
+  font-weight: 700;
+  text-align: right;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 45px 0;
+  padding-right: 15px
+}
+.change-lives .right-content {
+  margin-top: 45px;
+  text-align: center
+}
+.change-lives .right-content .cta-container {
+  margin: 0 0 0 30px
+}
+.change-lives .right-content p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 19px;
+  font-size: 1.446em;
+  color: #fff
+}
+.full-width-container-bg-footer {
+  background-color: #f5f5f5;
+  margin: 27px 0 27px
+}
+.career-footer .left-content {
+  text-align: right;
+  margin: 20px 0
+}
+.career-footer .left-content-container {
+  margin: 40px 0
+}
+.career-footer .right-content {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+.social-icons {
+  display: block;
+  width: 375px;
+  margin: 52px auto
+}
+.social-icons div {
+  margin-left: 30px
+}
+#slider {
+  margin: 30px auto
+}
+.ls-nav-left, .ls-nav-right {
+  top: 0;
+  float: left;
+  clear: both
+}
+.ls-nav-left a, .ls-nav-right a {
+  background: #000;
+  color: #fff;
+  padding: 5px;
+  width: 100px;
+  display: block;
+  text-align: center;
+  text-decoration: none
+}
+.ls-responsive .ls-nav-left {
+  position: absolute;
+  left: 0;
+  z-index: 2
+}
+.ls-responsive .ls-nav-left a {
+  background: #9a9a9a;
+  width: 80px
+}
+.ls-responsive .ls-nav-left a:hover {
+  background: #ccc
+}
+.ls-responsive .ls-nav-right {
+  position: absolute;
+  right: 0;
+  z-index: 2
+}
+.ls-responsive .ls-nav-right a {
+  background: #9a9a9a;
+  width: 80px
+}
+.ls-responsive .ls-nav-right a:hover {
+  background: #747474
+}
+.ls-nav-left-arrow, .ls-nav-right-arrow {
+  cursor: pointer;
+  float: left;
+  clear: both
+}
+.ls-nav-left-arrow {
+  background-image: url(../../images/careers/left-arrow.png);
+  left: -50px
+}
+.ls-nav-right-arrow {
+  background-image: url(../../images/careers/right-arrow.png);
+  right: -50px
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
+  margin-left: -40px;
+  margin-top: 138px
+}
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+  margin-right: -40px;
+  margin-top: 138px
+}
+.carousel-indicators {
+  bottom: -4px
+}
+@media (min-width:768px) and (max-width:991px) {
+  .no-margin {
+    margin-left: 0;
+    margin-right: 0
+  }
+  #about .next-step-txt {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px
+  }
+  .make-txt-col {
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-left: 20px
+  }
+  .full-width-container-stalker {
+    display: none !important
+  }
+  h3 {
+    margin: 10px auto
+  }
+  .hero .cta-container {
+    margin: 10px 0 10px 0
+  }
+  .our-people-text {
+    font-size: .9em;
+    left: 24%;
+    top: 36%;
+    width: 368px
+  }
+  .middle-quote img {
+    display: none
+  }
+  .row.makeadifference {
+    padding-bottom: 60px
+  }
+  .middle-quote .quote-1 {
+    margin-left: 0
+  }
+  .middle-quote .quote-1 p {
+    margin-bottom: 20px
+  }
+  .middle-quote .col-md-2 {
+    border-bottom: 2px solid #fff
+  }
+  .middle-quote .col-md-5 {
+    margin: 20px 0
+  }
+  .day-in-life {
+    max-height: 485px
+  }
+  .day-in-life-text {
+    width: 100%
+  }
+  .day-in-life-text:nth-of-type(1) {
+    padding-top: 65px
+  }
+  .col-md-6 ul {
+    margin: 0 auto
+  }
+  .col-md-6 ul.left-list {
+    margin-left: 0
+  }
+  .change-lives .left-content {
+    border: 0
+  }
+  .change-lives h3 {
+    text-align: left
+  }
+  .change-lives .right-content p {
+    margin-left: 0
+  }
+  .change-lives .right-content {
+    margin-top: -30px;
+    text-align: center
+  }
+  .change-lives .right-content .cta-container {
+    margin: 0 0 58px 0
+  }
+  .career-footer .left-content {
+    text-align: center;
+    border-right: 0;
+    margin: 0
+  }
+  .career-footer .left-content-container {
+    width: 50%;
+    margin-left: 25%
+  }
+  .social-icons {
+    margin: 30px auto;
+    width: 422px
+  }
+  .careers-container {
+    width: 750px
+  }
+  .carousel-indicators {
+    bottom: -4px
+  }
+}
+@media (min-width:1200px) {
+  .career-footer .left-content img {
+    margin: 0 0 -20px 228px
+  }
+  .career-footer .right-content img {
+    margin: 0 0 -20px 22px
+  }
+  .no-margin {
+    margin-left: 0;
+    margin-right: 0
+  }
+}
+@media (min-width:992px) and (max-width:1199px) {
+  .no-margin {
+    margin-left: 0;
+    margin-right: 0
+  }
+  .discover {
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px
+  }
+  #about .next-step-txt {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 80px
+  }
+  .full-width-container-stalker {
+    display: none !important
+  }
+  h3 {
+    margin: 24px auto
+  }
+  .hero .cta-container {
+    margin: 30px 0 20px 0
+  }
+  .our-people {
+    background-size: contain
+  }
+  .our-people-text {
+    font-size: .9em;
+    left: 31%;
+    top: 37%;
+    width: 335px
+  }
+  .middle-quote .quote-1 {
+    margin-left: 0
+  }
+  .middle-quote p {
+    margin-top: 23px
+  }
+  .careers-container {
+    width: 970px
+  }
+  .career-footer .left-content img {
+    margin: 0 0 -20px 228px
+  }
+  .career-footer .right-content img {
+    margin: 0 0 -20px 22px
+  }
+}
+@media only screen and (min-width:480px) and (max-width:767px) {
+  .full-width-container-stalker {
+    display: none !important
+  }
+  .careers-container {
+    width: 480px
+  }
+  h1 {
+    font-size: 3.5em
+  }
+  h2 {
+    font-size: 2.5em
+  }
+  h3 {
+    font-size: 1.1em;
+    margin: 10px auto
+  }
+  h4 {
+    line-height: 1em
+  }
+  .hero .cta-container {
+    margin: 10px 0 10px 0
+  }
+  .our-people-text {
+    left: 3%
+  }
+  .middle-quote img {
+    display: none
+  }
+  .middle-quote .quote-1 {
+    margin-left: 0
+  }
+  .middle-quote .quote-1 p {
+    margin-bottom: 20px
+  }
+  .middle-quote .col-md-2 {
+    border-bottom: 2px solid #fff
+  }
+  .middle-quote .col-md-5 {
+    margin: 20px 0
+  }
+  .day-in-life {
+    max-height: 665px
+  }
+  .day-in-life-text {
+    width: 100%
+  }
+  .day-in-life-text:nth-of-type(1) {
+    padding-top: 35px
+  }
+  .col-md-6 ul {
+    margin: 0 auto
+  }
+  .col-md-6 ul.left-list {
+    margin-left: 0
+  }
+  .change-lives .left-content {
+    border: 0
+  }
+  .change-lives h3 {
+    text-align: left
+  }
+  .change-lives .right-content p {
+    margin-left: 0
+  }
+  .change-lives .right-content {
+    margin-top: -30px;
+    text-align: center
+  }
+  .change-lives .right-content .cta-container {
+    margin: 0 0 58px 0
+  }
+  .career-footer .left-content {
+    text-align: center;
+    border-right: 0;
+    margin: 0
+  }
+  .social-icons {
+    margin: 30px auto;
+    width: 422px
+  }
+  .btn-default {
+    font-size: 17px
+  }
+  .carousel-indicators {
+    bottom: -4px
+  }
+}
+@media only screen and (min-width:320px) and (max-width:479px) {
+  .hero {
+    background: url(../../images/careers/Hero@2x.png) top center no-repeat;
+    background-size: cover;
+    display: block;
+    min-height: 339px;
+    width: 100%;
+    text-align: center;
+    font-family: futura-pt, Arial, Helvetica, sans-serif;
+    color: #fff
+  }
+  .hero-content.container {
+    padding-top: 20px
+  }
+  .btn-default {
+    font-size: 17px
+  }
+  .full-width-container-stalker {
+    display: none !important
+  }
+  .careers-container {
+    width: 300px
+  }
+  h1 {
+    font-size: 1.75em;
+    margin-top: 5px
+  }
+  h2 {
+    font-size: 2em
+  }
+  h3 {
+    font-size: 1.1em;
+    margin: 8px
+  }
+  h4 {
+    line-height: 1em
+  }
+  .hero .cta-container {
+    margin: 10px 0 10px 0
+  }
+  #our-benefits .row.icon-row ul {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: left
+  }
+  #our-benefits img.plate-icon {
+    width: 100px;
+    height: 100px;
+    text-align: center
+  }
+  #our-benefits .row.icon-row p {
+    padding-top: 24px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 24px
+  }
+  .hero p {
+    margin: 8px;
+    font-size: .9em
+  }
+  .our-people-text {
+    font-size: 1em;
+    left: -1%;
+    width: 300px
+  }
+  .make-a-img {
+    background: url(../../images/careers/careers2@2x.png) no-repeat top center;
+    background-size: cover;
+    height: 233px
+  }
+  #about {
+    padding-top: 30px;
+    padding-bottom: 30px
+  }
+  #about h2 {
+    font-size: 1.5em
+  }
+  #about .head {
+    padding: 0 6%
+  }
+  .discover {
+    margin-top: 20px
+  }
+  .alicia {
+    background: url(../../images/careers/alicia-mb.png) no-repeat top center;
+    background-size: cover;
+    height: 233px
+  }
+  #about .next-step-txt {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px
+  }
+  .make-txt-col {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px
+  }
+  .container.circle-imgs {
+    padding: 5px
+  }
+  #our-benefits {
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+  #testimonial {
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+  #testimonial .partner-img {
+    background: url(../../images/careers/Amon-dt@2x.jpg) no-repeat top center;
+    background-size: cover;
+    height: 320px
+  }
+  #close-to {
+    padding-top: 20px
+  }
+  #close-to .partner-img {
+    background: url(../../images/careers/nutri.png) no-repeat top center;
+    background-size: contain;
+    height: 274px
+  }
+  #close-to .hidden-lg h3 {
+    font-size: 1.75em
+  }
+  #close-to .hidden-lg p.h4 {
+    font-size: 1.75em
+  }
+  .compass-icon, .steps-icon {
+    width: 50px;
+    height: 50px;
+    float: left;
+    padding-right: 5px
+  }
+  #slider {
+    display: none
+  }
+  .middle-quote img {
+    display: none
+  }
+  .middle-quote .quote-1 {
+    margin-left: 0
+  }
+  .middle-quote .quote-1 p {
+    margin-bottom: 20px
+  }
+  .middle-quote .col-md-2 {
+    border-bottom: 2px solid #fff
+  }
+  .middle-quote .col-md-5 {
+    margin: 20px 0
+  }
+  .day-in-life {
+    max-height: 875px
+  }
+  .day-in-life-text {
+    width: 100%;
+    font-size: .9em
+  }
+  .day-in-life-text:nth-of-type(1) {
+    padding-top: 50px
+  }
+  .col-md-6 ul {
+    margin: 0 auto
+  }
+  .col-md-6 ul.left-list {
+    margin-left: 0
+  }
+  .change-lives .left-content {
+    border: 0
+  }
+  .change-lives h3 {
+    text-align: left
+  }
+  .change-lives .right-content p {
+    margin-left: 0
+  }
+  .change-lives .right-content .cta-container {
+    margin: 0 -22px 20px -21px
+  }
+  .career-footer .left-content {
+    text-align: center;
+    border-right: 0;
+    margin: 0
+  }
+  .social-icons {
+    margin: 30px auto;
+    width: 291px
+  }
+  .social-icons div {
+    margin-left: 10px
+  }
+  #our-benefits img.plate-icon {
+    width: 69px;
+    height: 69px;
+    text-align: center;
+    }
+}

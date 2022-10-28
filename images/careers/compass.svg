@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.682" height="22.682" viewBox="0 0 22.682 22.682">
+  <g id="compass" transform="translate(-238.934 -664)">
+    <path id="Path_2079" data-name="Path 2079" d="M313.3,737.836a.591.591,0,0,0-.76.761l3.207,6.416a.557.557,0,0,0,.253.253l6.416,3.207a.566.566,0,0,0,.761-.76l-3.208-6.415a.551.551,0,0,0-.254-.254Zm5.359,6.121a1.134,1.134,0,1,1,0-1.6A1.134,1.134,0,0,1,318.658,743.957Z" transform="translate(-67.596 -67.809)" fill="#4c4c4c"/>
+    <g id="Group_1607" data-name="Group 1607" transform="translate(238.934 664)">
+      <path id="Path_2080" data-name="Path 2080" d="M250.275,686.682a11.341,11.341,0,1,1,11.341-11.341A11.354,11.354,0,0,1,250.275,686.682Zm0-20.414a9.073,9.073,0,1,0,9.073,9.073A9.082,9.082,0,0,0,250.275,666.268Z" transform="translate(-238.934 -664)" fill="#4c4c4c"/>
+    </g>
+    <g id="Group_1608" data-name="Group 1608" transform="translate(249.141 664)">
+      <line id="Line_111" data-name="Line 111" y2="1.488" transform="translate(1.134 1.134)" fill="#373737"/>
+      <path id="Path_2081" data-name="Path 2081" d="M366.068,667.757a1.134,1.134,0,0,1-1.134-1.134v-1.488a1.134,1.134,0,0,1,2.268,0v1.488A1.134,1.134,0,0,1,366.068,667.757Z" transform="translate(-364.934 -664)" fill="#4c4c4c"/>
+    </g>
+    <g id="Group_1609" data-name="Group 1609" transform="translate(249.141 682.925)">
+      <line id="Line_112" data-name="Line 112" y2="1.488" transform="translate(1.134 1.134)" fill="#373737"/>
+      <path id="Path_2082" data-name="Path 2082" d="M366.068,901.382a1.134,1.134,0,0,1-1.134-1.134v-1.488a1.134,1.134,0,0,1,2.268,0v1.488A1.134,1.134,0,0,1,366.068,901.382Z" transform="translate(-364.934 -897.625)" fill="#4c4c4c"/>
+    </g>
+    <g id="Group_1610" data-name="Group 1610" transform="translate(257.646 674.207)">
+      <line id="Line_113" data-name="Line 113" x2="1" transform="translate(1.629 1.134)" fill="#373737"/>
+      <path id="Path_2083" data-name="Path 2083" d="M472.769,792.268h-1.7a1.134,1.134,0,0,1,0-2.268h1.7a1.134,1.134,0,0,1,0,2.268Z" transform="translate(-469.934 -790)" fill="#4c4c4c"/>
+    </g>
+    <g id="Group_1611" data-name="Group 1611" transform="translate(238.934 674.207)">
+      <line id="Line_114" data-name="Line 114" x2="1" transform="translate(1.341 1.134)" fill="#373737"/>
+      <path id="Path_2084" data-name="Path 2084" d="M241.2,792.268h-1.134a1.134,1.134,0,1,1,0-2.268H241.2a1.134,1.134,0,0,1,0,2.268Z" transform="translate(-238.934 -790)" fill="#4c4c4c"/>
+    </g>
+  </g>
+</svg>

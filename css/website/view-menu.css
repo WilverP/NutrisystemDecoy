@@ -1,0 +1,1378 @@
+.meal-col a,
+.plan a,
+.print a {
+  text-decoration: none
+}
+
+.feature h1 b,
+.fw-900 {
+  font-weight: 900
+}
+
+.small a,
+body,
+mark,
+small a {
+  color: #29353a
+}
+
+.hero .container {
+  text-align: center
+}
+
+.hero h1 {
+  margin: 0 auto 10px;
+  font-size: 2.25em
+}
+
+.hero p.h4 {
+  font-size: 1.25em;
+  margin: 0 auto 14px;
+  line-height: 1.2
+}
+
+.hero .well {
+  padding: 5px 0 0;
+  margin-bottom: 20px;
+  background-color: transparent;
+  min-height: auto
+}
+
+.hero .well .five-star,
+.hero .well .nutri-bal,
+.hero .well .tasty {
+  display: inline-block;
+  vertical-align: top
+}
+
+.hero .well .five-star {
+  margin: 0 20px
+}
+
+.hero .well p.h1 {
+  margin: 0 auto;
+  font-size: 1.75em
+}
+
+.hero .well p.h5 {
+  font-size: 1em
+}
+
+.hero .cta-wrap {
+  margin: 0 auto 10px
+}
+
+.closer a,
+.hero .cta-wrap a {
+  text-transform: none;
+  font-size: 1.375em;
+  font-weight: 300;
+  line-height: 1.3;
+  border-radius: 26px;
+  width: 200px
+}
+
+.d-veg-links {
+  text-align: center;
+  min-height: 45px
+}
+
+.d-veg-links .btn .glyphicon.glyphicon-menu-right {
+  font-size: 12px;
+  top: 2px
+}
+
+.d-link-wrap a,
+.veg-link-wrap a {
+  font-size: .875em;
+  color: #64a535
+}
+
+.feature h1,
+.new-menu-items h3 {
+  font-size: 2em
+}
+
+.d-link-wrap,
+.veg-link-wrap {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 10px
+}
+
+.veg-link-wrap {
+  border-left: 1px solid #999;
+  padding-left: 10px
+}
+
+.d-link-wrap {
+  padding-right: 10px
+}
+
+.new-menu-items .meal-col {
+  max-width: 280px;
+  margin: 0 auto
+}
+
+.new-menu-items .new-bg {
+  margin-bottom: 10px
+}
+
+.nw-win-logo {
+  height: 89px;
+  width: 56px;
+  float: left;
+  margin: 8px 12px 0 0
+}
+
+.product-info,
+.product-rating {
+  margin-left: 10px
+}
+
+.new-menu-items p.h4 {
+  font-size: 1.25em
+}
+
+.feature h1 {
+  font-family: korolev, sans-serif;
+  margin-bottom: 0
+}
+
+.feature.breakfast h1 {
+  color: #b85126;
+  vertical-align: middle
+}
+
+.feature.lunch h1 {
+  color: #0066ae;
+  vertical-align: middle
+}
+
+.feature.dinner h1 {
+  color: #d62427;
+  vertical-align: middle
+}
+
+.feature.snacks h1 {
+  color: #8f5aa5;
+  vertical-align: middle
+}
+
+@media screen and (min-width: 768px) {
+  .product-grid .product:nth-child(3n+1) {
+    clear: both;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .product-grid .list .product {
+    clear: none;
+  }
+
+  .product-grid .product:nth-child(4n+1) {
+    clear: both;
+  }
+}
+
+.product-img-container img,
+picture img {
+  display: block;
+  margin: 0 auto;
+  width: 100%
+}
+
+.product .favorite-heart,
+.product-info .favorite-heart {
+  top: -185px;
+  right: 6px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, .7)
+}
+
+.product-info .favorite-heart {
+  padding: 0;
+  right: -8px;
+  top: -208px
+}
+
+.menu-section.new .product-info .favorite-heart {
+  top: -193px
+}
+
+.product .favorite-heart {
+  top: -8px
+}
+
+.product-name {
+  min-height: 85px;
+  line-height: 1.3;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 22px;
+  font-family: futura-pt, arial, sans-serif;
+  padding: 35px 0 0
+}
+
+.product-info {
+  position: relative;
+  min-height: 120px
+}
+
+.product-name strong.text-purple {
+  color: #006b00
+}
+
+.product {
+  margin: 15px 0
+}
+
+.points {
+  font-size: 18px;
+  padding: 5px 0
+}
+
+.points li,
+.points ul {
+  margin: 0
+}
+
+.plan-selection {
+  padding: 15px 0
+}
+
+.plan-selection .plans h3 {
+  font-weight: 500;
+  margin-top: 0
+}
+
+.plan-selection .plans .description {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  line-height: 22px;
+  color: #4c4c4c;
+  font-family: futura-pt, arial, sans-serif
+}
+
+.plan-selection .lead {
+  margin-bottom: 45px
+}
+
+.plan-selection .plans .plus {
+  margin-bottom: 10px;
+  font-family: futura-pt, arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  text-transform: uppercase
+}
+
+.plan-selection .plans .plan {
+  margin: 0 0 15px;
+  background: #eff6e4;
+  border: 2px solid #eff6e4
+}
+
+.plan-selection .plans .plan.top-rated {
+  background-color: #fff;
+  border: 2px solid #64a535;
+  position: relative;
+  z-index: 1
+}
+
+.plan-selection .plans .plan.top-rated .top-rated-badge {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  padding-top: 10px;
+  border-radius: 50%;
+  color: #fff;
+  font-family: futura-pt, arials, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 14px;
+  text-transform: uppercase;
+  right: -13px;
+  top: 50px
+}
+
+.dietary-plans {
+  padding: 35px 0;
+  height: 220px;
+  background-position: top center;
+  background-repeat: no-repeat
+}
+
+.dietary-plans .col-sm-5 {
+  padding: 0 25px
+}
+
+.dietary-plans .col-sm-5:first-child {
+  padding-left: 60px
+}
+
+.dietary-plans .col-sm-5:last-child {
+  padding-right: 60px
+}
+
+.dietary-plans .plan {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 15px 20px;
+  margin-bottom: 10px
+}
+
+.dietary-plans .plan h3 {
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-weight: 400;
+  color: #4c4c4c
+}
+
+.dietary-plans .plan p {
+  margin-bottom: 6px
+}
+
+.dietary-plans .plan a {
+  font-size: 13px
+}
+
+.plan a {
+  color: inherit
+}
+
+.plan.mens h3:hover {
+  color: #0b3254
+}
+
+.diabetes h3:hover {
+  color: #009cdb
+}
+
+.menu-section .btn-link,
+.veg h3:hover {
+  color: #64a535
+}
+
+.plan .btn-default:hover {
+  color: #fff
+}
+
+.print {
+  padding-top: 3px
+}
+
+.print a {
+  font-size: 12px
+}
+
+.print a span {
+  margin-right: 2px
+}
+
+.our-food .menu-type-slideshows h3 {
+  margin: 0;
+  text-transform: capitalize;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.25em
+}
+
+.menu-section.breakfast h3 {
+  color: #b85126
+}
+
+.menu-section.lunch h3 {
+  color: #0066ae
+}
+
+.menu-section.dinner h3 {
+  color: #d62427
+}
+
+.menu-section.snacks h3 {
+  color: #8f5aa5
+}
+
+.feature.breakfast p.h4,
+.feature.snacks p.h4,
+.menu-section.breakfast p.h4,
+.menu-section.snacks p.h4 {
+  text-align: center;
+  margin: 0 auto 20px
+}
+
+.feature.lunch p.h4,
+.menu-section.lunch p.h4 {
+  text-align: center;
+  margin: 0 auto 20px;
+  padding: 0 10px
+}
+
+.feature.dinner p.h4,
+.menu-section.dinner p.h4 {
+  text-align: center;
+  margin: 0 auto 20px;
+  padding: 0 15px
+}
+
+.menu-section h3 {
+  text-transform: capitalize
+}
+
+.our-food .menu-section {
+  padding: 15px 0 60px
+}
+
+.our-food .menu-section.new {
+  padding: 0;
+  background-color: #fff
+}
+
+.product-image .img-responsive {
+  width: 218px;
+  margin-bottom: 15px
+}
+
+.perfected {
+  width: 120px
+}
+
+.youll-love {
+  width: 127px
+}
+
+.done-right {
+  width: 134px
+}
+
+.that-satisfy {
+  width: 145px
+}
+
+.filters .filter-by {
+  margin: 26px 2px 0 -23px !important
+}
+
+.left.carousel-control,
+.right.carousel-control {
+  background: 0;
+  color: #999;
+  width: auto;
+  margin-top: -90px
+}
+
+.carousel-indicators li {
+  background-color: #ccc
+}
+
+.carousel-indicators li.active {
+  background-color: #666
+}
+
+.shakes-section .carousel-control,
+.shakes-section .carousel-indicators {
+  display: none
+}
+
+.carousel-control .glyphicon-menu-left {
+  margin-left: 0;
+  font-size: 21px;
+  top: 49%;
+  left: -26px
+}
+
+.carousel-control .glyphicon-menu-right {
+  margin-right: 0;
+  font-size: 21px;
+  top: 49%;
+  right: -28px
+}
+
+.carousel-control .glyphicon-menu-right:before {
+  content: "\e250"
+}
+
+.carousel-control .glyphicon-menu-left:before {
+  content: "\e251"
+}
+
+#grid-toggle {
+  display: none !important
+}
+
+.product-badges .frozen-badge-modal {
+  display: block
+}
+
+.frozen-badge + .premium-badge,
+.premium-badge,
+.premium-badge-modal,
+.rest-fav {
+  position: absolute;
+  top: 0;
+  width: 108px;
+  font-family: futura-pt, sanserif;
+  font-weight: 800;
+  display: inline;
+  display: initial;
+  margin: 10px 0 0;
+  color: #d62326;
+  background: #fff5e4;
+  padding: 2px 7px;
+  border-radius: 16px;
+  font-size: 10px
+}
+
+.premium-badge-modal,
+.rest-fav {
+  font-size: 14px
+}
+
+.premium-badge,
+.premium-badge-modal,
+.product-grid .rest-fav {
+  position: static
+}
+
+.menu-section .premium-badge,
+.menu-section .premium-badge-modal,
+.menu-section .rest-fav,
+.rest-fav {
+  position: absolute
+}
+
+.frozen-badge + .premium-badge,
+.frozen-badge + .rest-fav {
+  left: 96px
+}
+
+.menu-section .frozen-badge + .premium-badge-modal {
+  left: 95px;
+  width: 125px;
+  font-size: 12px
+}
+
+.rest-fav {
+  color: #484b1e;
+  left: 0;
+  width: 122px
+}
+
+.menu-section .rest-fav {
+  font-size: 12px
+}
+
+.menu-section.new .rest-fav {
+  font-size: 10px;
+  width: 92px
+}
+
+.closer {
+  background: #fff5e4
+}
+
+.closer h3 {
+  color: #29353a;
+  font-size: 1.375em;
+  line-height: 1.4
+}
+
+@media (max-width: 767px) {
+  .menu-section .frozen-badge {
+    z-index: 2;
+    position: absolute;
+    width: 110px;
+    padding: 8px 0 0
+  }
+
+  .hero {
+    background: url(../../images/pages/ViewMenu-Hero-072022-mob.webp) top center/cover no-repeat;
+    min-height: 585px;
+    padding: 20px 0
+  }
+
+  hr.meal-divider {
+    margin: 24px 0 5px
+  }
+
+  .points ul {
+    list-style: none
+  }
+
+  .points li {
+    display: inline-block;
+    padding: 3px 10px 0 20px
+  }
+
+  .our-food .carousel .item > .row > .col-xs-8:first-child {
+    margin-left: 15px
+  }
+
+  .our-food .menu-type-slideshows h3 {
+    font-size: 2em;
+    font-family: korolev, sans-serif
+  }
+
+  .our-food .menu-type-slideshows h3 b {
+    font-weight: 900
+  }
+
+  .our-food .menu-type-slideshows .new h3 {
+    font-size: 1.625em
+  }
+
+  .product:first-child {
+    border-top: 1px solid #e6e6e6;
+    padding-top: 15px;
+    margin-top: 0
+  }
+
+  .product-badges .product-name {
+    padding: 0
+  }
+
+  .product-badges .product-rating {
+    padding-left: 0
+  }
+
+  .product .product-name {
+    margin-top: 0;
+    font-size: 20px
+  }
+
+  .product {
+    padding-bottom: 15px
+  }
+
+  .plan-selection .plans {
+    margin-top: 20px
+  }
+
+  .dietary-plans {
+    height: auto;
+    padding: 20px;
+    margin-left: -15px;
+    margin-right: -15px
+  }
+
+  .dietary-plans .col-sm-5,
+    .dietary-plans .col-sm-5:first-child,
+    .dietary-plans .col-sm-5:last-child {
+    padding: 0 25px
+  }
+
+  .dietary-plans .col-sm-5:first-child {
+    margin-bottom: 20px
+  }
+
+  .our-food .menu-type-slideshows {
+    margin-top: 0
+  }
+
+  .carousel-indicators,
+    .slideshow-wrapper .left.carousel-control,
+    .slideshow-wrapper .right.carousel-control {
+    display: none
+  }
+
+  .slideshow-wrapper {
+    width: auto;
+    overflow: hidden;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 15px;
+    margin: 0 -15px
+  }
+
+  .our-food .carousel-inner {
+    display: inline-table;
+    width: 1875px
+  }
+
+  .shakes-section .carousel-inner {
+    width: 930px
+  }
+
+  .our-food .carousel .item > .row > .col-xs-8,
+    .our-food .carousel .see-all {
+    float: left;
+    white-space: normal;
+    white-space: initial;
+    width: 230px
+  }
+
+  .our-food .carousel .see-all {
+    margin: 50px 0 0
+  }
+
+  .our-food .menu-section {
+    padding-bottom: 0
+  }
+
+  .our-food .carousel-inner > .item {
+    display: block;
+    float: left;
+    margin-right: 30px
+  }
+
+  #featured-inner {
+    width: 1870px
+  }
+
+  .uyp-new-flag {
+    position: absolute;
+    float: left;
+    top: -20px;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 2px 12px 1px;
+    width: 55px;
+    height: 20px;
+    letter-spacing: .05em
+  }
+
+  .container.our-food.ofh .lto-badge {
+    top: 97px
+  }
+
+  .plan-selection .plans .plan.top-rated {
+    border: 3px solid #64a535
+  }
+
+  .plan-selection .plans .plan.top-rated .top-rated-badge {
+    top: -8px;
+    right: 4px
+  }
+
+  .dietary-plans .plan {
+    background-color: #fff;
+    text-align: left;
+    padding: 15px 20px;
+    margin-bottom: 0;
+    border: 0
+  }
+
+  .dietary-plans .plan.mens,
+    .dietary-plans .plan.veg {
+    border: 3px solid #ccc
+  }
+
+  .dietary-plans .plan.diabetes {
+    border-left: 3px solid #ccc;
+    border-right: 3px solid #ccc
+  }
+
+  .dietary-plans .plan .btn-link {
+    font-size: 16px;
+    font-weight: 700
+  }
+
+  .dietary-plans .plan .glyphicon {
+    float: right
+  }
+
+  .plan-selection .plans .plan {
+    background-color: #fff;
+    border: 3px solid #ccc
+  }
+}
+
+@media (max-width: 360px) {
+  .d-link-wrap {
+    padding-right: 0
+  }
+
+  .veg-link-wrap {
+    padding-left: 5px
+  }
+}
+
+@media (max-width: 320px) {
+  .hero h1 {
+    font-size: 2.1em
+  }
+
+  .hero .well p.h1 {
+    font-size: 1.5em
+  }
+
+  .hero .well p.h5 {
+    font-size: 1em
+  }
+
+  .d-link-wrap a,
+    .veg-link-wrap a {
+    font-size: .75em
+  }
+
+  .closer h3 {
+    font-size: 1.32em
+  }
+}
+
+@media (min-width: 450px) {
+  .hero {
+    background-position: 0 70%
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .plan-selection .plans .btn {
+    padding: 10px 15px
+  }
+
+  .filters .filter-by {
+    margin: 5px 52px 0 0
+  }
+
+  .plan-selection .plans .well {
+    padding: 10px
+  }
+
+  .plan-selection .plans h3 {
+    font-size: 1.375em
+  }
+
+  .uyp-new-flag {
+    position: absolute;
+    float: left;
+    top: -20px;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 2px 12px 1px;
+    width: 55px;
+    height: 20px;
+    letter-spacing: .05em
+  }
+
+  .plan-selection .plans .plan.top-rated .top-rated-badge {
+    right: -25px;
+    top: 33px
+  }
+
+  .container.our-food.ofh .lto-badge {
+    top: 66px
+  }
+}
+
+@media (min-width: 768px) {
+  .d-veg-links,
+    .hero .container {
+    text-align: left
+  }
+
+  .our-food .carousel-inner {
+    width: 95%;
+    margin: 0 auto
+  }
+
+  .carousel-control .glyphicon-menu-left,
+    .carousel-control .glyphicon-menu-right {
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, .7);
+    border-radius: 50%;
+    box-shadow: 0 0 1px transparent;
+    width: 30px;
+    height: 30px
+  }
+
+  .product-name {
+    min-height: 148px
+  }
+
+  .product .favorite-heart {
+    top: -215px;
+    right: 20px
+  }
+
+  .hero {
+    background: url(../../images/pages/ViewMenu-Hero-072022-dt.webp) top center/cover no-repeat;
+    height: 545px;
+    padding: 55px 0;
+    margin-bottom: 0
+  }
+
+  .d-veg-links,
+    p.small {
+    padding-top: 10px
+  }
+
+  .hero h1 {
+    font-size: 2.75em
+  }
+
+  .hero p.h4 {
+    margin: 16px 0 26px
+  }
+
+  .hero .well img {
+    float: left;
+    margin: 0 10px 20px 0
+  }
+
+  .hero .well p.h1 {
+    font-size: 2.125em;
+    display: inline-block
+  }
+
+  .hero .well p.h5 {
+    font-size: 1.125em
+  }
+
+  .hero .well .five-star,
+    .hero .well .nutri-bal,
+    .hero .well .tasty,
+    .perfected {
+    width: 170px
+  }
+
+  .hero .well .five-star {
+    margin: 0 5px
+  }
+
+  .hero .cta-wrap {
+    padding: 20px 0 10px
+  }
+
+  .veg-link-wrap {
+    padding-left: 20px
+  }
+
+  .d-link-wrap {
+    padding-right: 20px
+  }
+
+  .our-food .menu-type-slideshows .new h3 {
+    font-size: 2.25em
+  }
+
+  .meal-col {
+    text-align: center;
+    font-size: .9em
+  }
+
+  .new-menu-items .meal-col {
+    max-width: 460px;
+    text-align: left
+  }
+
+  .closer .closer-btn,
+    .closer h3 {
+    text-align: center
+  }
+
+  .new-menu-items {
+    padding-bottom: 30px;
+    border-top: 5px solid #fff
+  }
+
+  .new-menu-items h3 {
+    font-size: 2.5em;
+    margin: 30px auto 6px
+  }
+
+  .new-menu-items p.h4 {
+    font-size: 1.625em;
+    margin: 24px auto
+  }
+
+  .our-food .menu-section.new {
+    padding: 20px 0
+  }
+
+  section.feature {
+    margin-bottom: 30px
+  }
+
+  .our-food .menu-section {
+    padding: 0
+  }
+
+  .feature.breakfast h1,
+    .feature.dinner h1,
+    .feature.lunch h1,
+    .feature.snacks h1,
+    .menu-section.breakfast h3,
+    .menu-section.dinner h3,
+    .menu-section.lunch h3,
+    .menu-section.snacks h3 {
+    background-size: 100%
+  }
+
+  .our-food .menu-type-slideshows h3 {
+    margin: 0 0 20px
+  }
+
+  .product-info .favorite-heart {
+    top: -158px
+  }
+
+  .menu-section.new .product-info .favorite-heart {
+    top: -141px
+  }
+
+  .our-food .menu-type-slideshows .btn-link {
+    margin-top: 50px
+  }
+
+  .our-food .menu-type-slideshows h3 b {
+    font-weight: 900
+  }
+
+  .feature h1,
+    .menu-section.breakfast h3,
+    .menu-section.dinner h3,
+    .menu-section.lunch h3,
+    .menu-section.snacks h3 {
+    font-size: 2.5em
+  }
+
+  .feature h1,
+    .feature p.h4,
+    .menu-section.breakfast h3,
+    .menu-section.breakfast p.h4,
+    .menu-section.dinner h3,
+    .menu-section.dinner p.h4,
+    .menu-section.lunch h3,
+    .menu-section.lunch p.h4,
+    .menu-section.snacks h3,
+    .menu-section.snacks p.h4 {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: korolev, sans-serif
+  }
+
+  .menu-section.breakfast p.h4,
+    .menu-section.dinner p.h4,
+    .menu-section.lunch p.h4,
+    .menu-section.snacks p.h4 {
+    margin: 0 auto;
+    padding: 0 0 24px 10px;
+    vertical-align: bottom
+  }
+
+  .feature.breakfast p.h4,
+    .feature.dinner p.h4,
+    .feature.lunch p.h4,
+    .feature.snacks p.h4 {
+    margin: 0 0 0 10px;
+    padding: 30px 0 0;
+    vertical-align: middle
+  }
+
+  .product {
+    min-height: 360px
+  }
+
+  .youll-love {
+    width: 180px
+  }
+
+  .done-right {
+    width: 188px
+  }
+
+  .that-satisfy {
+    width: 206px
+  }
+
+  .menu-section .carousel-control.left {
+    left: -7px
+  }
+
+  .menu-section .carousel-control.right {
+    right: -7px
+  }
+
+  .carousel-control .glyphicon-menu-left {
+    left: 0;
+    padding: 5px 5px 0 0
+  }
+
+  .carousel-control .glyphicon-menu-right {
+    right: 0;
+    padding: 5px 0 0 5px
+  }
+
+  .carousel-indicators {
+    bottom: -50px
+  }
+
+  .new .carousel-indicators {
+    display: none
+  }
+
+  .ofh {
+    overflow-x: hidden
+  }
+
+  .product-badges .frozen-badge-modal {
+    display: inline;
+    display: initial
+  }
+
+  .frozen-badge + .premium-badge,
+    .menu-section.new .frozen-badge + .rest-fav {
+    display: block;
+    position: relative;
+    top: 35px;
+    margin: 0;
+    padding: 3px 11px;
+    border-radius: 18px;
+    font-size: 12px;
+    width: 135px;
+    left: 0
+  }
+
+  .menu-section.new .frozen-badge + .rest-fav {
+    width: 116px;
+    padding: 1px 11px
+  }
+
+  .premium-badge-modal,
+    .product-grid .rest-fav,
+    .rest-fav {
+    font-size: 12px;
+    width: 128px;
+    position: absolute;
+    top: 0
+  }
+
+  .product-grid .rest-fav {
+    width: 108px
+  }
+
+  .frozen-badge-modal + .premium-badge-modal,
+    .frozen-badge-modal + .rest-fav {
+    left: 112px
+  }
+
+  .menu-section .rest-fav,
+    .rest-fav {
+    width: 125px;
+    font-size: 14px;
+    position: absolute
+  }
+
+  .menu-section .frozen-badge + .premium-badge-modal {
+    left: 0;
+    top: 33px;
+    width: 144px;
+    font-size: 14px;
+    position: relative;
+    display: block
+  }
+
+  .closer h3 {
+    border: 0;
+    padding: 0;
+    margin: 36px 0 0;
+    font-size: 1.625em
+  }
+
+  .closer .btn {
+    margin: 20px auto 40px
+  }
+}
+
+@media (min-width: 992px) {
+  .hero h1 {
+    font-size: 3.125em
+  }
+
+  .hero p.h4 {
+    font-size: 1.375em
+  }
+
+  .hero .well .five-star {
+    margin: 0 22px
+  }
+
+  .meal-col {
+    font-size: 1em
+  }
+
+  hr.meal-divider {
+    margin-bottom: 30px
+  }
+
+  .product-img-container {
+    height: 200px;
+    display: block;
+    overflow: hidden
+  }
+
+  .product-info .favorite-heart {
+    top: -190px
+  }
+
+  .menu-section.new .product-info .favorite-heart {
+    top: -193px
+  }
+
+  .product {
+    min-height: 360px
+  }
+
+  .product .favorite-heart {
+    top: -194px
+  }
+
+  .left.carousel-control .glyphicon,
+    .right.carousel-control .glyphicon {
+    font-size: 42px;
+    top: 47%
+  }
+
+  .carousel-control .glyphicon-menu-left {
+    left: 0;
+    width: 50px;
+    height: 50px
+  }
+
+  .carousel-control .glyphicon-menu-right {
+    right: 0;
+    width: 50px;
+    height: 50px
+  }
+
+  .menu-section .carousel-control.left {
+    left: -11px
+  }
+
+  .menu-section .carousel-control.right {
+    right: -11px
+  }
+
+  .plan-selection .plans .plan.top-rated .top-rated-badge {
+    width: 50px;
+    height: 50px;
+    top: 47px
+  }
+
+  .plan-selection .plans {
+    text-align: center
+  }
+
+  .plan-selection .plans .plan:after {
+    height: 213px
+  }
+
+  .filters .filter-by {
+    margin: 5px 52px 0 0
+  }
+
+  .uyp-new-flag {
+    position: absolute;
+    right: 16px;
+    top: -20px;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 2px 12px 1px;
+    width: 55px;
+    height: 20px;
+    letter-spacing: .05em
+  }
+
+  .container.our-food.ofh .lto-badge {
+    top: 105px
+  }
+
+  .product-img-container img,
+    picture img {
+    transition: .5s
+  }
+
+  .product-img-container img:hover,
+    picture img:hover {
+    transform: scale(1.5)
+  }
+
+  .frozen-badge + .premium-badge,
+    .menu-section.new .frozen-badge + .rest-fav {
+    margin: 0;
+    font-size: 14px;
+    width: 152px
+  }
+
+  .menu-section.new .frozen-badge + .rest-fav {
+    width: 132px
+  }
+
+  .frozen-badge-modal + .premium-badge-modal {
+    left: 109px
+  }
+}
+
+@media (min-width: 1170px) {
+  .product-name {
+    min-height: 120px
+  }
+}
+
+@media (min-width: 1200px) {
+  .product .favorite-heart {
+    top: -244px
+  }
+
+  .product-info .favorite-heart {
+    top: -230px
+  }
+
+  .menu-section.new .product-info .favorite-heart {
+    top: -241px
+  }
+
+  .product-img-container {
+    height: 250px
+  }
+
+  .product {
+    min-height: 390px
+  }
+
+  .product-image .img-responsive {
+    width: 100%
+  }
+
+  .frozen-badge + .premium-badge,
+    .menu-section.new .frozen-badge + .rest-fav {
+    margin: 0;
+    position: absolute;
+    left: 92px;
+    top: 9px
+  }
+
+  .menu-section.new .frozen-badge + .rest-fav {
+    top: 7px
+  }
+
+  .our-food .carousel-inner {
+    width: 97%
+  }
+
+  .frozen-badge-modal + .premium-badge-modal,
+    .product-grid .rest-fav {
+    width: 145px;
+    font-size: 14px
+  }
+
+  .product-grid .rest-fav {
+    top: -2px;
+    width: 125px
+  }
+
+  .menu-section .frozen-badge + .premium-badge-modal {
+    left: 90px;
+    top: 0;
+    width: 144px;
+    font-size: 14px;
+    position: absolute;
+    display: block
+  }
+}
+

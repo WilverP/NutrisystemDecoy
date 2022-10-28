@@ -1,0 +1,2532 @@
+.fw-900{
+  font-weight:900
+}
+
+a:hover .a-day,a:hover .well{
+  border-color:#64a535
+}
+
+.men .sub-nav,.men-sub-nav{
+  display:none
+}
+
+.men .men-sub-nav,.plan{
+  display:block
+}
+
+.plan,.plan a{
+  text-decoration:none;
+  color:inherit
+}
+
+.plan-content a:hover h2,a:hover,a:hover .amount,a:hover .amount sup,a:hover .dollarSignCents,a:hover .dollarSignCents sup,a:hover .starting-at{
+  color:#64a535
+}
+
+a:hover .a-day{
+  color:#64a535
+}
+
+.plan-content:hover .btn{
+  background-color:#ff944d
+}
+
+.uy .well{
+  background:#fff;
+  border:2px solid #64a535;
+  border-bottom:0;
+  position:relative
+}
+
+.d-plans .uy .well{
+  border:2px solid #009cdb
+}
+
+.uy .well.d-uy{
+  border:2px solid #009cdb
+}
+
+.uy h2{
+  margin:4px 0 5px;
+  font-weight:700
+}
+
+.top-rated-burst{
+  border-radius:50%;
+  height:60px;
+  width:60px;
+  position:absolute;
+  top:-20px;
+  right:10px;
+  padding-top:10px;
+  text-align:center
+}
+
+.top-rated-burst span{
+  position:absolute;
+  top:12px;
+  left:7px;
+  font-size:16px
+}
+
+img.npp{
+  width:173px
+}
+
+#plan-options{
+  padding-bottom:20px
+}
+
+#plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+  font-weight:400
+}
+
+.four-week-plan ul{
+  font-size:18px;
+  line-height:18px;
+  margin:0
+}
+
+.four-week-plan li{
+  line-height:24px;
+  color:#64a535
+}
+
+.bg-diabetes .four-week-plan li{
+  line-height:24px;
+  color:#009cdb
+}
+
+.balanced-nutrition .h4{
+  font-size:22px;
+  line-height:25px;
+  margin:0 0 10px;
+  font-weight:600
+}
+
+.balanced-nutrition ul{
+  font-family:futura-pt,arial,sans-serif
+}
+
+.balanced-nutrition li{
+  font-size:19px;
+  margin:0 0 5px
+}
+
+.balanced-nutrition a{
+  color:#4c4c4c;
+  text-decoration:none
+}
+
+.list-checked.check-blue-darker>li:before,.list-checked.check-green>li:before,.list-checked.check-primary>li:before,.list-checked.check-teal>li:before{
+  background-position:0 9px
+}
+
+.bg-diabetes .balanced-nutrition li,.bg-diabetes .four-week-plan li{
+  font-size:16px;
+  font-family:Arial,Helvetica,sans-serif
+}
+
+#other-plans .header{
+  padding-bottom:25px
+}
+
+.diabetes,.mens,.partner-plans .womens,.vegetarian{
+  border:3px solid #ccc
+}
+
+.diabetes:hover,.mens:hover,.partner-plans .womens:hover,.vegetarian:hover{
+  border-color:#64a535
+}
+
+.diabetes .h3,.mens .h3,.partner-plans .womens .h3,.vegetarian .h3{
+  font-family:futura-pt,sans-serif;
+  font-size:22px;
+  font-weight:400;
+  padding:0 0 2px;
+  margin-left:2px
+}
+
+.triangle-right{
+  position:absolute;
+  width:0;
+  height:0;
+  left:-1px;
+  top:12px;
+  border-top:10px solid transparent;
+  border-left:10px solid #64a535;
+  border-bottom:10px solid transparent
+}
+
+.d-content .triangle-right{
+  border-left:10px solid #009cdb
+}
+
+#overlay.modal{
+  top:224px
+}
+
+.close{
+  color:#4c4c4c
+}
+
+.jumbotron.bg-mint{
+  margin-bottom:10px;
+  padding-bottom:0
+}
+
+#overlay .modal-title{
+  font-size:28px;
+  line-height:32px;
+  font-weight:700;
+  color:#503a82;
+  margin:5px 0 0;
+  text-transform:uppercase;
+  padding:0;
+  letter-spacing:normal
+}
+
+#overlay .modal-content{
+  width:648px;
+  height:361px;
+  background:url(/images/diet-plans/weight-loss-programs/upgrade-bg.png) repeat-x;
+  background-size:contain;
+  border:3px solid #503a82
+}
+
+#overlay .modal-body h2{
+  font-size:22px;
+  line-height:22px;
+  font-weight:400;
+  color:#503a82;
+  margin:0;
+  text-transform:uppercase
+}
+
+#overlay .modal-body h3{
+  font-size:19px;
+  font-weight:700;
+  color:#3c3c3c;
+  margin:15px 0 0
+}
+
+#overlay .modal-body p{
+  font-size:19px;
+  font-weight:400;
+  color:#3c3c3c;
+  margin:0;
+  padding-bottom:10px
+}
+
+#overlay .modal-body ul{
+  display:block;
+  padding-left:11px
+}
+
+#overlay .modal-body li{
+  float:left;
+  margin:0 4px;
+  list-style:none
+}
+
+#overlay .modal-body a{
+  color:#3c3c3c;
+  font-size:15px;
+  letter-spacing:.5px;
+  font-weight:400;
+  line-height:32px;
+  text-decoration:none
+}
+
+#overlay .modal-footer{
+  background-color:#503a82;
+  width:648px;
+  margin-top:-10px;
+  margin-left:-3px;
+  padding-bottom:10px
+}
+
+#overlay .modal-footer p{
+  color:#fff;
+  font-size:20px;
+  font-weight:500;
+  margin-top:9px;
+  padding:4px 0
+}
+
+.futura20{
+  font-size:20px;
+  font-family:futura-pt,arial,sans-serif
+}
+
+.closer.bg-d-blue{
+  background-color:#009cdb
+}
+
+.closer.bg-d-blue h3{
+  color:#fff;
+  border-right:2px solid #fff
+}
+
+.ul-support-content h2.text-d-blue{
+  margin-top:0
+}
+
+.view{
+  border:solid 1px red
+}
+
+#plan-options .center-details{
+  margin:0 15px 10px 21px;
+  padding-bottom:10px
+}
+
+#plan-options p.center-details{
+  font-size:18px;
+  line-height:22px
+}
+
+.bg-green-lighter-plan{
+  background-color:#d3e692
+}
+
+.bg-diabetes{
+  background-color:#e0f1f9
+}
+
+.plan li sup{
+  font-size:85%;
+  line-height:0;
+  position:relative;
+  vertical-align:baseline;
+  top:-.5em
+}
+
+.plan.partner-plan li sup{
+  font-size:60%;
+  line-height:0;
+  position:relative;
+  vertical-align:baseline
+}
+
+a:focus .well{
+  outline:1px solid #5d9dd5;
+  box-shadow:0 0 8px #5d9dd5
+}
+
+.partner-header{
+  font-size:22px;
+  font-weight:700;
+  padding-top:26px
+}
+
+img.partner-icon{
+  width:45px;
+  height:45px;
+  margin-right:10px
+}
+
+.partner-plan .well h2.h3{
+  font-size:26px;
+  padding:6px 0 0
+}
+
+.partner-plan .well h2.h3 .fw-700{
+  font-size:20px
+}
+
+.partner-plan p.lead{
+  font-size:16px;
+  padding-bottom:16px
+}
+
+.new-menu p.text-purple-lighter{
+  margin-bottom:0
+}
+
+.new-menu h4{
+  margin-top:0
+}
+
+.partner-plans .price{
+  font-family:futura-pt,arial,sans-serif;
+  margin-bottom:25px
+}
+
+.partner-plans .menu-choices{
+  font-size:14px;
+  font-weight:700;
+  color:#64a535;
+  text-transform:uppercase;
+  padding:10px 0 20px
+}
+
+.partner-plans .starting-at{
+  font-size:14px
+}
+
+.partner-plans .amount,.partner-plans .dollarSignCents{
+  font-size:32px
+}
+
+.partner-plans .a-day{
+  font-size:16px;
+  display:inline-block;
+  padding-left:5px;
+  line-height:1.1
+}
+
+.partner-plans.four-week-plan ul{
+  font-size:16px
+}
+
+.partner-plans .bf2{
+  text-transform:uppercase;
+  color:#43791d
+}
+
+.partner-plans .bf2 svg{
+  vertical-align:top
+}
+
+.partner .new-menu{
+  margin:20px 0 0 120px
+}
+
+#uyu-bull-mob br:last-child{
+  display:none
+}
+
+#giveaway{
+  color:#373a3c
+}
+
+#giveaway img{
+  margin:15px auto 0;
+  display:block
+}
+
+#giveaway h3{
+  color:#43791d
+}
+
+#giveaway p.h4{
+  line-height:1.2
+}
+
+#giveaway .border{
+  border-radius:10px;
+  display:inline-block;
+  border-color:#707070;
+  padding:15px 0;
+  margin:15px 0
+}
+
+#giveaway svg.partner{
+  width:74px;
+  float:left;
+  margin:12px 24px 10px 0
+}
+
+#giveaway svg.app{
+  width:64px;
+  float:left;
+  margin:10px 30px 0 4px
+}
+
+#giveaway .rules{
+  font-weight:300;
+  padding:0 0 20px 0;
+  display:inline-block;
+  text-align:center;
+  display:block
+}
+
+#giveaway .rules a{
+  color:#af3eb3
+}
+
+.korolev-txt{
+  font-family:korolev,sans-serif;
+  font-weight:500;
+  font-style:normal
+}
+
+#chrisley h2{
+  font-size:1.375em;
+  padding-left:.5em
+}
+
+#chrisley h3{
+  color:#43791d;
+  font-size:1.875em;
+  margin:6px 0 12px
+}
+
+#chrisley p.copy{
+  font-size:1.25em;
+  line-height:1.2;
+  padding-left:.5em
+}
+
+#chrisley p.asseen{
+  font-size:1.375em;
+  padding-left:.5em
+}
+
+#chrisley p.asseen img{
+  vertical-align:baseline;
+  margin:0 5px 0 1px
+}
+
+#chrisley .img{
+  padding:40px 0 0;
+  overflow:hidden
+}
+
+#chrisley .burst{
+  position:absolute;
+  right:-45px;
+  top:-35px;
+}
+
+#chrisley .burstcopy{
+  font-size:1.25em;
+  line-height:1;
+  text-align:center;
+  width:150px;
+  position:absolute;
+  right:-12px;
+  top:26px
+}
+
+#chrisley .burstcopy strong{
+  font-size:1.75em
+}
+
+#chrisley p.small{
+  text-align:center;
+  padding:8px 0 20px
+}
+
+.bounce-up p{
+  opacity:0;
+  transition:all .7s ease-out;
+  transform:translate3d(0,200,0);
+  -webkit-backface-visibility:hidden;
+  backface-visibility:hidden
+}
+
+.bounce-up p{
+  transition:all .5s ease-out
+}
+
+.bounce-up.in-view p{
+  opacity:1;
+  transform:translate3d(0,0,0)
+}
+
+.uy h2{
+  font-weight:300
+}
+
+.max h2{
+  font-weight:700
+}
+
+#uyu-bull-mob .bg-gray-lighter{
+  background-color:#f2f2f2;
+  margin:0 15px 16px;
+  padding:16px 12px
+}
+
+#plan-options .max .center-details{
+  margin:0 15px 0 21px;
+  padding-bottom:0
+}
+
+.max h2 span.h5{
+  font-size:20px;
+  display:block;
+  margin:0
+}
+
+.max h2 svg{
+  width:60px;
+  height:19px;
+  position:relative;
+  top:3px
+}
+
+.max p.plus{
+  margin:0 0 12px 23px
+}
+
+p.list-head{
+  padding-left:16px
+}
+
+#plan-options.partner-plans .center-details{
+  margin:0 15px 10px 21px;
+  padding-bottom:5px
+}
+
+#uyu-bull-mob .bg-gray-lighter,.bg-gray-lighter{
+  padding:16px 0 5px;
+  margin:0 15px 15px
+}
+
+.contest{
+  margin:50px auto
+}
+
+.contest h3{
+  color:#43791d;
+  margin:24px auto 10px
+}
+
+.contest p.h4{
+  font-size:1.125em;
+  margin:0 auto 24px
+}
+
+.contest .border{
+  border:1px solid #707070;
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:24px
+}
+
+.contest .border img,.contest .icon-txt{
+  display:inline-block;
+  vertical-align:middle
+}
+
+.contest .icon-txt{
+  width:205px
+}
+
+.contest .people-icon{
+  width:74px;
+  height:auto;
+  margin-right:20px
+}
+
+.contest .app-icon{
+  width:65px;
+  height:auto;
+  margin-right:30px
+}
+
+.contest .border p.h5{
+  margin:0 auto 24px;
+  font-size:1.125em
+}
+
+.contest .app-txt{
+  margin-bottom:0
+}
+
+.contest .disclaimer {
+  padding-top:12px;
+}
+
+.contest .disclaimer a{
+  color:#095104
+}
+
+.winners {
+  padding-top:20px;
+}
+
+.winners img {
+  width:40%;
+  float:left;
+  max-width:110px;
+  margin:0 15px 25px 0;
+}
+
+.winners h3 {
+  background:#FFF5E4;
+  color:#006B00;
+  width:156px;
+  height:35px;
+  border-radius: 15px;
+  font-size: 1.125em;
+  padding-top: 10px;
+  padding-left: 11px;
+  margin: 8px 0 18px;
+  display: inline-block;
+}
+
+.winners p.h4 {
+  font-size:1.5em;
+  line-height: 1.3;
+}
+
+.winners p.h5 {
+  font-size:1em;
+  line-height: 1.3;
+}
+
+@media (max-width:767px){
+  .bestNewFoods{
+    position:absolute;
+    right:-4px;
+    top:137px;
+    width:95px
+  }
+
+  .partner-plans .bestNewFoods{
+    right:4px;
+    top:172px
+  }
+
+  .action-header{
+    margin-bottom:22px;
+    margin-top:0;
+    padding-bottom:22px;
+    padding-top:10px
+  }
+
+  .action-header p{
+    letter-spacing:0;
+    margin-bottom:0;
+    text-align:center
+  }
+
+  .action-header .h5,.action-header .h5-text{
+    text-align:center
+  }
+
+  .action-header .myPlanBtn{
+    text-align:center;
+    margin-top:10px
+  }
+
+  .action-header .label{
+    text-align:center;
+    margin-bottom:10px;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block
+  }
+
+  .action-header .tag{
+    width:130px
+  }
+
+  .action-header .tag2{
+    width:200px
+  }
+
+  a:hover .triangle-right{
+    border-left:10px solid #64a535
+  }
+
+  .plan-header{
+    margin-bottom:5px
+  }
+
+  .plan-header h1{
+    margin-top:10px
+  }
+
+  .plan-header .h4{
+    font-size:20px
+  }
+
+  #plan-options .well{
+    text-align:left
+  }
+
+  .d-plans .uy .well{
+    border:0
+  }
+
+  #plan-options h2{
+    margin:0 0 5px
+  }
+
+  .plan{
+    position:relative
+  }
+
+  .plan .well{
+    padding:15px 15px 0 15px;
+    margin-bottom:10px;
+    background-color:#fff
+  }
+
+  .plan{
+    padding-top:22px
+  }
+
+  .pot-rated-burst{
+    right:5px
+  }
+
+  .plan .btn-default{
+    float:right
+  }
+
+  .starting-at{
+    font-size:14px;
+    padding-left:2px;
+    line-height:.5
+  }
+
+  .uy .well-mob{
+    border:4px solid #64a535
+  }
+
+  .d-plans .uy .well-mob{
+    border:4px solid #009cdb
+  }
+
+  .uy .well{
+    border:0
+  }
+
+  .uy .d-uy.well{
+    border:4px solid #009cdb
+  }
+
+  .uy .well .a-day{
+    padding-left:4px
+  }
+
+  .amount,.dollarSignCents{
+    font-size:32px;
+    font-weight:500
+  }
+
+  .four-week-plan .h4{
+    font-size:20px
+  }
+
+  .diabetes,.mens,.partner-plans .womens,.vegetarian{
+    padding:16px 10px 0;
+    margin-top:0
+  }
+
+  #other-plans .btn-dt,#other-plans .plan .lead,#other-plans .plan h2{
+    display:none
+  }
+
+  #other-plans .diabetes,#other-plans .vegetarian,#other-plans.partner-plans .mens{
+    border-top:0
+  }
+
+  .lead{
+    margin:0
+  }
+
+  .lead br.br-tn{
+    display:none
+  }
+
+  .triangle-right{
+    top:19px
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:160px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:155px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    background-color:#cbe8f5;
+    width:155px
+  }
+
+  .top-rated-burst span{
+    position:absolute;
+    top:13px;
+    left:8px;
+    font-size:16px
+  }
+
+  .closer.bg-d-blue h3{
+    border-right:0
+  }
+
+  .ul-support-header h3{
+    padding:10px 0;
+    margin-bottom:0
+  }
+
+  .ul-support-header p.h3{
+    font-family:futura-pt,arial,helvetica,sans-serif;
+    line-height:16px;
+    padding-bottom:15px;
+    margin:7px 0
+  }
+
+  .mob-view-btn{
+    top:-56px;
+    margin-right:16px;
+    z-index:10
+  }
+
+  .more-info-link{
+    text-align:center;
+    padding:0 18px 10px
+  }
+
+  .more-info-link a{
+    display:block;
+    width:100%;
+    padding-top:8px
+  }
+
+  .more-info-link .glyphicon{
+    padding-left:5px;
+    top:3px
+  }
+
+  .well-border{
+    border:2px solid #ccc;
+    background-color:#fff
+  }
+
+  .lose-weight-subhead{
+    font-size:14px;
+    font-weight:700;
+    text-transform:uppercase;
+    margin-top:0
+  }
+
+  #partner_plan{
+    text-align:left
+  }
+
+  .partner-plan .a-week{
+    display:inline-block;
+    text-align:left;
+    font-size:14px;
+    line-height:12px;
+    padding-left:3px
+  }
+
+  .balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-mob.jpg) 0 0 no-repeat;
+    background-size:cover;
+    min-height:268px;
+    margin:15px 0 0 0;
+    position:relative
+  }
+
+  .new-menu{
+    margin:0 0 0 145px
+  }
+
+  .partner-plans.four-week-plan .h4{
+    font-size:26px;
+    margin:12px 10px 20px auto
+  }
+
+  .partner.balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-mob.jpg) 0 -15px no-repeat;
+    background-size:cover;
+    min-height:242px;
+    margin:0;
+    position:relative
+  }
+
+  .max .well-mob{
+    border:4px solid #64a535
+  }
+
+  .partner-plan .more-info-link{
+    margin-top:60px
+  }
+
+  #plan-options .partner-plan h2{
+    margin:12px 0 0 3px
+  }
+}
+
+@media (max-width:360px){
+  .partner-plans .a-day{
+    font-size:14px
+  }
+
+  .contest .border{
+    padding:12px
+  }
+
+  .contest .border p.h5{
+    font-size:.9em
+  }
+
+  .contest .icon-txt{
+    font-size:.9em;
+    width:162px
+  }
+
+  .contest .people-icon{
+    position:relative;
+    bottom:10px
+  }
+}
+
+@media (max-width:320px){
+  .plan .well{
+    padding:15px 6px 0
+  }
+
+  .partner-plan .a-week{
+    padding-left:0;
+    width:35px
+  }
+
+  .new-menu{
+    margin:0 0 0 120px
+  }
+
+  .partner-plans .btn-sm-mobile{
+    font-size:16px;
+    padding:8px 12px
+  }
+
+  #giveaway svg.partner{
+    margin-top:22px;
+    margin-bottom:22px;
+    margin-right:16px
+  }
+
+  #giveaway svg.app{
+    margin-top:22px;
+    margin-bottom:22px;
+    margin-right:22px
+  }
+
+  .bestNewFoods{
+    right:0;
+    top:96px;
+    width:91px
+  }
+
+  .partner-plans .bestNewFoods{
+    right:0;
+    top:68px
+  }
+}
+
+@media (min-width:411px){
+  .bestNewFoods{
+    right:1px;
+    top:120px;
+    width:91px
+  }
+}
+
+@media (min-width:414px){
+  .partner .new-menu{
+    margin:20px 0 0 130px
+  }
+}
+
+@media(min-width:450px){
+  .partner .new-menu {
+    margin: 0 0 0 34vw;
+  }
+
+  .jumbotron {
+    padding-bottom: 0;
+  }
+}
+
+@media (min-width:568px){
+  .new-menu{
+    margin:0 0 0 190px
+  }
+}
+
+@media (min-width:740px) and (max-width:767px){
+  .contest .border .col-xs-12{
+    width:50%
+  }
+}
+
+@media (min-width:768px) and (max-width:991px){
+  .h2{
+    font-size:33px
+  }
+
+  .plan-header{
+    margin-bottom:30px
+  }
+
+  .plan .top-rated-burst{
+    right:-25px;
+    top:38px
+  }
+
+  .plan .top-rated-burst.bg-d-blue{
+    top:55px
+  }
+
+  .plan sup{
+    position:relative;
+    top:-19px;
+    font-size:34px;
+    font-weight:300
+  }
+
+  .plan .starting-at{
+    font-size:16px;
+    font-family:futura-pt,Arial,Helvetica,sans-serif;
+    text-transform:lowercase;
+    color:#666;
+    font-weight:400;
+    padding:8px 0 0;
+    line-height:20px
+  }
+
+  .plan .amount{
+    font-size:36px;
+    letter-spacing:-2px;
+    line-height:50px;
+    text-align:left
+  }
+
+  .plan .dollarSignCents sup{
+    font-size:24px;
+    top:-8px
+  }
+
+  .plan-content p sup{
+    font-size:9px;
+    font-weight:300;
+    font-family:futura-pt,arial,sans-serif;
+    top:-9px
+  }
+
+  #plan-options .well{
+    padding:19px 5px
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:2px
+  }
+
+  #plan-options .uy-plus-padding.bg-gray-lighter h2,#plan-options .uy-plus-padding.bg-mint h2{
+    margin-top:0;
+    margin-bottom:16px
+  }
+
+  #plan-options .basic-plan .well{
+    padding-top:19px
+  }
+
+  .uy h2{
+    margin-top:7px;
+    margin-bottom:9px;
+    font-size:27px
+  }
+
+  .uy h2.text-d-blue{
+    margin-top:-12px
+  }
+
+  .core-margin .bg-gray-lighter h2,.core-margin .bg-mint h2{
+    margin-top:32px
+  }
+
+  .uy .well{
+    padding-right:0;
+    padding-left:0;
+    padding-bottom:49px
+  }
+
+  .bg-gray-lighter h2,.bg-mint h2{
+    font-size:27px;
+    margin-top:0;
+    text-align:center
+  }
+
+  .plan .well p{
+    font-size:14px;
+    margin-top:10px;
+    font-family:arial,sans-serif;
+    letter-spacing:-.05px
+  }
+
+  .partner-plans .plan .bf2{
+    margin:10px 0 20px;
+    font-size:16px
+  }
+
+  .partner-plans .basic-plan .bf2,.partner-plans .uy .bf2{
+    margin-bottom:45px
+  }
+
+  #plan-options .mobile-btn{
+    width:190px
+  }
+
+  .plan-content li{
+    font-size:14px
+  }
+
+  #plan-options p.center-details{
+    font-size:16px;
+    line-height:20px;
+    margin-top:0
+  }
+
+  #plan-options .center-details{
+    margin-left:0
+  }
+
+  #plan-options ul.center-details{
+    margin-left:20px;
+    margin-right:0
+  }
+
+  .four-week-plan .h4{
+    margin-top:0;
+    font-size:21px
+  }
+
+  .four-week-plan ul{
+    font-size:16px
+  }
+
+  .four-week-plan li{
+    line-height:22px
+  }
+
+  .balanced-nutrition{
+    margin:-6px auto;
+    border-left:2px solid #ccc
+  }
+
+  .balanced-nutrition .h4{
+    margin:0 0 5px 25px
+  }
+
+  .balanced-nutrition ul{
+    margin:0 0 0 25px;
+    font-size:14px
+  }
+
+  .diabetes,.mens,.vegetarian{
+    margin:0 0 60px
+  }
+
+  .diabetes .h3,.mens .h3,.partner-plans .womens .h3,.vegetarian .h3{
+    font-size:24px
+  }
+
+  .diabetes p,.mens p,.partner-plans .womens p,.vegetarian p{
+    font-size:18px;
+    margin-bottom:40px;
+    line-height:22px;
+    padding:0 10px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-86px;
+    left:29px;
+    padding:10px 20px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:36px
+  }
+
+  #plan-options .text-medium li{
+    text-align:left
+  }
+
+  .list-plus>li{
+    position:relative;
+    padding:0 0 0 11px;
+    margin-bottom:12px
+  }
+
+  .list-plus{
+    list-style:none;
+    text-align:left
+  }
+
+  .list-plus>li::before{
+    content:'+';
+    font-weight:700;
+    color:#64a535;
+    position:absolute;
+    top:0;
+    left:0;
+    width:18px;
+    height:20px;
+    background:0
+  }
+
+  .four-plan-padding .well{
+    border-top:20px solid #fff;
+    padding-top:30px
+  }
+
+  .four-plan-padding .well:hover{
+    border-top:20px solid #fff
+  }
+
+  #plan-options .basic-plan .well.bg-gray-lighter p{
+    margin-bottom:26px
+  }
+
+  .btn-sm{
+    padding:9px 9px
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    float:right;
+    top:0;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:155px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  #plan-options .btn-block{
+    width:91%;
+    margin-left:7px
+  }
+
+  .ul-support-burst{
+    position:absolute;
+    border-radius:50%;
+    height:140px;
+    width:140px;
+    top:225px;
+    left:-2px;
+    padding-top:5px
+  }
+
+  .ul-support-burst h3,.ul-support-burst p{
+    transform:rotate(-15deg)
+  }
+
+  .ul-support-burst h3{
+    font-size:20px;
+    position:relative;
+    left:-1px;
+    top:-9px
+  }
+
+  #plan-options.d-plans .basic-plan .bg-gray-lighter h2{
+    margin-bottom:33px
+  }
+
+  #plan-options.d-plans .uy h2{
+    margin-bottom:31px
+  }
+
+  #plan-options.d-plans .basic-plan .bg-gray-lighter h2{
+    margin-bottom:39px
+  }
+
+  #plan-options.d-plans .uy h2{
+    margin-bottom:38px
+  }
+
+  .partner-plan .btn.btn-default{
+    padding:10px 15px
+  }
+}
+
+@media (min-width:768px){
+  #plan-options .well{
+    margin-bottom:0;
+    display:flex;
+    flex-direction:column
+  }
+
+  .well h2{
+    order:1
+  }
+
+  #plan-options .bf2{
+    order:2
+  }
+
+  #plan-options div.price{
+    order:3;
+    margin-bottom:0
+  }
+
+  #plan-options .well p.lead{
+    order:5;
+    height:80px;
+    margin-bottom:0
+  }
+
+  #plan-options .basic-plan p.lead,#plan-options .uy p.lead{
+    padding-top:16px
+  }
+
+  #plan-options .well .menu-choices{
+    order:6;
+    height:60px
+  }
+
+  #plan-options .well button{
+    order:7;
+    margin:0 auto;
+    border-radius: 25px;
+    font-family: korolev,sans-serif;
+    font-size: 19px;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: #fff;
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:12px
+  }
+
+  #plan-options.d-plans .bg-gray-lighter h2{
+    margin-top:6px
+  }
+
+  .basic-plan h2{
+    padding:22px 0 20px
+  }
+
+  .d-plans .basic-plan h2{
+    padding:10px 0 0 0
+  }
+
+  #plan-options .basic-plan .bg-gray-lighter h2,#plan-options .basic-plan .bg-mint h2{
+    margin-top:0
+  }
+
+  #plan-options.partner-plans .uy-plus.max h2.h3{
+    font-size:27px
+  }
+
+  .uy .well{
+    margin-top:20px
+  }
+
+  .d-plans .plan-content:not(.basic-plan) li:before{
+    color:#009cdb
+  }
+
+  .d-plans #basic-bull-mob,.d-plans #uyu-bull-mob,.d-plans .basic-plan .more-info-link,.d-plans .uy-plus .more-info-link{
+    background-color:#f2f2f2
+  }
+
+  .more-info-link{
+    padding-bottom:10px;
+    text-align:center
+  }
+
+  .more-info-link a{
+    display:inline-block;
+    width:86%;
+    padding-top:8px
+  }
+
+  #plan-options .partner-plan .well{
+    padding-bottom:0
+  }
+
+  .d-plans .uy .well{
+    border-bottom:0
+  }
+
+  .d-plans #uy-bull-mob,.d-plans .uy .more-info-link{
+    border-left:2px solid #009cdb;
+    border-right:2px solid #009cdb
+  }
+
+  .d-plans .uy .well-mob{
+    border-bottom:2px solid #009cdb
+  }
+
+  #plan-options.d-plans p.center-details{
+    margin:0 auto 6px
+  }
+
+  #plan-options.d-plans ul.center-details{
+    margin:0;
+    padding:0 7px 10px 23px
+  }
+
+  .plan .amount,.plan sup,.plan-content p sup{
+    font-weight:400;
+    font-family:futura-pt,arial,sans-serif
+  }
+
+  .plan sup{
+    font-size:24px;
+    top:-8px;
+    letter-spacing:.25px
+  }
+
+  .plan.partner-plan .amount sup{
+    font-size:24px;
+    top:-8px
+  }
+
+  footer{
+    margin-top:5px
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:155px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    width:155px
+  }
+
+  .bg-diabetes .balanced-nutrition{
+    border-right:2px solid #ccc;
+    border-left:0
+  }
+
+  .bg-diabetes .balanced-nutrition .h4{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan{
+    margin-top:0
+  }
+
+  .bg-diabetes .four-week-plan .h5{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan ul{
+    margin-left:25px
+  }
+
+  .bg-diabetes .balanced-nutrition ul{
+    margin:0 25px 0 25px
+  }
+
+  .plan .a-day{
+    display:block;
+    font-size:16px;
+    line-height:1;
+    width:118px;
+    font-family:futura-pt,sans-serif;
+    font-weight:400;
+    margin:0 auto
+  }
+
+  .partner-header{
+    font-size:26px;
+    padding-top:16px
+  }
+
+  #partner_plan{
+    text-align:center;
+    padding-bottom:5px
+  }
+
+  .partner-plan .well-border{
+    border:2px solid #ccc;
+    margin-top:16px
+  }
+
+  .partner-plan .well{
+    background-color:#fff
+  }
+
+  .partner-icon{
+    width:80px;
+    height:200px;
+    margin-left:24px
+  }
+
+  .partner-icon img{
+    width:67px;
+    height:67px;
+    margin-top:6px
+  }
+
+  .partner-plan .well h2.h3{
+    font-size:32px;
+    margin-top:0;
+    padding-top:0
+  }
+
+  .partner-plan .well h2.h3 .fw-700{
+    font-size:24px
+  }
+
+  .partner-plan p.lead{
+    font-size:20px;
+    padding-bottom:10px;
+    font-family:futura-pt,arial,sans-serif
+  }
+
+  .partner-plan .starting-at{
+    padding-top:0
+  }
+
+  .partner-plan .dollarSignCents sup{
+    top:-8px;
+    font-size:22px
+  }
+
+  .partner-plan .amount{
+    font-size:36px;
+    line-height:56px
+  }
+
+  .partner-plan .a-week{
+    font-size:20px;
+    line-height:5px;
+    margin-bottom:25px;
+    display:inline;
+    top:-6px;
+    position:relative
+  }
+
+  .partner-plan .per-person{
+    font-size:16px;
+    top:-6px;
+    position:relative
+  }
+
+  .partner-plan .more-info-link{
+    width:95%
+  }
+
+  .partner-plan .more-info-link a{
+    width:100%
+  }
+
+  #basic-bull-mob,#uyu-bull-mob,.basic-plan .more-info-link,.uy-plus .more-info-link{
+    background-color:#eff6e4
+  }
+
+  .d-plans #basic-bull-mob,.d-plans #uyu-bull-mob,.d-plans .basic-plan .more-info-link,.d-plans .uy-plus .more-info-link{
+    background-color:#f2f2f2
+  }
+
+  .more-info-link{
+    padding-bottom:10px;
+    text-align:center
+  }
+
+  .more-info-link a{
+    display:inline-block;
+    width:86%
+  }
+
+  #uy-bull-mob,.uy .more-info-link{
+    border-left:2px solid #64a535;
+    border-right:2px solid #64a535
+  }
+
+  .uy .well-mob{
+    border-bottom:2px solid #64a535
+  }
+
+  .d-plans #uy-bull-mob,.d-plans .uy .more-info-link,.d-plans .uy .well-mob{
+    border-color:#009cdb
+  }
+
+  .d-plans .uy .well{
+    border-bottom:0
+  }
+
+  #plan-options ul.center-details{
+    margin-bottom:0
+  }
+
+  .plan-content.partner-plan ul{
+    list-style:disc;
+    padding:0 0 0 20px
+  }
+
+  .plan-content.partner-plan li{
+    padding-left:0
+  }
+
+  .plan-content.partner-plan li:before{
+    content:""
+  }
+
+  .new-menu h4{
+    font-size:30px
+  }
+
+  .balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-DT.jpg) 12px 0 no-repeat;
+    background-size:44%;
+    min-height:190px
+  }
+
+  .new-menu{
+    margin:0 0 0 180px
+  }
+
+  .new-menu h4{
+    font-size:20px
+  }
+
+  .jumbotron.bg-mint{
+    padding-top:48px;
+    padding-bottom:48px
+  }
+
+  .partner-plans.four-week-plan .h4{
+    font-size:28px;
+    margin:0 auto 20px
+  }
+
+  .partner.balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-DT.jpg) 5% 35px no-repeat;
+    background-size:49%;
+    min-height:192px;
+    padding-left:0
+  }
+
+  .partner.new-menu h4{
+    font-size:22px
+  }
+
+  .partner .new-menu{
+    margin:20px 0 0 220px;
+    padding-bottom:0
+  }
+
+  #other-plans.partner-plans .plan .h3{
+    font-size:22px
+  }
+
+  #other-plans.partner-plans p.lead{
+    font-size:16px
+  }
+
+  #other-plans.partner-plans p.op-dt-link{
+    font-size:12px
+  }
+
+  #giveaway h3{
+    font-size:30px;
+    padding-top:10px
+  }
+
+  #giveaway p.h4{
+    font-size:22px
+  }
+
+  #giveaway img{
+    margin-bottom:20px
+  }
+
+  #giveaway .rules{
+    margin-bottom:30px
+  }
+
+  #chrisley .main{
+    padding-left:0;
+    padding-top:30px
+  }
+
+  #chrisley h3{
+    font-size:1.6em
+  }
+
+  #chrisley .usa-network{
+    width:50px
+  }
+
+  #chrisley .intouch{
+    width:90px
+  }
+
+  #chrisley .img{
+    overflow:visible
+  }
+
+  .bestNewFoods{
+    position:absolute;
+    right:2px;
+    top:79px;
+    width:33%
+  }
+
+  .partner-plans .bestNewFoods{
+    right:2px;
+    top:172px
+  }
+
+  #plan-options{
+    padding-bottom:50px
+  }
+
+  .partner-icon{
+    padding-left:0
+  }
+
+  #plan-options .max h2{
+    margin:0;
+    text-align:center;
+    font-size:27px
+  }
+
+  h1.h3.partner-plans{
+    font-size:32px
+  }
+
+  .max h2 span.h5{
+    font-size:20px;
+    display:block
+  }
+
+  .uy .well{
+    margin-top:20px;
+    background-color:#eff6e4;
+    border:0
+  }
+
+  #uy-bull-mob,.uy .more-info-link{
+    border-left:0;
+    border-right:0;
+    background-color:#eff6e4
+  }
+
+  #plan-options ul.center-details{
+    margin:0 15px
+  }
+
+  #uyu-bull-mob,.max .more-info-link{
+    border-left:2px solid #64a535;
+    border-right:2px solid #64a535;
+    background-color:#fff
+  }
+
+  .four-plan-padding .max .well{
+    background:#fff;
+    border:2px solid #64a535
+  }
+
+  #plan-options .max .well{
+    background:#fff;
+    border-top:2px solid #64a535;
+    border-left:2px solid #64a535;
+    border-right:2px solid #64a535;
+    margin-top:20px;
+    padding:5px 4px 19px
+  }
+
+  #plan-options.partner-plans .max .well{
+    padding:26px 3px 19px
+  }
+
+  #plan-options.partner-plans h2.h3{
+    font-size:30px
+  }
+
+  .max .well-mob{
+    border-bottom:2px solid #64a535
+  }
+
+  #uyu-bull-mob .bg-gray-lighter,.partner-plans #uyu-bull-mob .bg-gray-lighter{
+    margin:0 15px 0
+  }
+
+  .partner-plan .well h2.h3{
+    font-size:32px;
+    margin-top:0;
+    padding-top:0
+  }
+
+  .uy h2{
+    margin:10px 0 28px
+  }
+
+  .partner-plans .uy h2{
+    margin:10px 0 0
+  }
+
+  .partner-plans .bf2{
+    margin-top:10px
+  }
+
+  #plan-options .plan:not(.uy-plus) .bg-gray-lighter{
+    background-color:#fff
+  }
+
+  #plan-options .plan .collapse{
+    padding-bottom:1px
+  }
+
+  #plan-options .plan.uy-plus .collapse{
+    padding-bottom:15px
+  }
+
+  #plan-options.partner-plans .basic-plan .bg-mint h2{
+    padding:0;
+    margin-top:10px
+  }
+
+  #plan-options .basic-plan .bg-mint h2{
+    margin-bottom:0;
+    padding:10px 0 28px
+  }
+
+  .contest h3{
+    margin:0 auto 10px
+  }
+
+  .contest .border{
+    margin-top:24px
+  }
+
+  .contest .people-icon{
+    position:relative;
+    bottom:10px
+  }
+
+  .contest p.h4{
+    margin:0 auto 0;
+    line-height:1.4
+  }
+
+  contest .disclaimer {
+    padding-top: 5px;
+  }
+
+  .contest .winners img {
+    width:205px;
+    max-width:none;
+    margin: 0 32px 25px 32px;
+  }
+
+  .contest .winners h3 {
+    width:200px;
+    height:45px;
+    border-radius: 20px;
+    font-size: 1.5em;
+    padding-top: 12px;
+    padding-left: 12px;
+    margin: 22px 0 18px;
+  }
+
+  .contest .winners p.h4 {
+    font-size:1.625em;
+  }
+
+  .contest .winners p.h5 {
+    margin-left: 10px;
+    display: inline-block;
+  }
+
+  .jumbotron {
+    padding-bottom: 48px;
+  }
+}
+
+@media (min-width:768px) and (-ms-high-contrast:active), (min-width:768px) and (-ms-high-contrast:none){
+  .partner-plan .a-week{
+    font-size:19px
+  }
+}
+
+@media (min-width:992px){
+  .plan-header{
+    margin-bottom:30px
+  }
+
+  .bg-gray-lighter h2,.bg-mint h2{
+    margin-bottom:0
+  }
+
+  .bg-green-lighter{
+    background-color:#d0dd4f
+  }
+
+  .text-green-darker{
+    color:#43791d
+  }
+
+  .text-uppercase{
+    text-transform:uppercase
+  }
+
+  .plan-content .h5{
+    margin-top:0;
+    font-size:17px;
+    font-weight:700
+  }
+
+  .plan-content ul{
+    padding:0 0 0 18px
+  }
+
+  .top-rated-burst{
+    top:44px;
+    right:-20px
+  }
+
+  .d-content .top-rated-burst{
+    top:58px;
+    right:-20px
+  }
+
+  #plan-options.d-plans .well{
+    margin-bottom:0
+  }
+
+  #plan-options .d-content .well{
+    margin-bottom:38px
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:2px;
+    margin-bottom:2px
+  }
+
+  #plan-options.d-plans h2{
+    font-size:27px
+  }
+
+  #plan-options .d-content .bg-gray-lighter h2,#plan-options .d-content .bg-mint h2{
+    margin-top:12px;
+    margin-bottom:38px
+  }
+
+  #plan-options .uy-plus-padding.bg-gray-lighter h2,#plan-options .uy-plus-padding.bg-mint h2{
+    margin-top:-20px;
+    margin-bottom:17px
+  }
+
+  #plan-options p.center-details{
+    margin-left:0;
+    margin-bottom:10px;
+    margin-top:0
+  }
+
+  #plan-options ul.center-details{
+    margin-right:0
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:9px
+  }
+
+  .d-content .uy h2{
+    margin-top:-9px;
+    margin-bottom:23px
+  }
+
+  .core-margin .bg-gray-lighter h2,.core-margin .bg-mint h2{
+    margin-top:32px
+  }
+
+  .plan .starting-at{
+    font-size:16px;
+    font-family:futura-pt,Arial,Helvetica,sans-serif;
+    text-transform:lowercase;
+    font-weight:400;
+    color:#666;
+    padding:9px 0 0;
+    line-height:20px
+  }
+
+  .plan .amount,.plan sup,.plan-content p sup{
+    font-weight:400;
+    font-family:futura-pt,arial,sans-serif
+  }
+
+  .plan .amount{
+    font-size:42px;
+    letter-spacing:-2px;
+    line-height:45px;
+    text-align:left;
+    color:#4c4c4c
+  }
+
+  .plan sup{
+    font-size:21px;
+    top:-13px;
+    color:#4c4c4c;
+    letter-spacing:.25px
+  }
+
+  .plan.partner-plan .amount sup{
+    font-size:21px;
+    top:-13px
+  }
+
+  .plan .dollarSignCents sup{
+    font-size:26px;
+    top:-14px
+  }
+
+  .plan .a-day{
+    width:123px
+  }
+
+  .d-content .plan .a-day{
+    width:187px;
+    margin:0 0 17px 30px
+  }
+
+  .plan-content p sup{
+    font-size:9px;
+    top:-9px
+  }
+
+  #plan-options .bf2{
+    font-size:18px
+  }
+
+  #plan-options .well p.lead{
+    font-size:18px;
+    letter-spacing:0;
+    margin-top:20px;
+    height:112px
+  }
+
+  #plan-options .well p.menu-choices{
+    font-size:14px;
+    letter-spacing:0;
+    margin:0;
+    height:65px
+  }
+
+  .four-week-plan{
+    margin-top:18px
+  }
+
+  .four-week-plan .h4{
+    line-height:30px;
+    font-size:26px;
+    margin-top:0
+  }
+
+  .four-week-plan li{
+    line-height:22px
+  }
+
+  .balanced-nutrition{
+    border-left:2px solid #ccc;
+    margin:0
+  }
+
+  .bg-diabetes .balanced-nutrition{
+    border-right:2px solid #ccc;
+    border-left:0;
+    margin:0
+  }
+
+  .balanced-nutrition .h4{
+    margin:0 0 5px 25px
+  }
+
+  .bg-diabetes .balanced-nutrition .h4{
+    margin:0 0 15px 25px;
+    font-size:26px;
+    font-weight:400
+  }
+
+  .bg-diabetes .four-week-plan{
+    margin-top:0
+  }
+
+  .bg-diabetes .four-week-plan .h5{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan ul{
+    margin-left:25px
+  }
+
+  .balanced-nutrition ul{
+    margin:0 0 0 25px
+  }
+
+  .bg-diabetes .balanced-nutrition ul{
+    margin:0 25px 0 25px
+  }
+
+  #other-plans{
+    margin-bottom:15px
+  }
+
+  #other-plans .h3{
+    padding-top:0
+  }
+
+  #other-plans p{
+    font-size:16px;
+    margin-bottom:44px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:52px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:57px
+  }
+
+  .diabetes,.mens,.vegetarian{
+    margin-bottom:30px
+  }
+
+  .four-plan-padding .well{
+    border-top:20px solid #fff
+  }
+
+  .four-plan-padding .well:hover{
+    border-top:20px solid #fff
+  }
+
+  .list-plus>li{
+    position:relative;
+    padding:0 0 0 11px;
+    margin-bottom:12px
+  }
+
+  .list-plus{
+    list-style:none;
+    text-align:left
+  }
+
+  .list-plus>li::before{
+    content:'+';
+    font-weight:700;
+    color:#64a535;
+    position:absolute;
+    top:0;
+    left:0;
+    width:18px;
+    height:20px;
+    background:0
+  }
+
+  .d-content .list-plus>li::before{
+    color:#009cdb
+  }
+
+  #plan-options .text-medium li{
+    font-size:13px;
+    text-align:left
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    float:right;
+    top:0;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:155px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:155px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    width:155px
+  }
+
+  #other-plans .col-sm-12{
+    margin-bottom:-28px
+  }
+
+  .ul-support-burst{
+    position:absolute;
+    border-radius:50%;
+    height:140px;
+    width:140px;
+    top:317px;
+    left:-8px;
+    padding-top:5px
+  }
+
+  .ul-support-burst h3,.ul-support-burst p{
+    transform:rotate(-15deg)
+  }
+
+  .ul-support-burst h3{
+    font-size:20px;
+    position:relative;
+    left:-1px;
+    top:-9px
+  }
+
+  #partner_plan .a-week{
+    font-size:16px;
+    top:-7px
+  }
+
+  .balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-DT.jpg) 5% 0 no-repeat;
+    background-size:49%;
+    min-height:192px;
+    padding-left:0
+  }
+
+  .new-menu{
+    margin:0 0 0 212px
+  }
+
+  .new-menu h4{
+    font-size:30px
+  }
+
+  .partner-plan .well{
+    position:relative
+  }
+
+  .partner-plan a.card-link-dt{
+    position:absolute;
+    z-index:1;
+    width:750px;
+    height:190px;
+    top:0
+  }
+
+  .partner-plans.four-week-plan .h4{
+    font-size:30px
+  }
+
+  .partner.balanced-nutrition{
+    background-size:40%;
+    background-position:5% center
+  }
+
+  .partner .new-menu{
+    margin:50px 0 10px 230px
+  }
+
+  #other-plans .plan{
+    padding:0 6px
+  }
+
+  #other-plans.partner-plans p.op-dt-link{
+    font-size:14px
+  }
+
+  #chrisley h2{
+    font-size:2em;
+    margin-bottom:10px
+  }
+
+  #chrisley h3{
+    font-size:2.55em;
+    margin:6px 0 25px
+  }
+
+  #chrisley p.copy{
+    font-size:1.625em;
+    padding-left:1em;
+    margin-bottom:20px
+  }
+
+  #chrisley p.asseen{
+    padding-left:1em
+  }
+
+  #chrisley .usa-network{
+    width:auto
+  }
+
+  #chrisley .intouch{
+    width:auto
+  }
+
+  #chrisley .burst{
+    width:200px;
+    right:-40px;
+    top:45px;
+  }
+
+  #chrisley .burstcopy{
+    right:-12px;
+    top:106px
+  }
+
+  #chrisley .img .toddjulie{
+    width:100%;
+    max-width:486px
+  }
+
+  #chrisley p.small{
+    text-align:left
+  }
+
+  .bestNewFoods{
+    position:absolute;
+    right:34px;
+    top:93px;
+    width:26%
+  }
+
+  .partner-plans .bestNewFoods{
+    right:17px;
+    top:127px
+  }
+
+  #plan-options .max h2{
+    margin:10px auto 0
+  }
+
+  .uy h2{
+    margin:17px 0 0
+  }
+
+  #plan-options .basic-plan .bg-mint h2{
+    padding:17px 0 0
+  }
+
+  #plan-options.partner-plans .max .well{
+    padding:26px 15px 19px
+  }
+
+  .max h2 span.h5{
+    text-align:center
+  }
+
+  #plan-options h2 img{
+    width:20px;
+    height:20px
+  }
+
+  .partner .new-menu{
+    padding-bottom:40px
+  }
+
+  #plan-options.partner-plans .uy-plus.max h2.h3{
+    margin-top:3px;
+    margin-bottom:2px
+  }
+
+  .contest h3{
+    font-size:1.875em;
+    margin-top:15px
+  }
+
+  .contest p.h4{
+    font-size:1.25em
+  }
+
+  .contest .border p.h5{
+    font-size:1.25em
+  }
+
+  .contest .icon-txt{
+    width:254px
+  }
+
+  .contest .winners img {
+    margin-left: 0;
+  }
+}
+
+@media (min-width:1200px){
+  .four-week-plan{
+    margin-top:0;
+    padding-right:10px
+  }
+
+  .four-week-plan .h4{
+    margin-top:5px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:82px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:85px
+  }
+
+  #other-plans p{
+    font-size:18px
+  }
+
+  .balanced-nutrition{
+    background:url(../../../images/diet-plans/Bourbon-Chicken-DT.jpg) 5% 0 no-repeat;
+    background-size:48%;
+    min-height:223px;
+    padding-left:0
+  }
+
+  .new-menu{
+    margin:0 15px 0 255px
+  }
+
+  .partner-plan a.card-link-dt{
+    width:910px;
+    height:175px
+  }
+
+  .partner-plans.four-week-plan .new-menu{
+    margin-top:18px
+  }
+
+  .partner .new-menu{
+    margin:50px 0 10px 270px
+  }
+
+  #giveaway img{
+    margin-right:10px
+  }
+
+  #giveaway .border{
+    margin:15px 75px
+  }
+
+  .bestNewFoods{
+    position:absolute;
+    right:47px;
+    top:93px;
+    width:26%
+  }
+
+  #plan-options .max h2{
+    margin:10px auto 0
+  }
+
+  .partner-plans.four-week-plan{
+    margin-top:18px
+  }
+
+  .contest .winners img {
+    margin-left: 32px;
+  }
+}
+

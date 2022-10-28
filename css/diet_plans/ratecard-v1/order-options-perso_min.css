@@ -1,0 +1,2201 @@
+@keyframes wiggle {
+    0 {
+        transform: rotate(0)
+    }
+
+    5 % {
+        transform: rotate(5deg)
+    }
+
+    10 % {
+        transform: rotate(-5deg)
+    }
+
+    15 % {
+        transform: rotate(5deg)
+    }
+
+    20 % {
+        transform: rotate(-5deg)
+    }
+
+    25 % {
+        transform: rotate(5deg)
+    }
+
+    30 % {
+        transform: rotate(-5deg)
+    }
+
+    100 % {
+        transform: rotate(0)
+    }
+}
+
+#best-for-me a[aria-expanded=true] .glyphicon-menu-down:before {
+    content: "\e260"
+}
+
+#payPalButton img,#payPalCreditButton img {
+    padding: 10px 43px;
+    border-radius: 5px;
+    background: #eee;
+    text-align: center;
+    height: 45px;
+    display: inline-block
+}
+
+#payPalCreditButton img {
+    background: #013087
+}
+
+div.ppc-btns {
+    margin-right: -4px;
+    margin-left: -4px
+}
+
+.ppc-btns .col-xs-6 {
+    padding-left: 4px;
+    padding-right: 4px
+}
+
+.men-claim {
+    display: none
+}
+
+.men .women-claim {
+    display: none
+}
+
+.men .men-claim {
+    display: block
+}
+
+@-webkit-keyframes bounce {
+    0,100 %,20 %,50 %,80 % {
+        -webkit-transform: translateY(0)
+    }
+
+    40 % {
+        -webkit-transform: translateY(-5px)
+    }
+
+    60 % {
+        -webkit-transform: translateY(-3px)
+    }
+}
+
+@-moz-keyframes bounce {
+    0,100 %,20 %,50 %,80 % {
+        -moz-transform: translateY(0)
+    }
+
+    40 % {
+        -moz-transform: translateY(-5px)
+    }
+
+    60 % {
+        -moz-transform: translateY(-3px)
+    }
+}
+
+@-o-keyframes bounce {
+    0,100 %,20 %,50 %,80 % {
+        -o-transform: translateY(0)
+    }
+
+    40 % {
+        -o-transform: translateY(-5px)
+    }
+
+    60 % {
+        -o-transform: translateY(-3px)
+    }
+}
+
+@keyframes bounce {
+    0,100 %,20 %,50 %,80 % {
+        transform: translateY(0)
+    }
+
+    40 % {
+        transform: translateY(-5px)
+    }
+
+    60 % {
+        transform: translateY(-3px)
+    }
+}
+
+.men .plan-page-d-module p.women-d-link,.plan-page-d-module p.men-d-link {
+    display: none
+}
+
+.men .plan-page-d-module p.men-d-link {
+    display: block
+}
+
+.clearfix,p.or {
+    clear: both
+}
+
+.a-day,.order-options h4,.price {
+    font-family: futura-pt,Arial,Helvetica,sans-serif
+}
+
+.men .sub-nav,.men-sub-nav {
+    display: none
+}
+
+.men .men-sub-nav {
+    display: block
+}
+
+.order-options {
+    background-color: #fff;
+    z-index: 100
+}
+
+#order-options {
+    -webkit-transition: all .5s ease;
+    -moz-transition: position 10s;
+    -ms-transition: position 10s;
+    -o-transition: position 10s;
+    transition: all .5s ease
+}
+
+.order-options.review {
+    background-color: transparent
+}
+
+.order-options h3 {
+    margin: 0 0 20px;
+    letter-spacing: 2px
+}
+
+#menu-options {
+    margin-bottom: 15px;
+    margin-top: 25px
+}
+
+.order-options .chef-txt {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1
+}
+
+.order-options.review .chef-txt {
+    font-size: 16px
+}
+
+.order-options .perso-txt {
+    display: inline-block;
+    width: 260px;
+    vertical-align: middle
+}
+
+#dna-options input[type=radio] {
+    opacity: 1;
+    top: -22px;
+    left: -3px
+}
+
+#dna-options .radiogroup {
+    display: block;
+    max-height: 30px;
+    line-height: 1;
+    margin: 0
+}
+
+.order-options #dna-options .row .radiogroup:nth-of-type(odd) {
+    padding: 0 10px 0 15px
+}
+
+.order-options #dna-options .row .radiogroup:nth-of-type(even) {
+    padding: 0 10px 0 15px
+}
+
+.order-options fieldset {
+    margin-top: 15px;
+    margin-bottom: 0
+}
+
+.order-options.review fieldset#delivery-options {
+    margin-top: 12px;
+    font-size: 1.25em
+}
+
+#delivery-options-legend span,#delivery-options-link span {
+    font-size: 16px
+}
+
+#delivery-options .bogo-txt span.glyphicon-tag {
+    display: inline-block;
+    color: #af3eb3;
+    font-size: 31px;
+    vertical-align: text-top;
+    padding-top: 5px;
+    margin-right: 8px
+}
+
+.order-options .bogo-txt p {
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: text-top;
+    margin: 0 0 20px;
+    width: 241px
+}
+
+#dna-options {
+    margin-bottom: 0
+}
+
+.mbg {
+    margin-top: 20px
+}
+
+.button-group label {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid #e6e6e6;
+    border-radius: 2px;
+    font-weight: 400;
+    padding: 13px 0;
+    width: 100%;
+    font-size: .8125em
+}
+
+.button-group label.selected,.button-group label.selected:hover {
+    background-color: #fff;
+    border: 2px solid #64a535;
+    border-radius: 5px;
+    color: #000
+}
+
+#favorites .btn-call-out {
+    font-family: arial,sans-serif;
+    font-size: 11px;
+    display: block;
+    background-color: #43791d;
+    position: relative;
+    height: 16px;
+    width: 90%;
+    padding-top: 3px;
+    margin: 0 auto 2px
+}
+
+#favorites .btn-call-out:before {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 0 8px 5px;
+    border-color: transparent transparent transparent #fff;
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+#favorites .btn-call-out:after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 5px 8px 0;
+    border-color: transparent #fff transparent transparent;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+#favorites.selected .btn-call-out:before {
+    border-color: transparent transparent transparent #f0f7ec
+}
+
+#favorites.selected .btn-call-out:after {
+    border-color: transparent #f0f7ec transparent transparent
+}
+
+#favorites .chef-txt svg {
+    width: 19px;
+    height: 18px;
+    position: relative;
+    top: 2px
+}
+
+#favorites.selected .chef-txt svg .fill-color {
+    fill: #006b00
+}
+
+#dna-options legend {
+    margin-bottom: 10px;
+    padding-left: 15px
+}
+
+#dna-options label {
+    text-align: left;
+    border: 0;
+    padding: 0 0 0 20px
+}
+
+#dna-options label.selected,#dna-options label.selected:hover {
+    border: 0;
+    padding: 0 0 0 20px
+}
+
+.order-options .btn-group button:hover {
+    background-color: #fff;
+    border: 2px solid #64a535;
+    color: #000
+}
+
+.order-options .btn-group button.selected:hover {
+    border: 2px solid #64a535
+}
+
+.price {
+    font-size: 2.5em;
+    font-weight: 400;
+    letter-spacing: -2px;
+    line-height: .85em
+}
+
+.order-options hr.price-hr {
+    margin: 0 auto
+}
+
+p.mbg-text {
+    font-weight: 700
+}
+
+.price-container {
+    margin-top: 20px;
+    margin-bottom: 30px
+}
+
+.a-day {
+    font-size: 19px;
+    line-height: 1.2;
+    margin-left: 15px
+}
+
+p.free-ship-txt {
+    font-size: .875em;
+    font-weight: 700
+}
+
+#testForm {
+    margin-bottom: 15px
+}
+
+.mbg .glyphicon.glyphicon-menu-right {
+    font-size: 11px
+}
+
+p.mbg-text {
+    font-size: 16px;
+    padding-top: 12px;
+    font-family: Futura-pt,Arial,sans-serif;
+    line-height: 1.2
+}
+
+.order-options .pane1weekprice a.text-medium {
+    line-height: inherit
+}
+
+p.pane1price {
+    margin: 0
+}
+
+.bf-promo-code-ratecard {
+    background-color: #000;
+    color: #fff;
+    font-family: futura-pt,arial,sans-serif;
+    font-weight: 700;
+    border-radius: 12px;
+    padding: 0 5px;
+    font-size: 12px;
+    margin: 6px 0;
+    width: 162px
+}
+
+.bf-promo-code-mob {
+    display: block;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    font-family: futura-pt,arial,sans-serif;
+    font-size: 18px;
+    padding: 5px 15px;
+    margin: 0;
+    margin-top: -38px
+}
+
+@media screen and (-ms-high-contrast:active),all and (-ms-high-contrast:none) {
+    img.mbg-img[src$=".svg"] {
+        margin-right: 10px;
+        width: 68px;
+        height: 68px
+    }
+}
+
+.mbg-img {
+    margin-right: 10px;
+    width: 68px;
+    height: 68px
+}
+
+p .mbg-details-link {
+    margin-left: 2px;
+    font-family: Arial,sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-decoration: underline;
+    color: #4c4c4c
+}
+
+p.or {
+    padding-top: 15px
+}
+
+.claim-wrap h2 {
+    margin-bottom: 16px;
+    font-size: 22px;
+    line-height: 1.2
+}
+
+.claim-wrap h2 span {
+    font-size: 26px;
+    display: block
+}
+
+.claim-wrap img {
+    width: 174px;
+    height: 27px
+}
+
+.claim-wrap .claim {
+    line-height: 26px;
+    margin: 0 0 30px
+}
+
+.men-claim .claim-wrap .claim {
+    margin: 0
+}
+
+.claim-wrap .claim h3 {
+    margin-top: 20px
+}
+
+.claim-wrap span.h3 {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 8px;
+    padding-left: 2px
+}
+
+.claim-wrap span.h4 {
+    display: inline-block;
+    font-size: 24px;
+    margin: 0
+}
+
+.claim-wrap span.h5 {
+    margin-top: 0;
+    display: block;
+    font-size: 22px
+}
+
+.men .claim-wrap.mens-claim img {
+    width: 95%;
+    margin-left: -6px
+}
+
+p.all-new a {
+    font-size: 14px
+}
+
+.text-dna {
+    color: #123b62
+}
+
+#dna-whats-this h2.modal-title {
+    color: #123b62;
+    font-weight: 700;
+    text-transform: none;
+    margin-top: 30px
+}
+
+#dna-whats-this #how-it-works h2.modal-title {
+    margin-bottom: 15px
+}
+
+#dna-whats-this h4 {
+    font-size: 22px;
+    color: #000;
+    text-transform: none
+}
+
+#dna-whats-this .icon {
+    height: 60px;
+    width: 75px;
+    text-align: center;
+    margin: 0 auto;
+    display: block
+}
+
+#dna-whats-this .icon-container p {
+    text-align: center
+}
+
+#dna-whats-this .icon-container {
+    margin: 15px 0
+}
+
+.bg-light-blue {
+    background: url(/images/myaccount/dna/modal-sale-bg-mobile.png) center center repeat-x;
+    position: relative;
+    max-height: 130px;
+    margin-left: 0;
+    margin-right: 0
+}
+
+.bg-light-blue img {
+    position: relative;
+    top: -7px
+}
+
+.bg-light-blue .col-xs-7 {
+    height: 40px
+}
+
+.bg-light-blue p {
+    position: absolute;
+    top: 50%
+}
+
+.dna-blue {
+    color: #2babe2
+}
+
+.no-thanks {
+    margin-top: 15px
+}
+
+.no-thanks span {
+    padding-top: 5px;
+    display: block
+}
+
+.men .claim-wrap.mens-module p,.men .dna-logo-container.mens-module p {
+    text-align: center;
+    margin-bottom: 0
+}
+
+input[type=checkbox]:checked:after {
+    left: 1px;
+    width: 16px;
+    background: url(../../../images/myaccount/myprofile/autoship/green_check_checkbox.svg) center no-repeat;
+    background-size: contain
+}
+
+.order-options legend.h5 {
+    margin: 0 0 7px;
+    font-weight: 400;
+    padding-left: 0;
+    color: #666;
+    font-size: 1.375em;
+    position: relative;
+    z-index: 1
+}
+
+.order-options.review legend.h5 {
+    font-size: 22px
+}
+
+.btn-interstitial.selected {
+    border-color: #64a535
+}
+
+.order-options .btn-interstitial {
+    width: 50%;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    font-size: 1.125em;
+    color: #4c4c4c;
+    line-height: 1
+}
+
+.order-options #favorites.btn-interstitial,.order-options #women.btn-interstitial {
+    border-radius: 5px 0 0 5px;
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-right: 0
+}
+
+.order-options #custom.btn-interstitial,.order-options #men.btn-interstitial {
+    border-radius: 0 5px 5px 0;
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-left: 0
+}
+
+.order-options.review .btn-interstitial {
+    width: 100%
+}
+
+.order-options.review #menu-options .btn-interstitial {
+    height: 60px
+}
+
+.order-options #menu-options #favorites.btn-interstitial {
+    text-align: center
+}
+
+.review .order-options #menu-options #favorites.btn-interstitial {
+    padding: 14px 8px 18px
+}
+
+.order-options #menu-options #favorites.btn-interstitial .chef-txt {
+    line-height: 1;
+    width: 100%
+}
+
+.order-options.review #menu-options .btn-interstitial {
+    padding: 14px 8px 18px
+}
+
+.order-options.review #menu-options #favorites.btn-interstitial {
+    padding: 4px 15px
+}
+
+.order-options #menu-options .btn-interstitial.perso-btn {
+    padding: 1px 0 2px 15px;
+    height: 63px
+}
+
+.order-options button#custom.btn-interstitial {
+    line-height: .85
+}
+
+.order-options #delivery-options .btn-interstitial {
+    width: 100%;
+    height: 56px;
+    margin: 0 0 10px;
+    padding: 0 8px 0 20px;
+    font-size: 1.125em;
+    color: #4c4c4c;
+    text-align: left
+}
+
+.order-options #delivery-options .btn-interstitial:last-child {
+    margin: 0
+}
+
+#delivery-options .del-price {
+    display: inline-block;
+    text-align: center;
+    float: right;
+    vertical-align: middle;
+    line-height: .8;
+    font-size: 21px;
+    position: relative;
+    top: 2px
+}
+
+#delivery-options .ship-btn-txt {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 2.1;
+    font-size: 16px
+}
+
+#delivery-options .ship-btn-txt .text-purple-lighter {
+    font-size: 18px
+}
+
+#delivery-options #bogo .ship-btn-txt,#delivery-options #pre3pay .ship-btn-txt {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.2;
+    font-size: 16px;
+    padding-top: 0;
+    white-space: initial;
+    width: 242px
+}
+
+#delivery-options #bogo .ship-btn-txt strong,#delivery-options #pre3pay .ship-btn-txt strong {
+    font-size: 17px
+}
+
+#delivery-options .shipfb {
+    font-weight: 700;
+    font-size: 15px
+}
+
+.del-a-day {
+    font-size: 15px
+}
+
+.order-options #delivery-options #bogo.btn-interstitial .ship-btn-txt strong {
+    color: #af3eb3
+}
+
+.order-options #delivery-options .btn-interstitial.selected .ship-btn-txt {
+    color: #43791d
+}
+
+.order-options #delivery-options #bogo.btn-interstitial.selected .ship-btn-txt {
+    color: #4c4c4c
+}
+
+.order-options #delivery-options #autodelivery.btn-interstitial.selected .ship-btn-txt,.order-options #delivery-options #month2month.btn-interstitial.selected .ship-btn-txt {
+    font-weight: 700
+}
+
+.order-options #delivery-options .btn-interstitial.selected {
+    background-color: #f0f7ec
+}
+
+#meal-plan-options .btn-interstitial.selected,#meal-plan-options .btn-interstitial:active,#menu-options .btn-interstitial.selected {
+    font-weight: 700;
+    color: #43791d;
+    background-color: #f0f7ec;
+    border: 2px solid #64a535;
+    border-radius: 5px 0 0 5px
+}
+
+#meal-plan-options #men.btn-interstitial.selected,#meal-plan-options #men.btn-interstitial:active,#meal-plan-options #men.btn-interstitial:focus,#menu-options #custom.btn-interstitial.selected {
+    font-weight: 700;
+    color: #43791d;
+    background-color: #f0f7ec;
+    border: 2px solid #64a535;
+    border-radius: 0 5px 5px 0
+}
+
+#meal-plan-options .btn-interstitial.selected:focus,#meal-plan-options .btn-interstitial.selected:focus-within,#menu-options .btn-interstitial.selected:focus,#menu-options .btn-interstitial.selected:focus-within {
+    border-color: #64a535;
+    border-radius: 5px 0 0 5px
+}
+
+#meal-plan-options .check-metabolism {
+    background-color: #fffde6;
+    border: 1px solid #fbee52;
+    padding: 15px 12px;
+    margin-top: 20px;
+    margin-bottom: 0
+}
+
+#meal-plan-options .check-metabolism label {
+    font-weight: 700
+}
+
+#meal-plan-options .check-metabolism input#personal {
+    top: 19px
+}
+
+.chef-sub-txt {
+    font-family: arial,sans-serif;
+    display: block;
+    line-height: 1.3
+}
+
+.check-metabolism span.check-txt {
+    margin-left: 4px;
+    display: inline-block
+}
+
+.chef-sub-txt.text-green {
+    font-weight: 700;
+    text-transform: uppercase
+}
+
+#dna-options a.text-medium {
+    margin-top: -42px
+}
+
+.order-options a.text-medium {
+    font-size: 12px;
+    text-decoration: underline;
+    font-family: arial,sans-serif;
+    color: #00598a;
+    line-height: 2.4
+}
+
+#delivery-options a {
+    display: inline-block
+}
+
+#delivery-options a#choose-delivery {
+    top: 0;
+    position: relative
+}
+
+.order-options.review #delivery-options a#choose-delivery {
+    top: -3px
+}
+
+a#delivery-options-link {
+    display: none
+}
+
+#autodelivery-price-text {
+    margin-bottom: 10px
+}
+
+#pane1weekprice a {
+    line-height: 16px
+}
+
+#delivery-options legend {
+    display: inline-block;
+    width: 296px;
+    margin: 0 0 10px
+}
+
+#delivery-options.in legend {
+    width: 143px
+}
+
+.order-options #delivery-options .btn-interstitial.selected .ship-btn-txt {
+    color: #43791d
+}
+
+.order-options #delivery-options #bogo.btn-interstitial.selected .ship-btn-txt,.order-options #delivery-options #pre3pay.btn-interstitial.selected .ship-btn-txt {
+    color: #4c4c4c;
+    font-weight: 300
+}
+
+.order-options #delivery-options .btn-interstitial {
+    margin: 0;
+    border-bottom-width: 0;
+    border-radius: 0
+}
+
+.order-options #delivery-options .btn-interstitial:first-child {
+    border-radius: 5px 5px 0 0
+}
+
+.order-options #delivery-options .btn-interstitial:last-child {
+    border-bottom-width: 2px;
+    border-radius: 0 0 5px 5px
+}
+
+.order-options #delivery-options .btn-interstitial.selected+button {
+    border-top-color: #64a535
+}
+
+.order-options #delivery-options-collapse .btn-group {
+    margin: 0 auto
+}
+
+.plan-page-d-module p {
+    font-family: Futura-pt,Arial,sans-serif;
+    font-weight: 500;
+    margin: auto;
+    padding: 30px 0
+}
+
+.plan-page-d-module p a {
+    text-decoration: none;
+    text-align: center
+}
+
+.dna-error-msg {
+    position: relative;
+    animation: bounce 2s infinite;
+    border: 1px solid #d11919;
+    -webkit-animation: bounce 2s infinite;
+    -moz-animation: bounce 2s infinite;
+    -o-animation: bounce 2s infinite
+}
+
+.dna-error-msg p {
+    color: #d11919
+}
+
+.dna-error-msg .arrow {
+    border-bottom-color: #d11919
+}
+
+.plan-page-d-module p,.plan-page-d-module p a {
+    font-size: 18px;
+    line-height: 1.33;
+    vertical-align: baseline
+}
+
+.review .add-shakes-copy strong {
+    font-size: 18px
+}
+
+.ppc-btns img {
+    padding-left: 3px;
+    padding-right: 3px
+}
+
+.order-options #add-shakes legend.h5 {
+    margin-bottom: 0
+}
+
+.order-options #add-shakes legend.h5 span {
+    font-size: 20px
+}
+
+#add-shakes span.yes-shakes {
+    display: block;
+    margin-left: 4px;
+    font-size: 1em
+}
+
+#add-shakes .learn-more-link {
+    font-size: 13px;
+    margin: 10px 0 0 28px
+}
+
+p.add-shakes-copy {
+    line-height: 1.3;
+    margin-bottom: 0
+}
+
+.add-shakes-copy .now-price-txt,.add-shakes-copy .strike-txt {
+    font-size: 14px;
+    font-family: arial,sans-serif
+}
+
+#flav-select {
+    margin-top: 12px
+}
+
+#shakes-learn-more .modal-title {
+    padding: 4px 10px;
+    width: 177px
+}
+
+#shakes-learn-more .modal-body {
+    padding-top: 0
+}
+
+#shakes-learn-more .modal-body h3 {
+    font-size: 1.875em;
+    margin-top: 17px
+}
+
+#shakes-learn-more .modal-body h4 {
+    font-size: 1.5em;
+    margin-bottom: 30px
+}
+
+#shakes-learn-more .list-checked {
+    margin-bottom: 20px
+}
+
+#add-shakes p.add-shakes-copy {
+    line-height: 1;
+    margin-bottom: 12px;
+    font-size: 14px;
+    margin-top: -5px
+}
+
+.review #add-shakes p.add-shakes-copy {
+    line-height: 1.3;
+    margin-bottom: 0;
+    font-size: 14px;
+    margin-top: 0
+}
+
+#choose-flavor {
+    margin-left: 28px;
+    width: 288px
+}
+
+#add-shakes label.added {
+    color: #4c4c4c;
+    background-color: #fffde6;
+    border: 1px solid #fbee52;
+    padding: 15px 0 15px 35px;
+    width: 100%;
+    line-height: 1
+}
+
+.special-offers-badge {
+    font-size: 13px;
+    top: -2px;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 0
+}
+
+#order-options .glyphicon-tag {
+    animation: wiggle 3s infinite
+}
+
+.free-ship-txt svg {
+    width: 26px
+}
+
+input[type=submit]#personalizeBtn.btn.btn-default.btn-lg {
+    background-position: 87% 50%
+}
+
+.basichero .order-options #menu-options #favorites.btn-interstitial {
+    text-align: left
+}
+
+.basichero .order-options #menu-options #favorites.btn-interstitial .chef-txt {
+    top: auto
+}
+
+.basichero .order-options {
+    background: #fff5e4
+}
+
+.basichero .order-options p.h3 {
+    font-size: 26px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 26px
+}
+
+.basichero .order-options #add-shakes legend.h5 span,.basichero .order-options legend.h5 {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    line-height: 26px
+}
+
+.basichero .order-options legend.h5 a {
+    text-transform: none;
+    font-weight: 400
+}
+
+.basichero .order-options .bogo-txt {
+    background: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 14px
+}
+
+.basichero .chef-txt .btn-call-out {
+    margin-left: 10px
+}
+
+.basichero .order-options .chef-txt {
+    font-weight: 400
+}
+
+.basichero .order-options .selected .chef-txt {
+    font-weight: 700
+}
+
+.basichero #delivery-options-legend span {
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: none
+}
+
+.basichero #delivery-options {
+    margin: 20px 0 0
+}
+
+.basichero .order-options .btn-save-title {
+    background: #000;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
+    padding: 1px 0;
+    font-size: 14px
+}
+
+.basichero .order-options .divider {
+    background: #fff;
+    border: 2px solid #ccc;
+    border-width: 0 2px
+}
+
+.basichero .order-options .divider hr {
+    margin: 0 16px
+}
+
+.basichero .order-options #delivery-options .btn-interstitial {
+    padding-left: 60px;
+    height: 70px
+}
+
+.basichero .order-options #delivery-options .btn-interstitial:first-child,.basichero .order-options #delivery-options .btn-interstitial:last-child {
+    background: 0;
+    border: 2px solid #fff5e4;
+    border-radius: 5px;
+    margin: 10px 0
+}
+
+.basichero .order-options #delivery-options .btn-interstitial.selected:first-child,.basichero .order-options #delivery-options .btn-interstitial.selected:last-child {
+    background: #fff;
+    border: 2px solid #ccc
+}
+
+.basichero .order-options #delivery-options .btn-interstitial:first-child {
+    margin-top: 0;
+    margin-bottom: 20px
+}
+
+.basichero .order-options #delivery-options #bogo {
+    border-top-width: 0
+}
+
+.basichero .order-options #delivery-options #pre3pay {
+    border-width: 0 2px 2px;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 20px
+}
+
+.basichero .order-options #delivery-options #bogo.btn-interstitial.selected .ship-btn-txt,.basichero .order-options #delivery-options #pre3pay.btn-interstitial.selected .ship-btn-txt,.basichero .order-options #delivery-options .btn-interstitial.selected,.basichero .order-options #delivery-options .btn-interstitial.selected .ship-btn-txt {
+    color: #4c4c4c;
+    font-weight: 700;
+    border-color: #ccc
+}
+
+.basichero .order-options #delivery-options .btn-interstitial:hover {
+    border-color: #ccc
+}
+
+.basichero .order-options .radi {
+    width: 36px;
+    height: 36px;
+    background: #fff;
+    border: 1px solid #bebebe;
+    border-radius: 18px;
+    position: absolute;
+    left: 14px
+}
+
+.basichero .order-options .selected .radi {
+    box-shadow: inset 0 0 3px 0
+}
+
+.basichero .order-options .selected .radi span {
+    width: 20px;
+    height: 20px;
+    background: #64a535;
+    display: inline-block;
+    border-radius: 10px;
+    position: relative;
+    left: 7px;
+    top: 7px
+}
+
+.basichero .order-options #delivery-options #bogo.btn-interstitial .ship-btn-txt,.basichero .order-options #delivery-options #pre3pay.btn-interstitial .ship-btn-txt {
+    position: relative;
+    top: -20px;
+    font-size: 16px;
+    width: auto
+}
+
+.basichero .order-options #delivery-options #bogo.btn-interstitial strong,.basichero .order-options #delivery-options #pre3pay.btn-interstitial strong {
+    position: absolute;
+    top: 41px;
+    height: 18px;
+    border-radius: 9px;
+    background: #64a535;
+    font-size: 12px;
+    color: #fff;
+    padding: 2px 8px 0
+}
+
+.basichero .price-container {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.basichero .price-container .pad-align {
+    position: absolute;
+    right: 130px
+}
+
+.basichero .price-container .pane1price .pad-align {
+    font-weight: 700
+}
+
+.basichero .price-container div {
+    position: relative
+}
+
+.basichero #autodelivery-price p,.basichero #bogo-price p,.basichero #month2month-price p,.basichero #pre3pay-price p {
+    font-size: 14px;
+    margin-bottom: 8px
+}
+
+.basichero p.free-ship-txt {
+    color: #43791d;
+    font-size: 12px;
+    position: relative;
+    top: -10px;
+    display: inline-block
+}
+
+.basichero .dailyprice {
+    padding: 12px 0 0
+}
+
+.basichero .price {
+    font-size: 2em
+}
+
+.basichero .shake-pad {
+    width: 20px;
+    display: inline-block
+}
+
+.basichero #add-shakes label.added {
+    border-color: #ccc;
+    background: #fff
+}
+
+.basichero .bogo-txt .txt {
+    padding-bottom: 6px
+}
+
+.basichero .btn-call-out b.text-green,.basichero .chef-txt .btn-call-out {
+    color: #fff;
+    font-size: 12px;
+    background: #64a535;
+    border-radius: 9px;
+    padding: 2px 6px
+}
+
+.basichero #favorites .btn-call-out {
+    margin-left: 10px
+}
+
+.basichero #favorites .btn-call-out {
+    background-color: transparent;
+    color: #4c4c4c;
+    font-weight: 400;
+    font-size: 14px;
+    padding-top: 7px;
+    display: inline
+}
+
+.basichero #custom.selected span.chef-txt {
+    top: 0
+}
+
+.basichero #custom .chef-sub-txt {
+    font-size: 14px;
+    padding-top: 2px
+}
+
+.basichero #custom .chef-sub-txt.choice-checked {
+    font-size: 14px
+}
+
+.basichero #delivery-options-collapse button {
+    font-family: arial,sans-serif
+}
+
+.basichero #delivery-options .del-price {
+    font-size: 18px
+}
+
+.basichero .del-a-day {
+    font-size: 13px
+}
+
+.basichero .bf-promo-code-ratecard {
+    display: inline-block
+}
+
+.basichero .a-day,.price {
+    font-family: arial,helvetica,sans-serif
+}
+
+.basichero .order-options .chef-txt {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    font-weight: 700
+}
+
+.basichero .order-options #menu-options .btn-interstitial,.basichero .order-options #my-meals .btn-interstitial {
+    height: 58px;
+    width: 100%;
+    text-align: left
+}
+
+.basichero .order-options #every-day.btn-interstitial,.basichero .order-options #favorites.btn-interstitial {
+    border-radius: 5px 5px 0 0;
+    border-top: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-bottom: 0
+}
+
+.basichero .order-options #custom.btn-interstitial,.basichero .order-options #most-day.btn-interstitial {
+    border-radius: 0 0 5px 5px;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-top: 0
+}
+
+.basichero .order-options #menu-options #favorites.btn-interstitial .chef-txt {
+    line-height: 1.2
+}
+
+.basichero .order-options #menu-options .btn-interstitial,.basichero .order-options #my-meals .btn-interstitial {
+    padding-left: 30px
+}
+
+.basichero #menu-options #custom.btn-interstitial.selected {
+    font-weight: 700;
+    color: #43791d;
+    background-color: #f0f7ec;
+    border: 2px solid #64a535;
+    border-radius: 0 5px 5px 0
+}
+
+.basichero #menu-options #custom.btn-interstitial.selected {
+    border-radius: 0 0 5px 5px
+}
+
+.basichero #order-options .btn-interstitial.selected {
+    font-weight: 700;
+    color: #43791d;
+    background-color: #f0f7ec;
+    border: 2px solid #64a535;
+    border-radius: 5px 0 0 5px
+}
+
+.basichero #menu-options #favorites.btn-interstitial.selected,.basichero #my-meals #every-day.btn-interstitial.selected {
+    border-radius: 5px 5px 0 0
+}
+
+.basichero #favorites .btn-call-out {
+    background-color: transparent;
+    color: #4c4c4c;
+    font-weight: 400;
+    font-size: 14px;
+    padding-top: 7px
+}
+
+
+/*UPDATE:*/
+.price-container .diff {
+    color: #4c4c4c;
+    font-size: 14px;
+}
+
+#autodelivery-savings-text, #bogo-savings-text, #pre3pay-savings-text {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* #autodelivery-price .pane1price strong, #bogo-price .pane1price strong, #pre3pay-price .pane1price strong  {
+    border-top: 1px solid #4c4c4c;
+} */
+
+.pane1weekprice{
+    position: absolute;
+    top:83px;
+    right:0;
+}
+#month2month-price .pane1weekprice {
+    top: 55px;
+}
+
+
+
+
+
+@media(orientation: landscape) {
+    .row.ppc-btns.visible-xs {
+        text-align:center
+    }
+}
+
+@media(max-width: 767px) {
+    .order-options h4 {
+        padding:0
+    }
+
+    .order-options .h6 {
+        margin-bottom: 0
+    }
+
+    .order-options legend a {
+        line-height: 1.7
+    }
+
+    .pick-meals {
+        margin: 15px 0 0
+    }
+
+    .order-options .bogo-txt {
+        margin: 0 auto 0
+    }
+
+    #dna-whats-this .icon {
+        height: 50px;
+        width: 40px
+    }
+
+    #dna-whats-this .icon-container .icon {
+        float: left
+    }
+
+    #dna-whats-this .icon-container p {
+        float: left;
+        width: 83%;
+        padding-left: 10px;
+        text-align: left
+    }
+
+    #dna-whats-this .icon-container .col-xs-12 {
+        padding-bottom: 15px
+    }
+
+    #dna-whats-this .number-icon {
+        height: 80%;
+        width: 80%
+    }
+
+    .claim-wrap span.h2 {
+        font-size: 28px
+    }
+
+    .men .claim-wrap.mens-module p.h1 {
+        margin-top: 24px
+    }
+
+    .dna-logo-container img {
+        width: 80%;
+        height: 80%
+    }
+
+    .mens-module.dna-logo-container img {
+        margin-top: 12px
+    }
+
+    .dna-logo-container .all-new {
+        padding-left: 35px
+    }
+
+    .men .dna-logo-container.mens-module p {
+        text-align: left
+    }
+
+    .order-options .btn-group {
+        text-align: center;
+        margin: 0 auto;
+        width: 100%
+    }
+
+    img.lean13-logo-img {
+        margin-top: 18px;
+        margin-bottom: 5px;
+        max-width: 12em
+    }
+
+    p#bogo-price-text {
+        line-height: 1
+    }
+
+    .price-container {
+        margin-bottom: 20px
+    }
+
+    .order-options button#custom.btn-interstitial {
+        margin-top: 1px
+    }
+
+    .order-options button#custom.btn-interstitial.selected {
+        position: relative;
+        top: 1px
+    }
+
+    @-moz-document url-prefix() {
+        .order-options button#custom.btn-interstitial.selected {
+            top: 0
+        }
+    }
+}
+
+@media(max-width: 360px) {
+    .bf-promo-code-mob {
+        font-size:16px;
+        padding: 5px 0
+    }
+
+    #payPalButton img,#payPalCreditButton img {
+        padding: 10px 30px
+    }
+
+    p#monthly-price {
+        font-size: .79em
+    }
+
+    .order-options legend.h5 {
+        font-size: 1.3em
+    }
+
+    #choose-flavor {
+        width: 253px
+    }
+
+    .order-options.review .chef-txt {
+        width: 256px
+    }
+
+    .order-options.review .chef-txt {
+        line-height: 1.1
+    }
+
+    .order-options #menu-options .btn-interstitial.perso-btn {
+        padding: 8px 0 18px 15px;
+        height: 80px
+    }
+
+    .order-options .bogo-txt p {
+        font-size: 13px
+    }
+
+    .order-options .bogo-txt {
+        margin: 0 5px 0
+    }
+
+    .price {
+        font-size: 2.4em
+    }
+
+    .order-options #delivery-options .btn-interstitial {
+        padding-left: 10px
+    }
+
+    #delivery-options .bogo-delivery-btn .ship-btn-txt {
+        width: 162px;
+        line-height: 1.1
+    }
+
+    #delivery-options #bogo .ship-btn-txt,#delivery-options #pre3pay .ship-btn-txt {
+        width: 240px
+    }
+
+    #delivery-options #bogo .ship-btn-txt strong,#delivery-options #pre3pay .ship-btn-txt strong {
+        font-size: 15px
+    }
+
+    .order-options #add-shakes legend.h5 span {
+        font-size: 19px
+    }
+
+    #meal-plan-options .check-metabolism {
+        padding: 15px 60px 15px 12px
+    }
+
+    .basichero #delivery-options #bogo .ship-btn-txt,.basichero #delivery-options #pre3pay .ship-btn-txt {
+        width: auto
+    }
+}
+
+@media(max-width: 320px) {
+    .order-options.review #menu-options .btn-interstitial {
+        height:80px
+    }
+
+    .hero-img-col .btn-primary-outline {
+        font-size: 20px
+    }
+
+    .order-options #menu-options .btn-interstitial {
+        height: 80px;
+        height: 66px
+    }
+
+    .order-options.review #menu-options .btn-interstitial {
+        padding: 18px 8px 14px
+    }
+
+    #menu-options #custom.btn-interstitial.selected {
+        top: 1
+    }
+
+    .order-options.review #menu-options #custom.btn-interstitial {
+        padding: 9px 8px 14px
+    }
+
+    .review #delivery-options legend {
+        width: 267px
+    }
+
+    #delivery-options .bogo-txt span.glyphicon-tag {
+        font-size: 26px
+    }
+
+    #favorites .btn-call-out {
+        font-size: 11px;
+        width: 96%
+    }
+
+    .price-container .text-medium {
+        font-size: .75em
+    }
+
+    .order-options #menu-options .btn-interstitial.perso-btn {
+        padding: 6px 0 18px 15px;
+        height: 80px
+    }
+
+    #choose-flavor {
+        width: 210px
+    }
+
+    .order-options.review .chef-txt {
+        line-height: 1.1
+    }
+
+    #delivery-options .ship-btn-txt {
+        font-size: 15px
+    }
+
+    #delivery-options a#choose-delivery {
+        top: -14px;
+        position: relative
+    }
+
+    .order-options #delivery-options .btn-interstitial {
+        padding-left: 10px
+    }
+
+    #delivery-options #bogo .ship-btn-txt,#delivery-options #pre3pay .ship-btn-txt {
+        width: 200px;
+        font-size: 14px
+    }
+
+    #delivery-options #bogo .ship-btn-txt strong,#delivery-options #pre3pay .ship-btn-txt strong {
+        font-size: 15px
+    }
+
+    #delivery-options #bogo .del-price,#delivery-options #pre3pay .del-price {
+        padding-top: 8px
+    }
+
+    input[type=submit]#personalizeBtn.btn.btn-default.btn-lg {
+        background-position: 97% 50%
+    }
+
+    .claim-wrap span.h4 {
+        font-size: 21px
+    }
+
+    .claim-wrap span.h5 {
+        font-size: 19px
+    }
+
+    .bg-light-blue .col-xs-7 {
+        height: 20px
+    }
+
+    #dna-options .radiogroup {
+        line-height: 15px;
+        margin-bottom: 10px
+    }
+
+    #dna-options input[type=radio] {
+        top: -30px
+    }
+
+    #dna-options #custom {
+        top: -22px
+    }
+
+    .mbg-img {
+        margin-right: 20px;
+        width: 66px;
+        height: 66px
+    }
+
+    #meal-plan-options .check-metabolism {
+        padding: 15px 20px 15px 12px
+    }
+
+    .special-offers-badge {
+        font-size: 10px;
+        padding: 3px 4px
+    }
+
+    .basichero .order-options #delivery-options #bogo.btn-interstitial .ship-btn-txt,.basichero .order-options #delivery-options #pre3pay.btn-interstitial .ship-btn-txt {
+        font-size: 14px
+    }
+
+    .basichero .order-options #delivery-options .btn-interstitial.selected:first-child {
+        padding-right: 0
+    }
+
+    .basichero .bogo-txt .txt {
+        padding-bottom: 8px
+    }
+    /*UPDATE:*/
+    .basichero #autodelivery-price p, .basichero #bogo-price p, .basichero #month2month-price p, .basichero #pre3pay-price p {
+        font-size: 13px;
+    }
+}
+
+@media(min-width: 360px) {
+    .order-options .bogo-txt p {
+        width:275px
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    .order-options.review input#submitBtn {
+        font-size:22px
+    }
+
+    .mbg {
+        margin-top: 10px
+    }
+
+    #dna-whats-this .icon-container .row {
+        padding-bottom: 15px
+    }
+
+    #how-it-works .row {
+        margin-bottom: 20px
+    }
+
+    #dna-whats-this .icon {
+        height: 50px;
+        width: 50px
+    }
+
+    .dna-logo-container .all-new {
+        padding-top: 30px;
+        padding-bottom: 20px
+    }
+}
+
+@media(min-width: 768px) {
+    .bf-promo-code-dt {
+        background-color:#000;
+        color: #fff;
+        font-family: futura-pt,arial,sans-serif;
+        text-align: center;
+        border-radius: 18px;
+        padding: 0 6px;
+        font-size: 18px;
+        margin: 6px auto;
+        display: block
+    }
+
+    .order-options input[type=submit].btn.btn-default {
+        width: 100%
+    }
+
+    .order-options.review #menu-options .btn-interstitial {
+        width: 100%
+    }
+
+    .order-options.review #menu-options #favorites.btn-interstitial {
+        padding: 14px 15px 18px
+    }
+
+    #meal-plan-options legend a,#menu-options legend a,a#delivery-options-link {
+        z-index: 1;
+        position: relative
+    }
+
+    #delivery-options-collapse .btn-group,#meal-plan-options .btn-group,#menu-options .btn-group {
+        display: block
+    }
+
+    .order-options #delivery-options .btn-interstitial {
+        padding-left: 16px
+    }
+
+    .order-options .btn-interstitial {
+        width: 50%;
+        margin: 0
+    }
+
+    .order-options fieldset,.price-container {
+        margin-top: 12px
+    }
+
+    .price-container {
+        margin-top: 20px;
+        margin-bottom: 24px
+    }
+
+    fieldset#meal-plan-options {
+        margin-bottom: 15px
+    }
+
+    .order-options .bogo-txt {
+        margin: 0
+    }
+
+    .order-options .bogo-txt p {
+        width: 290px
+    }
+
+    .order-options hr.price-hr {
+        margin: 0 auto
+    }
+
+    .order-options.review .order-options-cont {
+        border-top: 12px solid #62a534;
+        box-shadow: 0 2px 10px #ccc;
+        background-color: #fff;
+        padding: 0 10px 20px
+    }
+
+    .order-options.review #testForm h2 {
+        font-size: 1.25em
+    }
+
+    #shakes-learn-more .modal-title {
+        width: 208px
+    }
+
+    .order-options.review p.mbg-text {
+        margin-bottom: 36px
+    }
+
+    .review fieldset#menu-options {
+        margin-top: 24px
+    }
+
+    .claim-wrap h2 span {
+        font-size: 38px;
+        display: block
+    }
+
+    .claim-wrap img {
+        width: 215px;
+        height: 34px
+    }
+
+    .claim-wrap .claim {
+        margin: 28px 0 30px
+    }
+
+    .claim-wrap p.small {
+        padding-bottom: 6px
+    }
+
+    .claim-wrap h2 {
+        font-size: 26px
+    }
+
+    .claim-wrap h2 span {
+        font-size: 30px
+    }
+
+    .dna-logo-container.mens-module {
+        margin: 0
+    }
+
+    .dna-logo-container.mens-module img {
+        margin-top: 0;
+        margin-right: auto;
+        max-width: 100%
+    }
+
+    .order-options button#custom.btn-interstitial {
+        line-height: 1;
+        top: 1px;
+        position: relative
+    }
+
+    .order-options button#custom.btn-interstitial.selected {
+        top: 0;
+        line-height: 1;
+        margin-top: -1px
+    }
+
+    .order-options #delivery-options #bogo .ship-btn-txt,.order-options #delivery-options #pre3pay .ship-btn-txt {
+        font-size: 17px;
+        width: 252px
+    }
+
+    #delivery-options .shipfb {
+        font-size: 16px
+    }
+
+    .basichero .order-options button#custom.btn-interstitial {
+        top: 1px;
+        position: relative;
+        line-height: 1
+    }
+}
+
+@media(min-width: 992px) {
+    header>nav div.sub-nav-container div.sub-nav ul {
+        overflow:hidden
+    }
+
+    .order-options.review #menu-options .btn-interstitial {
+        width: 100%
+    }
+
+    .order-options.review #menu-options #favorites.btn-interstitial .chef-txt {
+        width: 85%
+    }
+
+    .order-options.review .order-options-cont {
+        padding: 0 49px 20px
+    }
+
+    .order-options h2.h3 {
+        font-size: 1.5em;
+        margin: 0 auto 20px
+    }
+
+    #dna-options a.text-medium {
+        margin-top: -26px;
+        margin-right: 15px
+    }
+
+    .order-options #meal-plan-options .btn-interstitial {
+        height: 43px;
+        margin: 0
+    }
+
+    #menu-options .btn-group {
+        display: block
+    }
+
+    .order-options #menu-options .btn-interstitial {
+        height: 50px;
+        margin-bottom: 10px;
+        width: 50%
+    }
+
+    .order-options.review #menu-options .btn-interstitial {
+        height: 77px
+    }
+
+    .order-options .perso-txt {
+        width: 315px;
+        line-height: 1
+    }
+
+    .order-options {
+        min-height: 583px
+    }
+
+    .order-options.review #delivery-options .btn-interstitial {
+        width: 373px
+    }
+
+    #delivery-options .ship-btn-txt {
+        font-size: 18px
+    }
+
+    #delivery-options .bogo-delivery-btn .ship-btn-txt {
+        font-size: 18px
+    }
+
+    .order-options.review p.mbg-text {
+        margin-bottom: 50px
+    }
+
+    .price-container {
+        margin-bottom: 15px
+    }
+
+    .dailyprice {
+        padding: 9px 0 0;
+        width: 115px;
+        margin: 0 auto
+    }
+
+    #dna-whats-this h3,#dna-whats-this h4 {
+        text-align: center
+    }
+
+    #how-it-works .row {
+        margin-bottom: 20px
+    }
+
+    .modal-lead-copy {
+        text-align: center
+    }
+
+    .number-icon {
+        height: 65%;
+        width: 65%;
+        display: block;
+        margin: auto
+    }
+
+    #monthly-price.one-time-ship {
+        margin-top: 10px
+    }
+
+    #pane1fullprice.bogo-del-price {
+        margin-bottom: 6px
+    }
+
+    #dna-whats-this p.small {
+        text-align: center
+    }
+
+    #dna-whats-this p.small.text-left {
+        text-align: left;
+        padding-top: 20px
+    }
+
+    .bg-light-blue p {
+        font-size: 2em
+    }
+
+    .dna-logo-container .all-new {
+        padding-top: 50px;
+        padding-bottom: 40px
+    }
+
+    .men .dna-logo-container.mens-module p.all-new {
+        text-align: left
+    }
+
+    .order-options #add-shakes legend.h5 span {
+        font-size: 22px
+    }
+
+    p.larger {
+        font-size: 18px
+    }
+
+    .claim-wrap img {
+        width: 215px;
+        height: 34px
+    }
+
+    .claim-wrap h2 {
+        font-size: 36px
+    }
+
+    .claim-wrap h2 span {
+        font-size: 42px
+    }
+
+    .order-options #delivery-options #bogo .ship-btn-txt,.order-options #delivery-options #pre3pay .ship-btn-txt {
+        font-size: 18px;
+        width: 265px
+    }
+
+    #delivery-options .shipfb {
+        font-size: 17px
+    }
+
+    .basichero .order-options #menu-options .btn-interstitial {
+        margin-bottom: 0
+    }
+
+    .basichero #delivery-options .ship-btn-txt {
+        font-size: 16px
+    }
+    /*UPDATE:*/
+    #month2month-price .pane1weekprice {
+        top: 40px;
+    }
+}
+
+@media(min-width: 1200px) {
+    .order-options input[type=submit].btn.btn-default {
+        width:80%
+    }
+
+    .order-options .bogo-txt p {
+        width: 400px;
+        line-height: 1
+    }
+
+    #meal-plan-options .check-metabolism input#personal {
+        top: 20px
+    }
+
+    #favorites .btn-call-out {
+        width: 75%
+    }
+
+    .basichero #favorites .btn-call-out {
+        width: 75%
+    }
+
+    .basichero #order-options {
+        padding: 0 30px 0 55px
+    }
+}
+
+@-moz-document url-prefix() {
+    .order-options button#custom.btn-interstitial.selected {
+        margin-top: 0
+    }
+
+    .order-options button#favorites.btn-interstitial.selected {
+        margin-top: 1px
+    }
+}
+
+#favorites .btn-call-out {
+    background-color: transparent;
+    color: #4c4c4c;
+    font-weight: 400;
+    font-size: 12px;
+    padding: 7px 0 0 0
+}
+
+#favorites .btn-call-out:after,#favorites .btn-call-out:before {
+    border-width: 0
+}
+
+#menu-options .btn-interstitial.selected {
+    font-weight: 700;
+    color: #43791d;
+    background-color: #fff;
+    border: 2px solid #64a535;
+    border-radius: 5px 0 0 5px
+}
+
+.order-options #menu-options .btn-interstitial {
+    height: 86px
+}
+
+.order-options #menu-options #favorites.btn-interstitial .chef-txt {
+    line-height: 1.2;
+    position: relative;
+    top: -12px
+}
+
+#custom .chef-sub-txt {
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    padding-top: 7px
+}
+
+#custom span.chef-txt {
+    padding-top: 0
+}
+
+#custom.selected span.chef-txt {
+    position: relative;
+    top: -5px
+}
+
+#meal-plan-options #men.btn-interstitial.selected,#meal-plan-options #men.btn-interstitial:active,#meal-plan-options #men.btn-interstitial:focus,#meal-plan-options .btn-interstitial.selected,#meal-plan-options .btn-interstitial:active,#menu-options #custom.btn-interstitial.selected,#menu-options .btn-interstitial.selected {
+    background-color: #f0f7ec
+}
+
+@media(min-width: 768px) {
+    .order-options button#custom.btn-interstitial {
+        top:-1px
+    }
+
+    #delivery-options .del-price {
+        font-size: inherit;
+    }
+}

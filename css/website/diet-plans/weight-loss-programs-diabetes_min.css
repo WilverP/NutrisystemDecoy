@@ -1,0 +1,1947 @@
+.h3 strong{
+  font-weight:700
+}
+
+a:hover .a-day,a:hover .well{
+  border-color:#64a535
+}
+
+.men .sub-nav,.men-sub-nav{
+  display:none
+}
+
+.men .men-sub-nav,.plan{
+  display:block
+}
+
+.action-header{
+  color:#4c4c4c
+}
+
+.action-header .label{
+  font-size:16px;
+  color:#fff;
+  background-color:#af3eb3;
+  margin-top:20px
+}
+
+.action-header p.label{
+  margin-bottom:10px
+}
+
+.action-header:hover{
+  color:#64a535
+}
+
+.action-header:hover .bg-purple-lighter{
+  color:#fff
+}
+
+.action-header:hover .btn-default{
+  background-color:#f93;
+  border-color:#f76200;
+  color:#fff
+}
+
+.doyo-plan a,.plan,.plan a{
+  text-decoration:none;
+  color:inherit
+}
+
+.plan-content a:hover h2,a:hover,a:hover .amount,a:hover .amount sup,a:hover .dollarSignCents,a:hover .dollarSignCents sup,a:hover .starting-at{
+  color:#64a535
+}
+
+a:hover .a-day{
+  color:#64a535
+}
+
+.plan-content:hover .btn{
+  background-color:#ff944d
+}
+
+.uy .well{
+  background:#fff;
+  border:2px solid #64a535;
+  position:relative
+}
+
+.d-plans .uy .well{
+  border:2px solid #009cdb
+}
+
+.mens-plans .uy .well{
+  border-color:#0b3254
+}
+
+.uy .well.d-uy{
+  border:2px solid #009cdb
+}
+
+.uy.men .well{
+  border:2px solid #0b3254
+}
+
+.uy h2{
+  margin:4px 0 5px;
+  font-weight:700
+}
+
+.d-plans div#uniquely_yours.price{
+  top:173px
+}
+
+.d-plans div#basic_plan.price{
+  top:175px
+}
+
+.d-plans div#uniquely_yoursPlus.price{
+  top:220px
+}
+
+.doyo-plan .well-border{
+  border:2px solid #ccc;
+  background-color:#fff
+}
+
+.top-rated-burst{
+  border-radius:50%;
+  height:60px;
+  width:60px;
+  position:absolute;
+  top:-20px;
+  right:10px;
+  padding-top:10px;
+  text-align:center
+}
+
+.top-rated-burst span{
+  position:absolute;
+  top:12px;
+  left:7px;
+  font-size:16px
+}
+
+img.npp{
+  width:173px
+}
+
+#plan-options{
+  padding-bottom:20px
+}
+
+#plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+  font-weight:400
+}
+
+.four-week-plan ul{
+  font-size:18px;
+  line-height:18px;
+  margin:0
+}
+
+.four-week-plan li{
+  line-height:24px;
+  color:#64a535
+}
+
+.bg-diabetes .four-week-plan li{
+  line-height:24px;
+  color:#009cdb
+}
+
+.four-week-plan.mens-plans li{
+  color:#0b3254
+}
+
+.balanced-nutrition .h4{
+  font-size:22px;
+  line-height:25px;
+  margin:0 0 10px;
+  font-weight:600
+}
+
+.balanced-nutrition ul{
+  font-family:futura-pt,arial,sans-serif
+}
+
+.balanced-nutrition li{
+  font-size:19px;
+  margin:0 0 5px
+}
+
+.list-checked.check-blue-darker>li:before,.list-checked.check-green>li:before,.list-checked.check-primary>li:before,.list-checked.check-teal>li:before{
+  background-position:0 9px
+}
+
+.bg-diabetes .balanced-nutrition li,.bg-diabetes .four-week-plan li{
+  font-size:16px;
+  font-family:Arial,Helvetica,sans-serif
+}
+
+#other-plans .header{
+  padding-bottom:25px
+}
+
+.diabetes,.mens,.vegetarian{
+  border:3px solid #ccc
+}
+
+.diabetes:hover{
+  border-color:#64a535
+}
+
+.mens:hover{
+  border-color:#64a535
+}
+
+.vegetarian:hover{
+  border-color:#64a535
+}
+
+.diabetes .h3,.mens .h3,.vegetarian .h3{
+  font-family:futura-pt,sans-serif;
+  font-size:22px;
+  font-weight:400;
+  padding:0 0 2px;
+  margin-left:2px
+}
+
+.triangle-right{
+  position:absolute;
+  width:0;
+  height:0;
+  left:-1px;
+  top:12px;
+  border-top:10px solid transparent;
+  border-left:10px solid #64a535;
+  border-bottom:10px solid transparent
+}
+
+.triangle-right.mens-triangle{
+  border-left:10px solid #0b3254
+}
+
+.d-content .triangle-right{
+  border-left:10px solid #009cdb
+}
+
+#overlay.modal{
+  top:224px
+}
+
+.close{
+  color:#4c4c4c
+}
+
+.jumbotron{
+  margin-bottom:10px
+}
+
+#overlay .modal-title{
+  font-size:28px;
+  line-height:32px;
+  font-weight:700;
+  color:#503a82;
+  margin:5px 0 0;
+  text-transform:uppercase;
+  padding:0;
+  letter-spacing:normal
+}
+
+#overlay .modal-content{
+  width:648px;
+  height:361px;
+  background:url(/images/diet-plans/weight-loss-programs/upgrade-bg.png) repeat-x;
+  background-size:contain;
+  border:3px solid #503a82
+}
+
+#overlay .modal-body h2{
+  font-size:22px;
+  line-height:22px;
+  font-weight:400;
+  color:#503a82;
+  margin:0;
+  text-transform:uppercase
+}
+
+#overlay .modal-body h3{
+  font-size:19px;
+  font-weight:700;
+  color:#3c3c3c;
+  margin:15px 0 0
+}
+
+#overlay .modal-body p{
+  font-size:19px;
+  font-weight:400;
+  color:#3c3c3c;
+  margin:0;
+  padding-bottom:10px
+}
+
+#overlay .modal-body ul{
+  display:block;
+  padding-left:11px
+}
+
+#overlay .modal-body li{
+  float:left;
+  margin:0 4px;
+  list-style:none
+}
+
+#overlay .modal-body a{
+  color:#3c3c3c;
+  font-size:15px;
+  letter-spacing:.5px;
+  font-weight:400;
+  line-height:32px;
+  text-decoration:none
+}
+
+#overlay .modal-footer{
+  background-color:#503a82;
+  width:648px;
+  margin-top:-10px;
+  margin-left:-3px;
+  padding-bottom:10px
+}
+
+#overlay .modal-footer p{
+  color:#fff;
+  font-size:20px;
+  font-weight:500;
+  margin-top:9px;
+  padding:4px 0
+}
+
+.futura20{
+  font-size:20px;
+  font-family:futura-pt,arial,sans-serif
+}
+
+.closer.mens-closer{
+  background-color:#0b3254
+}
+
+.closer.bg-d-blue{
+  background-color:#009cdb
+}
+
+.closer.mens-closer h3{
+  color:#fff;
+  border-right:2px solid #fff
+}
+
+.closer.bg-d-blue h3{
+  color:#fff;
+  border-right:2px solid #fff
+}
+
+.ul-support-content h2.text-d-blue{
+  margin-top:0
+}
+
+.balanced-nutrition .mens-nutrition{
+  margin:0 0 10px 25px
+}
+
+.view{
+  border:solid 1px red
+}
+
+.mbg-gold-logo-container{
+  margin-top:10px;
+  display:block
+}
+
+.mbg-gold-logo-container img.mbg-gold-logo{
+  max-width:13px;
+  margin:0 3px 0 0;
+  display:inline-block
+}
+
+#plan-options .center-details{
+  margin-left:21px;
+  margin-right:15px;
+  margin-bottom:10px
+}
+
+#plan-options p.center-details{
+  font-size:18px;
+  line-height:22px
+}
+
+a:hover p.mbg-text{
+  color:#64a535
+}
+
+.mens-plans .plan-content li:before{
+  color:#0b3254
+}
+
+.bg-green-lighter-plan{
+  background-color:#d3e692
+}
+
+.bg-diabetes{
+  background-color:#e0f1f9
+}
+
+.plan li sup{
+  font-size:85%;
+  line-height:0;
+  position:relative;
+  vertical-align:baseline;
+  top:-.5em
+}
+
+.doyo-plan p.text-blue-darker,.doyo-plan p.text-green{
+  font-size:1.375em;
+  line-height:1.2;
+  margin:24px auto 12px
+}
+
+.doyo-plan .lead{
+  margin:0 0 12px;
+  text-align:left
+}
+
+.doyo-plan .btn-default{
+  color:#fff
+}
+
+.doyo-plan .price-col{
+  padding-right:0
+}
+
+a:focus .well{
+  outline:1px solid #5d9dd5;
+  box-shadow:0 0 8px #5d9dd5
+}
+
+@media(max-width:767px){
+  .action-header{
+    margin-bottom:22px;
+    margin-top:0;
+    padding-bottom:22px;
+    padding-top:10px
+  }
+
+  .action-header p{
+    letter-spacing:0;
+    margin-bottom:0;
+    text-align:center
+  }
+
+  .action-header .h5,.action-header .h5-text{
+    text-align:center
+  }
+
+  .action-header .myPlanBtn{
+    text-align:center;
+    margin-top:10px
+  }
+
+  .action-header .label{
+    text-align:center;
+    margin-bottom:10px;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block
+  }
+
+  .action-header .tag{
+    width:130px
+  }
+
+  .action-header .tag2{
+    width:200px
+  }
+
+  a:hover .triangle-right{
+    border-left:10px solid #64a535
+  }
+
+  a:hover .triangle-right.mens-triangle{
+    border-left:10px solid #0b3254
+  }
+
+  .plan-header{
+    margin-bottom:5px
+  }
+
+  .plan-header h1{
+    margin-top:10px
+  }
+
+  #plan-options .well{
+    text-align:left
+  }
+
+  .d-plans .uy .well{
+    border:0
+  }
+
+  #plan-options h2{
+    margin:0 0 5px
+  }
+
+  .plan{
+    position:relative
+  }
+
+  .plan .well{
+    padding:15px 15px 0 15px;
+    margin-bottom:10px;
+    background-color:#fff
+  }
+
+  .plan{
+    padding-top:22px
+  }
+
+  .pot-rated-burst{
+    right:5px
+  }
+
+  .mens-plans .doyo-plan{
+    padding-left:0;
+    padding-right:0
+  }
+
+  #plan-options .mobile-btn{
+    position:absolute;
+    top:55px;
+    right:20px;
+    color:#fff
+  }
+
+  .starting-at{
+    font-size:14px;
+    padding-left:2px;
+    line-height:.5
+  }
+
+  .price{
+    position:absolute;
+    top:221px;
+    font-family:futura-pt
+  }
+
+  div#uniquely_yours.price{
+    top:172px
+  }
+
+  div#basic_plan.price{
+    top:173px
+  }
+
+  .uy .well-mob{
+    border:4px solid #64a535
+  }
+
+  .d-plans .uy .well-mob{
+    border:4px solid #009cdb
+  }
+
+  .uy .well{
+    border:0
+  }
+
+  .uy.men .well{
+    border-left:10px solid #0b3254;
+    border-color:#0b3254;
+    border-top:4px solid #0b3254;
+    border-right:4px solid #0b3254;
+    border-bottom:4px solid #0b3254
+  }
+
+  .uy .d-uy.well{
+    border:4px solid #009cdb
+  }
+
+  .uy .well .a-day{
+    padding-left:4px
+  }
+
+  .amount,.dollarSignCents{
+    font-size:32px;
+    font-weight:500
+  }
+
+  .four-week-plan .h4{
+    font-size:22px
+  }
+
+  .diabetes,.mens,.vegetarian{
+    padding:16px 10px 0;
+    margin-top:0
+  }
+
+  #other-plans .btn-dt,#other-plans .plan .lead,#other-plans .plan h2{
+    display:none
+  }
+
+  #other-plans .diabetes,#other-plans .vegetarian{
+    border-top:0
+  }
+
+  #other-plans.mens-plans .diabetes{
+    border-top:3px solid #ccc
+  }
+
+  .lead{
+    margin:0
+  }
+
+  .lead br.br-tn{
+    display:none
+  }
+
+  .triangle-right{
+    top:19px
+  }
+
+  .mbg-gold-logo-container p.mbg-text{
+    font-size:.7em;
+    display:inline-block
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:150px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:150px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    background-color:#cbe8f5;
+    width:150px
+  }
+
+  .top-rated-burst span{
+    position:absolute;
+    top:13px;
+    left:8px;
+    font-size:16px
+  }
+
+  .closer.bg-d-blue h3,.closer.mens-closer h3{
+    border-right:0
+  }
+
+  .ul-support-header h3{
+    padding:10px 0;
+    margin-bottom:0
+  }
+
+  .ul-support-header p.h3{
+    font-family:futura-pt,arial,helvetica,sans-serif;
+    line-height:16px;
+    padding-bottom:15px;
+    margin:7px 0
+  }
+
+  .mob-view-btn{
+    top:-56px;
+    margin-right:16px
+  }
+
+  .more-info-link{
+    margin-top:60px;
+    text-align:center;
+    padding:0 18px 10px
+  }
+
+  .more-info-link a{
+    display:block;
+    width:100%;
+    padding-top:8px
+  }
+
+  .more-info-link .glyphicon{
+    padding-left:5px;
+    top:3px
+  }
+
+  .well-border{
+    border:2px solid #ccc;
+    background-color:#fff
+  }
+}
+
+@media only screen and (max-width:374px){
+  .top-rated-burst{
+    top:-30px;
+    right:-11px
+  }
+
+  #plan-options .mobile-btn{
+    padding:10px 8px
+  }
+
+  .lead br{
+    display:none
+  }
+
+  .lead br.br-tn{
+    display:block
+  }
+
+  div#basic_plan.price{
+    top:173px
+  }
+}
+
+@media(max-width:360px){
+  div#basic_plan.price{
+    top:192px
+  }
+
+  .d-plans div#basic_plan.price{
+    top:172px
+  }
+
+  div#uniquely_yoursPlus{
+    top:218px
+  }
+
+  .d-plans div#uniquely_yoursPlus.price{
+    top:244px
+  }
+
+  .d-plans div#uniquely_yoursPlus{
+    top:238px
+  }
+}
+
+@media(max-width:320px){
+  div#basic_plan.price{
+    top:192px
+  }
+
+  div#uniquely_yours.price{
+    top:174px;
+    left:10px
+  }
+
+  .d-plans div#uniquely_yours.price{
+    top:200px
+  }
+
+  .mens-plans div#uniquely_yoursPlus.price{
+    top:245px
+  }
+
+  .doyo-plan .price-col{
+    padding-right:0;
+    padding-left:5px
+  }
+
+  .doyo-plan .btn{
+    padding:10px 8px
+  }
+
+  .d-plans div#uniquely_yoursPlus.price{
+    top:244px
+  }
+}
+
+@media only screen and (min-device-width:360px)and (max-device-width:374px){
+  .d-plans .uy-plus .price{
+    top:243px
+  }
+}
+
+@media only screen and (min-device-width:375px)and (max-device-width:667px){
+  .top-rated-burst{
+    right:-6px
+  }
+}
+
+@media(min-width:413px) and (max-width:455px){
+  #other-plans .mobile-btn{
+    margin-right:29px
+  }
+}
+
+@media(min-width:375px) and (max-width:455px){
+  div#basic_plan.price{
+    top:175px
+  }
+}
+
+@media(min-width:414px){
+  div#uniquely_yours.price{
+    top:172px
+  }
+
+  div#uniquely_yoursPlus{
+    top:192px
+  }
+
+  .mens-plans div#uniquely_yoursPlus{
+    top:192px
+  }
+}
+
+@media(min-width:768px) and (max-width:991px){
+  .action-header{
+    margin-bottom:22px;
+    margin-top:22px;
+    padding-bottom:22px;
+    padding-top:10px
+  }
+
+  .action-header p{
+    font-size:16px;
+    letter-spacing:0;
+    margin-bottom:0;
+    text-align:center
+  }
+
+  .action-header .h5,.action-header .h5-text{
+    font-size:22px;
+    text-align:center
+  }
+
+  .action-header .label{
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block
+  }
+
+  .action-header .tag{
+    width:137px
+  }
+
+  .action-header .tag2{
+    width:203px
+  }
+
+  .h2{
+    font-size:33px
+  }
+
+  .h2 strong{
+    font-weight:400
+  }
+
+  .plan-header{
+    margin-bottom:30px
+  }
+
+  .plan .top-rated-burst{
+    right:-25px;
+    top:38px
+  }
+
+  .plan .top-rated-burst.bg-d-blue{
+    top:55px
+  }
+
+  .plan sup{
+    position:relative;
+    top:-19px;
+    font-size:34px;
+    font-weight:300
+  }
+
+  .plan .starting-at{
+    font-size:18px;
+    font-family:futura-pt,Arial,Helvetica,sans-serif;
+    text-transform:lowercase;
+    color:#666;
+    font-weight:400;
+    padding:8px 0 0;
+    letter-spacing:1px;
+    line-height:20px
+  }
+
+  .plan .amount,.plan sup,.plan-content p sup{
+    font-weight:400;
+    font-family:futura-pt,arial,sans-serif
+  }
+
+  .plan .amount{
+    font-size:52px;
+    letter-spacing:-2px;
+    line-height:64px;
+    text-align:left;
+    color:#666
+  }
+
+  .plan sup{
+    font-size:31px;
+    top:-13px;
+    color:#666;
+    letter-spacing:.25px
+  }
+
+  .plan .dollarSignCents sup{
+    font-size:26px;
+    top:-14px
+  }
+
+  .plan .a-day{
+    display:block;
+    font-size:24px;
+    line-height:31px;
+    width:118px;
+    color:#666;
+    font-family:futura-pt,sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    margin:0 auto
+  }
+
+  .plan-content p sup{
+    font-size:9px;
+    font-weight:300;
+    font-family:futura-pt,arial,sans-serif;
+    top:-9px
+  }
+
+  #plan-options .well{
+    padding:19px 5px
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:2px
+  }
+
+  #plan-options .uy-plus-padding.bg-gray-lighter h2,#plan-options .uy-plus-padding.bg-mint h2{
+    margin-top:0;
+    margin-bottom:16px
+  }
+
+  #plan-options .basic-plan .well{
+    padding-top:17px
+  }
+
+  .uy h2{
+    margin-top:7px;
+    margin-bottom:9px;
+    font-size:27px
+  }
+
+  .uy h2.text-d-blue{
+    margin-top:-12px
+  }
+
+  .core-margin .bg-gray-lighter h2,.core-margin .bg-mint h2{
+    margin-top:32px
+  }
+
+  .uy .well{
+    padding-right:0;
+    padding-left:0;
+    padding-bottom:49px
+  }
+
+  .bg-gray-lighter h2,.bg-mint h2{
+    font-size:27px;
+    margin-top:0;
+    text-align:center
+  }
+
+  .plan .well p,.uy .well p{
+    font-size:14px;
+    margin-top:10px;
+    font-family:arial,sans-serif;
+    letter-spacing:-.05px
+  }
+
+  .d-plans .plan .well p.lead{
+    margin:10px auto 43px
+  }
+
+  #plan-options .doyo-plan .well p{
+    margin-bottom:0
+  }
+
+  #plan-options .mobile-btn{
+    width:190px;
+    position:absolute;
+    left:30px;
+    top:-48px
+  }
+
+  .plan-content li{
+    font-size:14px
+  }
+
+  #plan-options p.center-details{
+    font-size:16px;
+    line-height:20px;
+    margin-top:0
+  }
+
+  #plan-options .center-details{
+    margin-left:0
+  }
+
+  #plan-options ul.center-details{
+    margin-left:20px;
+    margin-right:0
+  }
+
+  .four-week-plan .h4{
+    line-height:30px
+  }
+
+  .four-week-plan ul{
+    font-size:16px
+  }
+
+  .four-week-plan li{
+    line-height:22px
+  }
+
+  .balanced-nutrition{
+    margin:-6px auto;
+    border-left:2px solid #ccc
+  }
+
+  .balanced-nutrition .h4{
+    margin:0 0 5px 25px
+  }
+
+  .balanced-nutrition ul{
+    margin:0 0 0 25px;
+    font-size:14px
+  }
+
+  .diabetes,.mens,.vegetarian{
+    margin:0 0 60px
+  }
+
+  .diabetes .h3,.mens .h3,.vegetarian .h3{
+    font-size:24px
+  }
+
+  .diabetes p,.mens p,.vegetarian p{
+    font-size:18px;
+    margin-bottom:40px;
+    line-height:22px;
+    padding:0 10px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-86px;
+    left:29px;
+    padding:10px 20px
+  }
+
+  #other-plans.mens-plans .mobile-btn{
+    position:absolute;
+    top:-86px;
+    left:97px;
+    padding:10px 20px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:36px
+  }
+
+  #other-plans.mens-plans a.mobile-btn.veg-cta{
+    left:97px
+  }
+
+  #plan-options .text-medium li{
+    text-align:left
+  }
+
+  .list-plus>li{
+    position:relative;
+    padding:0 0 0 11px;
+    margin-bottom:12px
+  }
+
+  .list-plus{
+    list-style:none;
+    text-align:left
+  }
+
+  .list-plus>li::before{
+    content:'+';
+    font-weight:700;
+    color:#64a535;
+    position:absolute;
+    top:0;
+    left:0;
+    width:18px;
+    height:20px;
+    background:0
+  }
+
+  .four-plan-padding .well{
+    border-top:20px solid #fff;
+    padding-top:30px
+  }
+
+  .four-plan-padding .well:hover{
+    border-top:20px solid #fff
+  }
+
+  #plan-options .uy .well p{
+    margin-bottom:20px
+  }
+
+  #plan-options .uy-plus .well p{
+    margin-bottom:20px
+  }
+
+  #plan-options .basic-plan .well.bg-gray-lighter p{
+    margin-bottom:26px
+  }
+
+  #plan-options.mens-plans .basic-plan .well.bg-gray-lighter p{
+    margin-bottom:11px
+  }
+
+  #plan-options .basic-plan .well p{
+    margin-bottom:27.5px
+  }
+
+  #plan-options .uy-plus .well.bg-mint p.lead{
+    margin-bottom:25px
+  }
+
+  #plan-options .uy-plus .well.bg-gray-lighter p.lead{
+    margin-bottom:17px
+  }
+
+  #plan-options.mens-plans .uy-plus .well.bg-gray-lighter p{
+    margin-bottom:20px
+  }
+
+  .mbg-gold-logo-container p.mbg-text{
+    font-size:.52em;
+    display:inline-block
+  }
+
+  .btn-sm{
+    padding:9px 9px
+  }
+
+  .action-header .myPlanBtn{
+    text-align:center;
+    margin-top:10px
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    float:right;
+    top:0;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:150px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  #plan-options .btn-block{
+    width:91%;
+    margin-left:7px
+  }
+
+  .ul-support-burst{
+    position:absolute;
+    border-radius:50%;
+    height:140px;
+    width:140px;
+    top:225px;
+    left:-2px;
+    padding-top:5px
+  }
+
+  .ul-support-burst h3,.ul-support-burst p{
+    transform:rotate(-15deg)
+  }
+
+  .ul-support-burst h3{
+    font-size:20px;
+    position:relative;
+    left:-1px;
+    top:-9px
+  }
+
+  #plan-options.d-plans .basic-plan .bg-gray-lighter h2{
+    margin-bottom:33px
+  }
+
+  #plan-options.d-plans .uy h2{
+    margin-bottom:31px
+  }
+}
+
+@media(min-width:768px){
+  #plan-options .doyo-plan .well{
+    padding:19px 30px
+  }
+
+  .doyo-plan p.text-blue-darker,.doyo-plan p.text-green{
+    font-size:1.625em;
+    text-align:center
+  }
+
+  .doyo-plan h2{
+    font-size:30px;
+    text-align:left;
+    margin-top:7px
+  }
+
+  .doyo-plan p{
+    font-size:18px;
+    text-align:left
+  }
+
+  .doyo-plan .amount{
+    font-size:48px;
+    letter-spacing:-2px;
+    line-height:64px;
+    text-align:left
+  }
+
+  .doyo-plan .dollarSignCents sup{
+    font-size:28px;
+    top:-14px
+  }
+
+  .doyo-plan .starting-at{
+    font-size:18px;
+    font-family:futura-pt,Arial,Helvetica,sans-serif;
+    text-transform:lowercase;
+    color:#666;
+    font-weight:400;
+    padding:18px 0 0;
+    letter-spacing:1px;
+    line-height:20px
+  }
+
+  .doyo-plan .a-day{
+    text-transform:uppercase;
+    font-size:16px
+  }
+
+  .doyo-plan .btn-default{
+    margin-top:30px
+  }
+
+  .doyo-plan a:hover h2{
+    color:#64a535
+  }
+
+  .doyo-plan a:hover .btn-default{
+    background-color:#f93;
+    border-color:#f93;
+    color:#fff
+  }
+
+  .doyo-plan .slash{
+    font-size:30px
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:12px
+  }
+
+  #plan-options.d-plans .bg-gray-lighter h2{
+    margin-top:6px
+  }
+
+  .basic-plan h2{
+    padding:22px 0 20px
+  }
+
+  .d-plans .basic-plan h2{
+    padding:10px 0 0 0
+  }
+
+  #plan-options .basic-plan .bg-gray-lighter h2,#plan-options .basic-plan .bg-mint h2{
+    margin-top:0
+  }
+
+  .uy .well{
+    margin-top:20px
+  }
+
+  .plan-content:not(.basic-plan) ul{
+    list-style:none;
+    padding:0 15px 5px 0
+  }
+
+  .plan-content:not(.basic-plan) li{
+    padding-left:10px;
+    position:relative
+  }
+
+  .plan-content:not(.basic-plan) li:before{
+    content:"+";
+    position:absolute;
+    left:-8px;
+    font-size:16px;
+    font-weight:700;
+    color:#64a535
+  }
+
+  .d-plans .plan-content:not(.basic-plan) li:before{
+    color:#009cdb
+  }
+
+  .d-plans #basic-bull-mob,.d-plans #uyu-bull-mob,.d-plans .basic-plan .more-info-link,.d-plans .uy-plus .more-info-link{
+    background-color:#f2f2f2
+  }
+
+  .more-info-link{
+    padding-bottom:10px;
+    text-align:center
+  }
+
+  .more-info-link a{
+    display:inline-block;
+    width:86%;
+    padding-top:8px
+  }
+
+  #plan-options .well{
+    margin-bottom:0
+  }
+
+  .d-plans .uy .well{
+    border-bottom:0
+  }
+
+  .d-plans #uy-bull-mob,.d-plans .uy .more-info-link{
+    border-left:2px solid #009cdb;
+    border-right:2px solid #009cdb
+  }
+
+  .d-plans .uy .well-mob{
+    border-bottom:2px solid #009cdb
+  }
+
+  #plan-options.d-plans p.center-details{
+    margin:0 auto 6px
+  }
+
+  #plan-options.d-plans ul.center-details{
+    margin:0;
+    padding:0 7px 10px 23px
+  }
+
+  footer{
+    margin-top:5px
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:150px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    width:150px
+  }
+
+  .bg-diabetes .balanced-nutrition{
+    border-right:2px solid #ccc;
+    border-left:0
+  }
+
+  .bg-diabetes .balanced-nutrition .h4{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan{
+    margin-top:0
+  }
+
+  .bg-diabetes .four-week-plan .h5{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan ul{
+    margin-left:25px
+  }
+
+  .bg-diabetes .balanced-nutrition ul{
+    margin:0 25px 0 25px
+  }
+
+  #plan-options .uy-plus .well p.lead{
+    margin-bottom:26px;
+    margin-top:0
+  }
+
+  #plan-options.d-plans .uy-plus .well p.lead{
+    margin:0 auto 24px
+  }
+
+  #plan-options .uy .well p.lead{
+    margin-bottom:25px;
+    margin-top:0
+  }
+
+  #plan-options.mens-plans .uy .well p.lead{
+    margin-bottom:19px;
+    margin-top:0
+  }
+
+  #plan-options.mens-plans .uy-plus .well p.lead{
+    margin-bottom:20px;
+    margin-top:0
+  }
+}
+
+@media(min-width:992px){
+  .plan-header{
+    margin-bottom:30px
+  }
+
+  .action-header{
+    margin-bottom:22px;
+    margin-top:22px;
+    padding-bottom:22px;
+    padding-top:10px
+  }
+
+  .action-header .h5,.action-header .h5-text{
+    font-size:22px
+  }
+
+  .action-header p{
+    font-size:16px;
+    letter-spacing:0;
+    margin-bottom:0
+  }
+
+  .action-header .myPlanBtn{
+    padding:30px 0;
+    text-align:right
+  }
+
+  .action-header .results{
+    padding:40px 0 30px 0
+  }
+
+  .action-header .purple-label{
+    text-align:left
+  }
+
+  .bg-gray-lighter h2,.bg-mint h2{
+    margin-bottom:0
+  }
+
+  .bg-green-lighter{
+    background-color:#d0dd4f
+  }
+
+  .text-green-darker{
+    color:#43791d
+  }
+
+  .text-uppercase{
+    text-transform:uppercase
+  }
+
+  .plan-content .h5{
+    margin-top:0;
+    font-size:17px;
+    font-weight:700
+  }
+
+  .plan-content ul{
+    padding:0 0 0 18px
+  }
+
+  .top-rated-burst{
+    top:44px;
+    right:-20px
+  }
+
+  .d-content .top-rated-burst{
+    top:58px;
+    right:-20px
+  }
+
+  #plan-options .well{
+    margin-bottom:16px
+  }
+
+  #plan-options.d-plans .well{
+    margin-bottom:0
+  }
+
+  #plan-options .d-content .well{
+    margin-bottom:38px
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:2px;
+    margin-bottom:2px
+  }
+
+  #plan-options.d-plans h2{
+    font-size:27px
+  }
+
+  #plan-options .d-content .bg-gray-lighter h2,#plan-options .d-content .bg-mint h2{
+    margin-top:12px;
+    margin-bottom:38px
+  }
+
+  #plan-options .uy-plus-padding.bg-gray-lighter h2,#plan-options .uy-plus-padding.bg-mint h2{
+    margin-top:-20px;
+    margin-bottom:17px
+  }
+
+  #plan-options p.center-details{
+    margin-left:0;
+    margin-bottom:10px;
+    margin-top:0
+  }
+
+  #plan-options ul.center-details{
+    margin-right:0
+  }
+
+  #plan-options .bg-gray-lighter h2,#plan-options .bg-mint h2{
+    margin-top:9px
+  }
+
+  .d-content .uy h2{
+    margin-top:-9px;
+    margin-bottom:23px
+  }
+
+  .core-margin .bg-gray-lighter h2,.core-margin .bg-mint h2{
+    margin-top:32px
+  }
+
+  .plan .starting-at{
+    font-size:18px;
+    font-family:futura-pt,Arial,Helvetica,sans-serif;
+    text-transform:lowercase;
+    font-weight:400;
+    color:#666;
+    padding:9px 0 0;
+    letter-spacing:1px;
+    line-height:20px
+  }
+
+  .plan .amount,.plan sup,.plan-content p sup{
+    font-weight:400;
+    font-family:futura-pt,arial,sans-serif
+  }
+
+  .plan .amount{
+    font-size:52px;
+    letter-spacing:-2px;
+    line-height:64px;
+    text-align:left;
+    color:#4c4c4c
+  }
+
+  .plan sup{
+    font-size:31px;
+    top:-13px;
+    color:#4c4c4c;
+    letter-spacing:.25px
+  }
+
+  .plan .dollarSignCents sup{
+    font-size:26px;
+    top:-14px
+  }
+
+  .plan .a-day{
+    display:block;
+    font-size:24px;
+    line-height:31px;
+    width:123px;
+    color:#666;
+    font-family:futura-pt,arial sans-serif;
+    text-transform:uppercase;
+    font-weight:400;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    margin:0 auto
+  }
+
+  .d-content .plan .a-day{
+    width:187px;
+    margin:0 0 17px 30px
+  }
+
+  .plan-content p sup{
+    font-size:9px;
+    top:-9px
+  }
+
+  #plan-options .mobile-btn{
+    position:absolute;
+    left:60px;
+    top:-65px
+  }
+
+  .well p{
+    font-size:18px;
+    letter-spacing:0;
+    margin-bottom:10px
+  }
+
+  .doyo-plan p.text-blue-darker,.doyo-plan p.text-green{
+    margin:30px auto 12px
+  }
+
+  .four-week-plan{
+    margin-top:18px
+  }
+
+  .four-week-plan .h4{
+    line-height:30px;
+    font-size:28px
+  }
+
+  .four-week-plan li{
+    line-height:22px
+  }
+
+  .balanced-nutrition{
+    border-left:2px solid #ccc;
+    margin:20px 0
+  }
+
+  .bg-diabetes .balanced-nutrition{
+    border-right:2px solid #ccc;
+    border-left:0;
+    margin:0
+  }
+
+  .balanced-nutrition .h4{
+    margin:0 0 5px 25px
+  }
+
+  .bg-diabetes .balanced-nutrition .h4{
+    margin:0 0 15px 25px;
+    font-size:26px;
+    font-weight:400
+  }
+
+  .bg-diabetes .four-week-plan{
+    margin-top:0
+  }
+
+  .bg-diabetes .four-week-plan .h5{
+    margin:0 0 15px 25px
+  }
+
+  .bg-diabetes .four-week-plan ul{
+    margin-left:25px
+  }
+
+  .balanced-nutrition ul{
+    margin:0 0 0 25px
+  }
+
+  .bg-diabetes .balanced-nutrition ul{
+    margin:0 25px 0 25px
+  }
+
+  #other-plans{
+    margin-bottom:15px
+  }
+
+  #other-plans .h3{
+    padding-top:0
+  }
+
+  #other-plans p{
+    font-size:16px;
+    margin-bottom:44px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:52px
+  }
+
+  #other-plans.mens-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:90px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:57px
+  }
+
+  #other-plans.mens-plans a.mobile-btn.veg-cta{
+    left:100px
+  }
+
+  .diabetes,.mens,.vegetarian{
+    margin-bottom:30px
+  }
+
+  .four-plan-padding .well{
+    border-top:20px solid #fff
+  }
+
+  .four-plan-padding .well:hover{
+    border-top:20px solid #fff
+  }
+
+  .list-plus>li{
+    position:relative;
+    padding:0 0 0 11px;
+    margin-bottom:12px
+  }
+
+  .list-plus{
+    list-style:none;
+    text-align:left
+  }
+
+  .list-plus>li::before{
+    content:'+';
+    font-weight:700;
+    color:#64a535;
+    position:absolute;
+    top:0;
+    left:0;
+    width:18px;
+    height:20px;
+    background:0
+  }
+
+  .list-plus.mens-plus>li::before{
+    color:#0b3254
+  }
+
+  .d-content .list-plus>li::before{
+    color:#009cdb
+  }
+
+  #plan-options .text-medium li{
+    font-size:13px;
+    text-align:left
+  }
+
+  .mbg-gold-logo-container p.mbg-text{
+    font-size:.62em;
+    display:inline-block
+  }
+
+  .uyp-new-flag{
+    position:relative;
+    float:right;
+    top:0;
+    font-size:13px;
+    font-weight:700;
+    padding:1px 12px 1px;
+    width:150px;
+    height:20px;
+    letter-spacing:.05em;
+    text-align:center
+  }
+
+  .d-plans .uyp-new-flag{
+    background-color:#cbe8f5;
+    width:150px
+  }
+
+  .d-plans .uyp-new-flag.top-rated{
+    width:150px
+  }
+
+  #other-plans .col-sm-12{
+    margin-bottom:-28px
+  }
+
+  .ul-support-burst{
+    position:absolute;
+    border-radius:50%;
+    height:140px;
+    width:140px;
+    top:317px;
+    left:-8px;
+    padding-top:5px
+  }
+
+  .ul-support-burst h3,.ul-support-burst p{
+    transform:rotate(-15deg)
+  }
+
+  .ul-support-burst h3{
+    font-size:20px;
+    position:relative;
+    left:-1px;
+    top:-9px
+  }
+
+  #plan-options .basic-plan .well p.lead{
+    margin-bottom:35px
+  }
+
+  #plan-options.d-plans .basic-plan .well p.lead{
+    margin-bottom:44px
+  }
+
+  #plan-options .uy-plus .well p.lead{
+    margin-bottom:10px
+  }
+
+  #plan-options .uy .well p.lead{
+    margin-bottom:10px
+  }
+
+  #plan-options.d-plans .uy .well p.lead{
+    margin-bottom:44px
+  }
+
+  #plan-options.mens-plans .basic-plan .well p.lead{
+    margin-bottom:44px
+  }
+}
+
+@media(min-width:1200px){
+  .four-week-plan{
+    margin-top:0;
+    padding-right:40px
+  }
+
+  .balanced-nutrition{
+    margin:0 0 20px 0
+  }
+
+  .four-week-plan .h4{
+    margin-top:0
+  }
+
+  #other-plans.mens-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:145px
+  }
+
+  #other-plans .mobile-btn{
+    position:absolute;
+    top:-55px;
+    left:82px
+  }
+
+  #other-plans a.mobile-btn.veg-cta{
+    left:85px
+  }
+
+  #other-plans.mens-plans a.mobile-btn.veg-cta{
+    left:145px
+  }
+
+  #other-plans p{
+    font-size:18px
+  }
+
+  #plan-options .uy .well p.lead{
+    margin-bottom:34px
+  }
+
+  #plan-options.d-plans .uy-plus .well p.lead{
+    margin-bottom:24px
+  }
+
+  #plan-options.d-plans .basic-plan .well p.lead{
+    margin-bottom:20px
+  }
+
+  #plan-options.d-plans .uy .well p.lead{
+    margin-bottom:20px
+  }
+
+  #plan-options.mens-plans .basic-plan .well p.lead{
+    margin-bottom:32px
+  }
+
+  #plan-options.mens-plans .uy .well p.lead{
+    margin-bottom:32px
+  }
+
+  #plan-options.mens-plans .uy-plus .well p.lead{
+    margin-bottom:8px
+  }
+}
+
+.faq .panel-heading.accordion .panel-title a:after{
+  top:12px
+}
+
+.faq h2,.faq img.faq-icon{
+  display:inline-block;
+  vertical-align:text-top
+}
+
+.faq img.faq-icon{
+  width:47px;
+  height:45px;
+  margin:3px 15px 0 15px
+}
+
+.faq h2{
+  margin:0 0 30px;
+  width:70%;
+  font-size:1.875em
+}
+
+@media(max-width:320px){
+  .faq h2{
+    width:65%
+  }
+}
+
+@media(min-width:768px){
+  .faq h3.panel-title{
+    font-size:1.6em;
+  }
+
+  .faq{
+    margin-top:50px;
+    margin-bottom:20px
+  }
+
+  .faq h2{
+    margin:0 0 30px;
+    width:auto
+  }
+
+  .faq .panel-body{
+    padding:15px 30px
+  }
+
+  .faq .panel-heading.accordion .panel-title a:after{
+    top:16px
+  }
+}
+

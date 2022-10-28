@@ -1,0 +1,186 @@
+.filters .checkbox {
+    margin-bottom: 20px
+}
+
+.filters .checkbox input[type="checkbox"] {
+    position: absolute;
+    left: 0;
+    top: 3px;
+    line-height: 1;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -2px 0 0 0
+}
+
+.filters .checkbox label {
+    padding-left: 30px;
+    font-size: 16px
+}
+
+.filters .filters .checkbox label.text-gray input[type="checkbox"] {
+    border: 1px solid #e6e6e6
+}
+
+.filters .filter-chosen a {
+    display: inline-block;
+    float: left;
+    margin: 0 20px 0 0;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 44px
+}
+
+.filters .filter-chosen a .glyphicon {
+    margin-right: 2px;
+    color: #00598a;
+    font-size: 14px
+}
+
+.filters .filter-chosen a:hover {
+    color: #366987
+}
+
+.filters .filter-checkboxes {
+    margin-bottom: 15px;
+    margin-top: 15px
+}
+
+.filters .filter-checkboxes form {
+    padding: 0
+}
+
+.filters .filter-checkboxes .section-label {
+    margin-bottom: 0;
+    font-weight: bold;
+    line-height: 1
+}
+
+.filters .filter-checkboxes .note {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 12px
+}
+
+.filter-by-trigger:after {
+    content: "\e260";
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    left: 4px
+}
+
+.filter-by-trigger.collapsed:after {
+    content: "\e259"
+}
+
+.filters .top-rated-select .form-group {
+    margin-bottom: 0
+}
+
+.filterPadLeft {
+    padding-left: 0
+}
+
+.filters .top-rated-select .form-control {
+    width: 157px;
+    font-size: 17px;
+}
+
+@media (max-width: 767px) {
+    .filters .filter-checkboxes {
+        border-bottom: 1px solid #ccc;
+        border-top: 1px solid #ccc;
+        padding: 18px 0;
+        margin-bottom: 15px;
+        margin-top: 15px
+    }
+
+    .filters .filter-options {
+        margin-bottom: 15px
+    }
+
+    .filters .filter-options .btn-info {
+        padding: 8px 0
+    }
+
+    .filters .filter-by {
+        margin: 26px 52px 0 -23px
+    }
+
+    .filters .checkbox label {
+        font-size: 14px
+    }
+
+    #grid-toggle {
+        padding: 10px 0;
+        margin-top: 20px;
+        float: right;
+        width: 44px;
+        position: absolute;
+        bottom: 0;
+        right: 15px
+    }
+
+    .product:first-child,
+    .product.col-xs-6:nth-child(2) {
+        border-top: 0;
+        padding-top: 15px;
+        margin-top: 0
+    }
+
+    .product.col-xs-6 {
+        min-height: 461px
+    }
+
+    .btn-block-mobile {
+        display: block;
+        margin-left: 29px;
+        margin-top: 36px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 360px) {
+    .filters .top-rated-select .form-control {
+        width: 150px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    .filters .top-rated-select .form-control {
+        width: 130px;
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 768px) {
+    .filters .top-rated-select .form-control {
+        width: 159px;
+        font-size: 18px;
+    }
+
+    .filters .top-rated-select {
+        text-align: right;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .filters .filter-chosen a {
+        margin-bottom: 0
+    }
+}
+
+@media (min-width: 992px) {
+    .filters .filter-chosen {
+        margin-top: 7px
+    }
+}
